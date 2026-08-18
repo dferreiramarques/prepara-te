@@ -1,0 +1,16 @@
+{
+  "years": [
+    { "id": "5", "label": "5º ano" },
+    { "id": "6", "label": "6º ano" }
+  ],
+  "subjects": [
+    { "id": "matematica", "label": "Matemática" },
+    { "id": "portugues", "label": "Português" },
+    { "id": "ciencias-naturais", "label": "Ciências Naturais" },
+    { "id": "hgp", "label": "História e Geografia de Portugal" },
+    { "id": "ingles", "label": "Inglês" }
+  ],
+  "decks": [
+    { "year": "5", "subject": "matematica", "file": "data/5/matematica.json" }
+  ]
+}
