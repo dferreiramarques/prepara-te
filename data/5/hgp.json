@@ -1,0 +1,904 @@
+{
+  "cards": [
+    {
+      "id": "hgp001",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Pontos cardeais",
+      "question": "Quais são os quatro pontos cardeais?",
+      "answer": "Norte, Sul, Este (Leste) e Oeste",
+      "explanation": "Os pontos colaterais (Nordeste, Noroeste, Sudeste, Sudoeste) situam-se entre dois pontos cardeais e ajudam a localizar com maior precisão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp002",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Pontos colaterais",
+      "question": "Como se chama o ponto que fica entre o Norte e o Este?",
+      "answer": "Nordeste",
+      "explanation": "Os pontos colaterais resultam da divisão do espaço entre dois pontos cardeais vizinhos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp003",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Rosa dos ventos",
+      "question": "Como se chama o instrumento que representa os pontos cardeais e colaterais num mapa?",
+      "answer": "Rosa dos ventos",
+      "explanation": "A rosa dos ventos ajuda a orientar quem lê o mapa, indicando para onde fica cada direção.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp004",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Elementos do mapa",
+      "question": "Para que serve a legenda de um mapa?",
+      "answer": "Para explicar o significado dos símbolos e cores usados no mapa",
+      "explanation": "Sem legenda não seria possível compreender o que representam as cores e os símbolos desenhados no mapa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp005",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Elementos do mapa",
+      "question": "Para que serve a escala de um mapa?",
+      "answer": "Para relacionar as distâncias no mapa com as distâncias reais no terreno",
+      "explanation": "A escala permite calcular, por exemplo, quantos quilómetros reais correspondem a um centímetro desenhado no mapa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp006",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Representações da superfície terrestre",
+      "question": "Como se chama a representação da Terra em forma de esfera?",
+      "answer": "Globo (ou globo terrestre)",
+      "explanation": "O globo é a representação mais fiel à forma real da Terra, ao contrário dos mapas planos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp007",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Representações da superfície terrestre",
+      "question": "Como se chama a representação de toda a superfície da Terra num plano?",
+      "answer": "Planisfério",
+      "explanation": "O planisfério \"abre\" a esfera terrestre numa superfície plana, o que provoca algumas deformações no desenho.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp008",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Representações da superfície terrestre",
+      "question": "Como se chama a representação de um espaço pequeno, como uma sala ou um bairro, vista de cima?",
+      "answer": "Planta",
+      "explanation": "A planta é usada para espaços reduzidos, como a planta de uma casa ou de uma escola.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp009",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Elementos geométricos da esfera terrestre",
+      "question": "Como se chama a linha imaginária que divide a Terra em hemisfério Norte e hemisfério Sul?",
+      "answer": "Equador",
+      "explanation": "O equador é o paralelo de maior circunferência e serve de referência para medir as latitudes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp010",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Elementos geométricos da esfera terrestre",
+      "question": "O que são os meridianos?",
+      "answer": "Linhas imaginárias que vão de polo a polo, na vertical",
+      "explanation": "O Meridiano de Greenwich é o meridiano principal, usado como referência para contar as longitudes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp011",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Elementos geométricos da esfera terrestre",
+      "question": "O que são os paralelos?",
+      "answer": "Linhas imaginárias, paralelas ao equador, que dão a volta à Terra na horizontal",
+      "explanation": "Os paralelos ficam cada vez mais pequenos à medida que se aproximam dos polos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp012",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Trópicos",
+      "question": "Como se chamam os dois paralelos situados entre o equador e os círculos polares, um no hemisfério Norte e outro no hemisfério Sul?",
+      "answer": "Trópico de Câncer e Trópico de Capricórnio",
+      "explanation": "Estes paralelos marcam os limites da zona intertropical, a região da Terra com temperaturas mais elevadas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp013",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Continentes",
+      "question": "Quantos continentes existem na Terra?",
+      "answer": "Sete",
+      "explanation": "São eles a Europa, a Ásia, a África, a América do Norte, a América do Sul, a Oceânia e a Antártida.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp014",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Oceanos",
+      "question": "Qual é o maior oceano do mundo?",
+      "answer": "Oceano Pacífico",
+      "explanation": "O Oceano Pacífico é tão extenso que ocupa cerca de um terço da superfície total da Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp015",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Localização de Portugal",
+      "question": "Em que continente se localiza Portugal?",
+      "answer": "Europa",
+      "explanation": "Portugal fica no extremo sudoeste da Europa, ocupando parte da Península Ibérica.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp016",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Localização de Portugal",
+      "question": "Portugal partilha a Península Ibérica com que país?",
+      "answer": "Espanha",
+      "explanation": "A Península Ibérica é ocupada apenas por dois países: Portugal e Espanha.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp017",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Portugal insular",
+      "question": "Além do território continental, que dois arquipélagos fazem parte de Portugal?",
+      "answer": "Açores e Madeira",
+      "explanation": "Estes arquipélagos localizam-se no Oceano Atlântico e formam aquilo a que se chama Portugal insular.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp018",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Hidrografia",
+      "question": "Qual é o maior rio da Península Ibérica?",
+      "answer": "Rio Tejo",
+      "explanation": "O Tejo nasce em Espanha e desagua em Portugal, na cidade de Lisboa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp019",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Relevo do litoral",
+      "question": "Como se chama o desgaste da costa provocado pela ação das ondas do mar?",
+      "answer": "Erosão marinha",
+      "explanation": "A erosão marinha pode originar arribas, grutas e praias ao longo de muitos anos de ação da água do mar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp020",
+      "domain": "A Península Ibérica – localização e quadro natural",
+      "topic": "Clima",
+      "question": "Em que zona climática da Terra se situa Portugal?",
+      "answer": "Zona temperada",
+      "explanation": "Nesta zona as temperaturas não são nem muito elevadas nem muito baixas, havendo estações do ano bem distintas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp021",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Comunidades recoletoras",
+      "question": "Como se alimentavam as comunidades recoletoras?",
+      "answer": "Recolhendo frutos e raízes, caçando e pescando",
+      "explanation": "Estas comunidades não produziam os seus próprios alimentos, dependendo apenas do que a natureza lhes oferecia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp022",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Sedentarização",
+      "question": "O que significa \"sedentarização\"?",
+      "answer": "A fixação das comunidades num local, deixando de ser nómadas",
+      "explanation": "A sedentarização ocorreu quando os povos começaram a praticar a agricultura e a pastorícia, deixando de se deslocar constantemente à procura de alimento.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp023",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Comunidades agropastoris",
+      "question": "Que duas atividades caracterizam as comunidades agropastoris?",
+      "answer": "Agricultura e pastorícia",
+      "explanation": "Ao cultivar a terra e criar animais, estas comunidades passaram a produzir o seu próprio alimento, em vez de apenas o recolher.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp024",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Povos castrejos",
+      "question": "Como se chamavam os povoados fortificados, normalmente em locais altos, onde viviam algumas comunidades agropastoris na Península Ibérica?",
+      "answer": "Castros",
+      "explanation": "Os povos que viviam nestes povoados são conhecidos como povos castrejos e escolhiam locais altos para se defenderem melhor.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp025",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Povos castrejos",
+      "question": "Porque escolhiam os povos castrejos locais altos para construir os seus povoados?",
+      "answer": "Para se defenderem melhor de ataques",
+      "explanation": "A localização em altura permitia vigiar os arredores e dificultava o acesso de possíveis inimigos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp026",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Celtas",
+      "question": "De onde vieram os celtas que se instalaram na Península Ibérica?",
+      "answer": "Do centro da Europa",
+      "explanation": "Os celtas trouxeram novas técnicas, como o trabalho do ferro, e foram-se misturando com as populações locais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp027",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Fenícios",
+      "question": "Que atividade tornou os fenícios famosos na Antiguidade?",
+      "answer": "O comércio marítimo",
+      "explanation": "Os fenícios eram excelentes navegadores e fundaram diversas cidades costeiras para comerciar, como Gadir (atual Cádis).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp028",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Gregos",
+      "question": "Que povo da Antiguidade, conhecido pela sua cultura e pelas suas cidades-estado, também comerciou nas costas da Península Ibérica?",
+      "answer": "Os gregos",
+      "explanation": "Tal como os fenícios, os gregos criaram entrepostos comerciais junto ao litoral para trocar produtos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp029",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Cartagineses",
+      "question": "De que cidade do Norte de África eram originários os cartagineses que se instalaram na Península Ibérica?",
+      "answer": "Cartago",
+      "explanation": "Os cartagineses procuravam controlar o comércio e os recursos minerais da Península antes de serem derrotados pelos romanos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp030",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Romanização",
+      "question": "Como se chama o processo de adoção dos costumes, da língua e das leis dos romanos pelos povos conquistados?",
+      "answer": "Romanização",
+      "explanation": "A romanização foi lenta e profunda, sendo uma das razões pelas quais o português deriva do latim.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp031",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Herança romana",
+      "question": "Indica uma obra construída pelos romanos que ainda hoje se pode observar em Portugal.",
+      "answer": "Por exemplo, estradas, pontes, aquedutos ou templos (como o templo romano de Évora)",
+      "explanation": "Os romanos construíram uma vasta rede de estradas e outras obras públicas para facilitar as deslocações e o controlo do território.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp032",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Herança romana",
+      "question": "De que língua deriva o português?",
+      "answer": "Do latim",
+      "explanation": "O latim era a língua falada pelos romanos e espalhou-se por toda a Península Ibérica durante a romanização.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp033",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Cristianismo",
+      "question": "Que religião se espalhou pelo Império Romano e se tornou depois na sua religião oficial?",
+      "answer": "O Cristianismo",
+      "explanation": "Com o tempo, o Cristianismo passou de religião perseguida a religião oficial do Império Romano.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp034",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Era cristã",
+      "question": "O que significam as siglas \"a.C.\" e \"d.C.\" usadas para contar os anos?",
+      "answer": "Antes de Cristo e depois de Cristo",
+      "explanation": "A era cristã conta os anos a partir do nascimento de Jesus Cristo, tomado como ano de referência.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp035",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Muçulmanos",
+      "question": "Em que século chegaram os muçulmanos à Península Ibérica?",
+      "answer": "Século VIII (ano de 711)",
+      "explanation": "Os muçulmanos vieram do Norte de África e conquistaram rapidamente quase toda a Península Ibérica.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp036",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Muçulmanos",
+      "question": "De que continente eram originários os muçulmanos que invadiram a Península Ibérica?",
+      "answer": "África (Norte de África)",
+      "explanation": "Atravessaram o estreito de Gibraltar, que separa a Península Ibérica do Norte de África.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp037",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Convivência e conflito",
+      "question": "Durante o domínio muçulmano, cristãos e judeus podiam manter a sua religião, mas tinham de pagar o quê?",
+      "answer": "Um imposto especial",
+      "explanation": "Esta convivência entre religiões nem sempre foi pacífica, havendo também períodos de tensão e de conflito.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp038",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Herança muçulmana",
+      "question": "Indica uma palavra portuguesa de origem árabe.",
+      "answer": "Por exemplo, \"azeite\", \"alface\" ou \"almofada\"",
+      "explanation": "Muitas palavras portuguesas que começam por \"al\" têm origem árabe, herdada dos séculos de presença muçulmana na Península.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp039",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Herança muçulmana",
+      "question": "Que tipo de técnica agrícola, usada para regar os campos, foi desenvolvida pelos muçulmanos na Península Ibérica?",
+      "answer": "Sistemas de rega (irrigação), como as noras",
+      "explanation": "Os muçulmanos eram peritos em aproveitar a água, o que permitiu cultivar plantas como a laranjeira e o arroz.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp040",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Formação de Portugal",
+      "question": "Como se chamava o território, doado pelo rei de Leão, que deu origem a Portugal?",
+      "answer": "Condado Portucalense",
+      "explanation": "O Condado Portucalense situava-se aproximadamente entre os rios Minho e Tejo e foi o embrião do futuro reino de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp041",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Condado Portucalense",
+      "question": "Quem foi o primeiro Conde Portucalense, pai de D. Afonso Henriques?",
+      "answer": "D. Henrique de Borgonha",
+      "explanation": "D. Henrique recebeu o Condado Portucalense do rei de Leão e Castela, Afonso VI, por ter ajudado nas lutas contra os muçulmanos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp042",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "D. Afonso Henriques",
+      "question": "Quem foi o primeiro rei de Portugal?",
+      "answer": "D. Afonso Henriques",
+      "explanation": "D. Afonso Henriques era filho de D. Henrique de Borgonha e de D. Teresa, condes do território que deu origem a Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp043",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Batalha de S. Mamede",
+      "question": "Em que ano se travou a Batalha de S. Mamede?",
+      "answer": "1128",
+      "explanation": "Nesta batalha, D. Afonso Henriques venceu as tropas da sua mãe, D. Teresa, e do conde galego Fernão Peres de Trava.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp044",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Batalha de S. Mamede",
+      "question": "Que importância teve a Batalha de S. Mamede para a formação de Portugal?",
+      "answer": "Permitiu a D. Afonso Henriques assumir sozinho o governo do Condado Portucalense",
+      "explanation": "Foi um passo decisivo no caminho para a independência, pois D. Afonso Henriques deixou de depender da mãe para governar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp045",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Batalha de Ourique",
+      "question": "Segundo a tradição, em que batalha D. Afonso Henriques terá sido aclamado rei pelos seus soldados?",
+      "answer": "Batalha de Ourique",
+      "explanation": "A Batalha de Ourique, travada em 1139 contra os muçulmanos, tornou-se um episódio lendário na história de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp046",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Independência de Portugal",
+      "question": "Em que ano foi assinado o Tratado de Zamora, que reconheceu a independência de Portugal?",
+      "answer": "1143",
+      "explanation": "Neste tratado, o rei de Leão e Castela, Afonso VII, reconheceu D. Afonso Henriques como rei de Portugal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp047",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Independência de Portugal",
+      "question": "Quem reconheceu D. Afonso Henriques como rei de Portugal no Tratado de Zamora?",
+      "answer": "O rei de Leão e Castela, Afonso VII",
+      "explanation": "Este reconhecimento foi essencial para consolidar Portugal como reino independente e não apenas como um condado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp048",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Independência de Portugal",
+      "question": "Que outro reconhecimento importante, vindo de Roma em 1179, Portugal recebeu mais tarde?",
+      "answer": "O reconhecimento do Papa, através de uma bula papal",
+      "explanation": "Este documento do Papa Alexandre III confirmou D. Afonso Henriques como rei, dando maior legitimidade a Portugal perante os outros reinos cristãos da Europa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp049",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Povos pré-romanos",
+      "question": "Como se chamavam os povos que já habitavam a Península Ibérica antes da chegada de celtas, fenícios, gregos e cartagineses?",
+      "answer": "Povos indígenas ou pré-romanos (por exemplo, os iberos)",
+      "explanation": "Estes povos foram-se misturando com os que chegavam de fora, dando origem a novas culturas, como a dos celtiberos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp050",
+      "domain": "Península Ibérica: dos primeiros povos à formação de Portugal",
+      "topic": "Romanos na Península",
+      "question": "Quanto tempo durou, aproximadamente, a presença romana na Península Ibérica, desde a chegada até à queda do Império Romano do Ocidente?",
+      "answer": "Cerca de 600 anos",
+      "explanation": "Os romanos chegaram no século III a.C. e a sua influência manteve-se até ao século V d.C., quando caiu o Império Romano do Ocidente.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp051",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Grupos sociais medievais",
+      "question": "Quais eram os três grupos sociais principais na sociedade medieval portuguesa?",
+      "answer": "Clero, nobreza e povo",
+      "explanation": "Cada um destes grupos, também chamados \"estados\" ou \"ordens\", tinha funções e privilégios diferentes na sociedade.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp052",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Clero",
+      "question": "Qual era a principal função do clero na sociedade medieval?",
+      "answer": "Rezar e cuidar da vida religiosa das pessoas",
+      "explanation": "O clero era composto por bispos, padres e monges e tinha grande influência na educação e na cultura da época.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp053",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Nobreza",
+      "question": "Qual era a principal função da nobreza na sociedade medieval?",
+      "answer": "Guerrear e defender o reino",
+      "explanation": "Os nobres eram donos de terras e tinham por obrigação combater ao lado do rei quando necessário.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp054",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Povo",
+      "question": "Que grupo social medieval era responsável por trabalhar a terra e produzir bens?",
+      "answer": "O povo",
+      "explanation": "O povo era o grupo mais numeroso e incluía camponeses, artesãos e comerciantes, sustentando com o seu trabalho os outros grupos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp055",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Privilégios sociais",
+      "question": "Que grupos sociais medievais estavam isentos de pagar a maioria dos impostos?",
+      "answer": "O clero e a nobreza",
+      "explanation": "Ao contrário do povo, estes dois grupos privilegiados não pagavam a maior parte dos impostos, o que gerava desigualdades na sociedade.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp056",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Comunidade judaica",
+      "question": "Como se chamavam os bairros onde viviam as comunidades judaicas nas cidades medievais portuguesas?",
+      "answer": "Judiarias",
+      "explanation": "As judiarias eram bairros próprios, muitas vezes com sinagoga, onde os judeus mantinham a sua religião e os seus costumes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp057",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Comunidade muçulmana",
+      "question": "Como se chamavam os bairros onde viviam os muçulmanos nas cidades medievais portuguesas, depois da Reconquista cristã?",
+      "answer": "Mourarias",
+      "explanation": "Tal como acontecia com os judeus, os muçulmanos que ficaram em território cristão viviam em bairros próprios.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp058",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Atividades das comunidades judaica e muçulmana",
+      "question": "Que tipo de atividades se destacavam entre as comunidades judaica e muçulmana na Idade Média portuguesa?",
+      "answer": "Comércio, artesanato e ofícios especializados",
+      "explanation": "Muitos judeus dedicavam-se ao comércio e à cobrança de impostos, enquanto os muçulmanos se destacavam em ofícios como a olaria e a agricultura.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp059",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Concelhos",
+      "question": "Como se chamava a divisão administrativa medieval governada por um município local?",
+      "answer": "Concelho",
+      "explanation": "Os concelhos eram administrados por autoridades locais, com alguma autonomia em relação ao poder central do rei.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp060",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Cartas de foral",
+      "question": "O que era uma carta de foral?",
+      "answer": "Um documento que dava direitos e deveres a uma povoação",
+      "explanation": "A carta de foral era atribuída pelo rei ou por um senhor e definia, por exemplo, os impostos a pagar e os direitos dos moradores.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp061",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Cartas de foral",
+      "question": "Quem tinha o poder de atribuir uma carta de foral a uma povoação?",
+      "answer": "O rei (ou um senhor, como um nobre ou uma ordem religiosa)",
+      "explanation": "Ao atribuir um foral, o rei incentivava o povoamento e a organização de novas terras.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp062",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Feiras e mercados",
+      "question": "Para que serviam as feiras e os mercados medievais?",
+      "answer": "Para comprar, vender e trocar produtos",
+      "explanation": "As feiras realizavam-se periodicamente e atraíam comerciantes de várias regiões, contribuindo para o crescimento económico.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp063",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Crescimento económico",
+      "question": "Que atividade económica cresceu com o desenvolvimento das feiras e mercados na Idade Média?",
+      "answer": "O comércio",
+      "explanation": "O aumento do comércio favoreceu também o crescimento das vilas e cidades ao longo da Idade Média.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp064",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Fronteiras de Portugal",
+      "question": "Em que século ficaram praticamente fixadas as fronteiras de Portugal continental, tal como as conhecemos hoje?",
+      "answer": "Século XIII",
+      "explanation": "Com a conquista do Algarve aos muçulmanos, em 1249, D. Afonso III completou a Reconquista em território português.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp065",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Fronteiras de Portugal",
+      "question": "Que rei português completou a conquista do Algarve em 1249?",
+      "answer": "D. Afonso III",
+      "explanation": "Com esta conquista, Portugal deixou de ter fronteira com território muçulmano, fixando praticamente os seus limites atuais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp066",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Crise de 1383-85",
+      "question": "Em que ano morreu o rei D. Fernando, dando origem a uma grave crise de sucessão em Portugal?",
+      "answer": "1383",
+      "explanation": "D. Fernando não deixou herdeiros homens, apenas uma filha, D. Beatriz, o que gerou disputas pelo trono.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp067",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Causas da crise de 1383-85",
+      "question": "Com quem estava casada D. Beatriz, filha de D. Fernando, o que ameaçava a independência de Portugal?",
+      "answer": "Com o rei de Castela",
+      "explanation": "Muitos portugueses temiam que Portugal fosse anexado a Castela caso D. Beatriz e o seu marido subissem ao trono.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp068",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "D. João, Mestre de Avis",
+      "question": "Quem liderou a resistência portuguesa contra Castela durante a crise de 1383-85?",
+      "answer": "D. João, Mestre de Avis",
+      "explanation": "D. João, Mestre de Avis, era meio-irmão de D. Fernando e acabou por ser aclamado rei de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp069",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Nuno Álvares Pereira",
+      "question": "Quem foi o principal condestável que apoiou D. João, Mestre de Avis, na luta contra Castela?",
+      "answer": "Nuno Álvares Pereira",
+      "explanation": "Nuno Álvares Pereira liderou as tropas portuguesas em várias batalhas importantes, incluindo a de Aljubarrota.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp070",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Cortes de Coimbra",
+      "question": "O que se decidiu nas Cortes de Coimbra, em 1385?",
+      "answer": "A aclamação de D. João, Mestre de Avis, como rei de Portugal",
+      "explanation": "Nestas Cortes reuniram-se representantes do clero, da nobreza e do povo para decidir o futuro do reino.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp071",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "João das Regras",
+      "question": "Quem foi o jurista que defendeu, nas Cortes de Coimbra, o direito de D. João, Mestre de Avis, a ser rei?",
+      "answer": "João das Regras",
+      "explanation": "João das Regras apresentou argumentos legais para justificar que D. João, Mestre de Avis, tinha direito ao trono, afastando outros pretendentes.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp072",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Batalha de Aljubarrota",
+      "question": "Em que ano se travou a Batalha de Aljubarrota?",
+      "answer": "1385",
+      "explanation": "Nesta batalha, o exército português derrotou o exército de Castela, garantindo a independência de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp073",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Batalha de Aljubarrota",
+      "question": "Qual foi o resultado da Batalha de Aljubarrota para Portugal?",
+      "answer": "A vitória portuguesa e a garantia da independência",
+      "explanation": "A vitória em Aljubarrota consolidou D. João, Mestre de Avis, como rei e afastou definitivamente a ameaça castelhana.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp074",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Dinastia de Avis",
+      "question": "Como se chama a dinastia iniciada por D. João, Mestre de Avis, depois da crise de 1383-85?",
+      "answer": "Dinastia de Avis",
+      "explanation": "A Dinastia de Avis governou Portugal durante mais de dois séculos, incluindo o período das descobertas marítimas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp075",
+      "domain": "Portugal do século XIII a 1385",
+      "topic": "Crise de 1383-85",
+      "question": "Como ficou conhecido, na História de Portugal, o período de lutas entre 1383 e 1385?",
+      "answer": "Crise de 1383-1385 (ou Revolução de Avis)",
+      "explanation": "Este período ficou marcado pela defesa da independência de Portugal face às pretensões do rei de Castela ao trono português.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp076",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Motivações da Expansão",
+      "question": "Indica uma das razões que levaram os portugueses a lançar-se na Expansão marítima.",
+      "answer": "Por exemplo, procurar riquezas (ouro e especiarias), chegar diretamente à Índia ou espalhar o Cristianismo",
+      "explanation": "Estas motivações combinavam interesses económicos, religiosos e de prestígio para o reino de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp077",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Motivações da Expansão",
+      "question": "Por que razão os portugueses queriam chegar à Índia por via marítima?",
+      "answer": "Para comprar especiarias diretamente, sem pagar aos intermediários",
+      "explanation": "As especiarias, como a pimenta, eram muito valorizadas na Europa e chegavam através de vários intermediários que aumentavam o preço.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp078",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Infante D. Henrique",
+      "question": "Como ficou conhecido o Infante D. Henrique, por ter incentivado as viagens de descoberta?",
+      "answer": "Infante D. Henrique, o Navegador",
+      "explanation": "Apesar do nome, D. Henrique não navegava pessoalmente, mas organizava e financiava as expedições.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp079",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Infante D. Henrique",
+      "question": "Que cabo, no continente africano, foi ultrapassado pelos navegadores portugueses em 1434, durante o período do Infante D. Henrique?",
+      "answer": "Cabo Bojador",
+      "explanation": "Durante muito tempo, o Cabo Bojador foi considerado intransponível devido a lendas e ao receio dos marinheiros; foi Gil Eanes quem o conseguiu ultrapassar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp080",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Exploração da costa africana",
+      "question": "Que continente os portugueses foram explorando ao longo da costa durante o século XV?",
+      "answer": "África",
+      "explanation": "Os portugueses foram descendo a costa ocidental africana, estabelecendo feitorias para comerciar ao longo do caminho.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp081",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "D. João II",
+      "question": "Que rei português impulsionou fortemente a Expansão marítima na segunda metade do século XV?",
+      "answer": "D. João II",
+      "explanation": "D. João II ficou conhecido como o \"Príncipe Perfeito\" e apoiou expedições que se aproximaram cada vez mais do sul de África.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp082",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Bartolomeu Dias",
+      "question": "Que navegador português, ao serviço de D. João II, foi o primeiro europeu a contornar o extremo sul de África, em 1488?",
+      "answer": "Bartolomeu Dias",
+      "explanation": "Bartolomeu Dias contornou o Cabo das Tormentas, mais tarde renomeado Cabo da Boa Esperança, abrindo caminho para a rota marítima até à Índia.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp083",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Caravela",
+      "question": "Como se chamava o tipo de embarcação, leve e veloz, muito usada pelos portugueses nas viagens de descoberta?",
+      "answer": "Caravela",
+      "explanation": "A caravela tinha velas triangulares (latinas) que permitiam navegar mais próximo do vento, facilitando a exploração de costas desconhecidas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp084",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Astrolábio",
+      "question": "Para que servia o astrolábio, usado pelos navegadores portugueses?",
+      "answer": "Para calcular a posição dos navios através da observação dos astros",
+      "explanation": "O astrolábio media a altura do Sol ou das estrelas em relação ao horizonte, ajudando a calcular a latitude do navio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp085",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Bússola",
+      "question": "Para que servia a bússola nas viagens marítimas?",
+      "answer": "Para indicar a direção (o Norte)",
+      "explanation": "A bússola era essencial para os navegadores se orientarem em alto mar, longe da vista de terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp086",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Vasco da Gama",
+      "question": "Em que ano Vasco da Gama chegou à Índia pela primeira vez, por via marítima?",
+      "answer": "1498",
+      "explanation": "Esta viagem abriu a rota marítima entre a Europa e a Índia, contornando África, um dos grandes objetivos da Expansão portuguesa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp087",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Vasco da Gama",
+      "question": "A que cidade da Índia chegou Vasco da Gama em 1498?",
+      "answer": "Calecute",
+      "explanation": "A chegada a Calecute marcou o início do comércio direto entre Portugal e a Índia, sem depender de intermediários.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp088",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Pedro Álvares Cabral",
+      "question": "Em que ano Pedro Álvares Cabral chegou ao território que viria a ser o Brasil?",
+      "answer": "1500",
+      "explanation": "Cabral seguia rumo à Índia quando a sua frota se desviou e chegou às costas do atual Brasil.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp089",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Pedro Álvares Cabral",
+      "question": "Que navegador português é apontado como o responsável pela chegada dos europeus ao Brasil?",
+      "answer": "Pedro Álvares Cabral",
+      "explanation": "Cabral tomou posse do território em nome do rei de Portugal, D. Manuel I.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp090",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Fernão de Magalhães",
+      "question": "Que navegador, português de nascimento mas ao serviço de Espanha, comandou a expedição que realizou a primeira viagem de circum-navegação da Terra?",
+      "answer": "Fernão de Magalhães",
+      "explanation": "Magalhães morreu durante a viagem, nas Filipinas, mas parte da sua expedição concluiu a volta ao mundo em 1522, comandada por Sebastião Elcano.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp091",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Império português",
+      "question": "Indica um continente onde os portugueses estabeleceram feitorias ou colónias durante o século XVI.",
+      "answer": "Por exemplo, África, Ásia ou América (Brasil)",
+      "explanation": "O império português quinhentista era um vasto conjunto de territórios e postos comerciais espalhados por vários continentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp092",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Escravização",
+      "question": "Que prática injusta e desumana esteve associada à Expansão portuguesa, envolvendo a captura e venda de pessoas de África?",
+      "answer": "A escravização de pessoas africanas",
+      "explanation": "Milhares de africanos foram capturados e transportados à força para serem vendidos como escravos, sofrendo condições muito violentas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp093",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Submissão de povos",
+      "question": "De que forma a chegada dos portugueses afetou muitas vezes os povos que já viviam nos territórios explorados?",
+      "answer": "Foram dominados, submetidos ou obrigados a aceitar o comércio e a autoridade portuguesa",
+      "explanation": "A Expansão trouxe riqueza para Portugal, mas causou grande sofrimento e perda de liberdade a muitos povos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp094",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Estilo manuelino",
+      "question": "Como se chama o estilo artístico português, característico do tempo de D. Manuel I, decorado com motivos relacionados com o mar?",
+      "answer": "Estilo manuelino",
+      "explanation": "O estilo manuelino usa elementos como cordas, conchas e esferas armilares, inspirados nas viagens marítimas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp095",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Estilo manuelino",
+      "question": "Indica um monumento português construído no estilo manuelino.",
+      "answer": "Por exemplo, o Mosteiro dos Jerónimos ou a Torre de Belém",
+      "explanation": "Estes monumentos, em Lisboa, foram mandados construir para celebrar a riqueza trazida pelas descobertas marítimas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hgp096",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Crise sucessória de 1580",
+      "question": "Que acontecimento, em 1578, contribuiu para a crise sucessória de 1580 em Portugal?",
+      "answer": "A morte do rei D. Sebastião, na Batalha de Alcácer-Quibir, sem deixar herdeiros",
+      "explanation": "Como D. Sebastião não tinha filhos, a sucessão ao trono ficou em disputa, o que abriu caminho a Filipe II de Espanha.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hgp097",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "União Ibérica",
+      "question": "Como ficou conhecido o período em que Portugal e Espanha tiveram o mesmo rei, entre 1580 e 1640?",
+      "answer": "União Ibérica (ou Domínio Filipino)",
+      "explanation": "Durante este período, Portugal manteve leis e instituições próprias, mas partilhava o rei com Espanha.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp098",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Descontentamento com o domínio filipino",
+      "question": "Indica uma razão para o descontentamento dos portugueses com o domínio filipino.",
+      "answer": "Por exemplo, perda de colónias, aumento de impostos ou pouca presença do rei em Portugal",
+      "explanation": "Ao longo dos 60 anos de União Ibérica, cresceu o desagrado por Portugal ser governado a partir de Madrid, com pouca atenção aos seus interesses.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp099",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Restauração da Independência",
+      "question": "Em que data se deu a Restauração da Independência de Portugal?",
+      "answer": "1 de dezembro de 1640",
+      "explanation": "Um grupo de nobres portugueses tomou o Paço da Ribeira, em Lisboa, e aclamou D. João IV como novo rei de Portugal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hgp100",
+      "domain": "Portugal do século XV ao século XVII",
+      "topic": "Restauração da Independência",
+      "question": "Quem foi aclamado rei de Portugal após a Restauração da Independência em 1640?",
+      "answer": "D. João IV",
+      "explanation": "D. João IV, duque de Bragança, deu início à Dinastia de Bragança, que governou Portugal até ao início do século XX.",
+      "difficulty": "facil"
+    }
+  ]
+}

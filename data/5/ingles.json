@@ -1,0 +1,814 @@
+{
+  "cards": [
+    {
+      "id": "en001",
+      "domain": "Vocabulário",
+      "topic": "Família",
+      "question": "Como se diz \"irmã\" em inglês?",
+      "answer": "Sister",
+      "explanation": "\"Brother\" é irmão; no plural, \"siblings\" refere-se a irmãos e irmãs em conjunto.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en002",
+      "domain": "Vocabulário",
+      "topic": "Família",
+      "question": "Como se diz \"mãe\" em inglês?",
+      "answer": "Mother",
+      "explanation": "Em conversas informais usa-se muitas vezes \"mum\", no Reino Unido, ou \"mom\", nos Estados Unidos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en003",
+      "domain": "Vocabulário",
+      "topic": "Família",
+      "question": "Como se diz \"avô\" em inglês?",
+      "answer": "Grandfather",
+      "explanation": "De forma mais informal, um avô pode ser chamado \"grandpa\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en004",
+      "domain": "Vocabulário",
+      "topic": "Família Real Britânica",
+      "question": "Como se diz \"rei\" em inglês?",
+      "answer": "King",
+      "explanation": "A esposa do rei é a \"queen\" (rainha).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en005",
+      "domain": "Vocabulário",
+      "topic": "Família Real Britânica",
+      "question": "Como se diz \"príncipe\" em inglês?",
+      "answer": "Prince",
+      "explanation": "A filha do rei e da rainha chama-se \"princess\" (princesa).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en006",
+      "domain": "Vocabulário",
+      "topic": "Profissões",
+      "question": "Como se diz \"professor\" em inglês?",
+      "answer": "Teacher",
+      "explanation": "Ex.: \"My teacher is very kind.\" (O meu professor é muito simpático.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en007",
+      "domain": "Vocabulário",
+      "topic": "Profissões",
+      "question": "Como se diz \"médico\" em inglês?",
+      "answer": "Doctor",
+      "explanation": "Ex.: \"The doctor works at the hospital.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en008",
+      "domain": "Vocabulário",
+      "topic": "Profissões",
+      "question": "Como se diz \"bombeiro\" em inglês?",
+      "answer": "Firefighter",
+      "explanation": "Os bombeiros usam um camião vermelho chamado \"fire engine\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en009",
+      "domain": "Vocabulário",
+      "topic": "Descrição Física",
+      "question": "Como se diz \"alto\", para descrever uma pessoa, em inglês?",
+      "answer": "Tall",
+      "explanation": "O oposto de \"tall\" é \"short\" (baixo).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en010",
+      "domain": "Vocabulário",
+      "topic": "Descrição Física",
+      "question": "Como se diz \"cabelo loiro\" em inglês?",
+      "answer": "Blonde hair",
+      "explanation": "Outras cores comuns de cabelo são \"brown hair\" (castanho) e \"black hair\" (preto).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en011",
+      "domain": "Vocabulário",
+      "topic": "Vestuário",
+      "question": "Como se diz \"camisa\" em inglês?",
+      "answer": "Shirt",
+      "explanation": "Ex.: \"He is wearing a blue shirt.\" (Ele está a usar uma camisa azul.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en012",
+      "domain": "Vocabulário",
+      "topic": "Vestuário",
+      "question": "Como se diz \"sapatos\" em inglês?",
+      "answer": "Shoes",
+      "explanation": "Normalmente usa-se no plural, \"shoes\", porque falamos de um par; no singular, \"a shoe\" é apenas um sapato.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en013",
+      "domain": "Vocabulário",
+      "topic": "Vestuário",
+      "question": "Como se diz \"casaco\" em inglês?",
+      "answer": "Coat",
+      "explanation": "No inverno usamos um \"coat\" para termos calor.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en014",
+      "domain": "Vocabulário",
+      "topic": "Rotinas Diárias",
+      "question": "Como se diz \"tomar o pequeno-almoço\" em inglês?",
+      "answer": "Have breakfast",
+      "explanation": "Ex.: \"I have breakfast at eight o'clock.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en015",
+      "domain": "Vocabulário",
+      "topic": "Rotinas Diárias",
+      "question": "Como se diz \"ir para a escola\" em inglês?",
+      "answer": "Go to school",
+      "explanation": "Ex.: \"We go to school every day.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en016",
+      "domain": "Vocabulário",
+      "topic": "Rotinas Diárias",
+      "question": "Como se diz \"acordar\" em inglês?",
+      "answer": "Wake up",
+      "explanation": "Ex.: \"I wake up at seven o'clock every morning.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en017",
+      "domain": "Vocabulário",
+      "topic": "Alimentos e Refeições",
+      "question": "Como se diz \"almoço\" em inglês?",
+      "answer": "Lunch",
+      "explanation": "Ex.: \"We have lunch at school.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en018",
+      "domain": "Vocabulário",
+      "topic": "Alimentos e Refeições",
+      "question": "Como se diz \"fruta\" em inglês?",
+      "answer": "Fruit",
+      "explanation": "Ex.: \"An apple is a fruit.\" (Uma maçã é uma fruta.)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en019",
+      "domain": "Vocabulário",
+      "topic": "Alimentos e Refeições",
+      "question": "Como se diz \"legumes\" em inglês?",
+      "answer": "Vegetables",
+      "explanation": "Ex.: \"Carrots and broccoli are vegetables.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en020",
+      "domain": "Vocabulário",
+      "topic": "Tempos Livres",
+      "question": "Como se diz \"jogar futebol\" em inglês?",
+      "answer": "Play football",
+      "explanation": "Ex.: \"I play football with my friends on Saturdays.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en021",
+      "domain": "Vocabulário",
+      "topic": "Tempos Livres",
+      "question": "Como se diz \"ver televisão\" em inglês?",
+      "answer": "Watch TV",
+      "explanation": "Ex.: \"She watches TV after dinner.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en022",
+      "domain": "Vocabulário",
+      "topic": "Tempos Livres",
+      "question": "Como se diz \"andar de bicicleta\" em inglês?",
+      "answer": "Ride a bike",
+      "explanation": "Ex.: \"He rides his bike to school.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en023",
+      "domain": "Vocabulário",
+      "topic": "Números",
+      "question": "Como se diz o número 11 em inglês?",
+      "answer": "Eleven",
+      "explanation": "Depois de \"eleven\" vem \"twelve\" (12).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en024",
+      "domain": "Vocabulário",
+      "topic": "Números",
+      "question": "Como se diz o número 40 em inglês?",
+      "answer": "Forty",
+      "explanation": "Repara que se escreve \"forty\" e não \"fourty\", apesar de vir de \"four\".",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en025",
+      "domain": "Vocabulário",
+      "topic": "Números",
+      "question": "Como se diz o número 90 em inglês?",
+      "answer": "Ninety",
+      "explanation": "Os números das dezenas terminam em \"-ty\": sixty, seventy, eighty, ninety.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en026",
+      "domain": "Vocabulário",
+      "topic": "Cores",
+      "question": "Como se diz \"amarelo\" em inglês?",
+      "answer": "Yellow",
+      "explanation": "Ex.: \"The sun is yellow.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en027",
+      "domain": "Vocabulário",
+      "topic": "Cores",
+      "question": "Como se diz \"cor-de-rosa\" em inglês?",
+      "answer": "Pink",
+      "explanation": "Ex.: \"My bedroom walls are pink.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en028",
+      "domain": "Vocabulário",
+      "topic": "Dias da Semana",
+      "question": "Como se diz \"segunda-feira\" em inglês?",
+      "answer": "Monday",
+      "explanation": "Em inglês, os dias da semana escrevem-se sempre com letra maiúscula.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en029",
+      "domain": "Vocabulário",
+      "topic": "Dias da Semana",
+      "question": "Como se diz \"quinta-feira\" em inglês?",
+      "answer": "Thursday",
+      "explanation": "Cuidado com a ortografia: escreve-se \"Thursday\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en030",
+      "domain": "Vocabulário",
+      "topic": "Meses do Ano",
+      "question": "Como se diz \"janeiro\" em inglês?",
+      "answer": "January",
+      "explanation": "Tal como os dias da semana, os meses do ano escrevem-se com letra maiúscula em inglês.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en031",
+      "domain": "Vocabulário",
+      "topic": "Meses do Ano",
+      "question": "Como se diz \"fevereiro\" em inglês?",
+      "answer": "February",
+      "explanation": "Cuidado com a ortografia: tem um \"r\" antes do \"u\", \"Feb-ru-ary\".",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en032",
+      "domain": "Vocabulário",
+      "topic": "Material Escolar",
+      "question": "Como se diz \"lápis\" em inglês?",
+      "answer": "Pencil",
+      "explanation": "Ex.: \"I write with a pencil.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en033",
+      "domain": "Vocabulário",
+      "topic": "Material Escolar",
+      "question": "Como se diz \"régua\" em inglês?",
+      "answer": "Ruler",
+      "explanation": "Ex.: \"I use a ruler to draw a straight line.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en034",
+      "domain": "Vocabulário",
+      "topic": "Material Escolar",
+      "question": "Como se diz \"mochila\" em inglês?",
+      "answer": "Schoolbag",
+      "explanation": "Também se pode dizer \"backpack\", uma palavra muito usada nos Estados Unidos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en035",
+      "domain": "Vocabulário",
+      "topic": "Animais",
+      "question": "Como se diz \"cão\" em inglês?",
+      "answer": "Dog",
+      "explanation": "Ex.: \"My dog is very friendly.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en036",
+      "domain": "Vocabulário",
+      "topic": "Animais",
+      "question": "Como se diz \"peixe\" em inglês?",
+      "answer": "Fish",
+      "explanation": "Atenção: o plural de \"fish\" mantém-se igual, \"fish\", e não \"fishes\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en037",
+      "domain": "Vocabulário",
+      "topic": "Casa e Divisões",
+      "question": "Como se diz \"quarto\" em inglês?",
+      "answer": "Bedroom",
+      "explanation": "Ex.: \"My bedroom is on the first floor.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en038",
+      "domain": "Vocabulário",
+      "topic": "Casa e Divisões",
+      "question": "Como se diz \"cozinha\" em inglês?",
+      "answer": "Kitchen",
+      "explanation": "Ex.: \"My mother cooks dinner in the kitchen.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en039",
+      "domain": "Vocabulário",
+      "topic": "Festividades",
+      "question": "Como se diz \"árvore de Natal\" em inglês?",
+      "answer": "Christmas tree",
+      "explanation": "Ex.: \"We decorate the Christmas tree in December.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en040",
+      "domain": "Vocabulário",
+      "topic": "Festividades",
+      "question": "Como se diz \"caça aos ovos\", tradição da Páscoa, em inglês?",
+      "answer": "Egg hunt",
+      "explanation": "Na tradição britânica e americana, as crianças procuram ovos escondidos no jardim (\"Easter egg hunt\").",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en041",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbo To Be",
+      "question": "Como se completa a frase \"I ___ a student.\" com o verbo \"to be\"?",
+      "answer": "am",
+      "explanation": "O pronome \"I\" usa-se sempre com \"am\": \"I am a student.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en042",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbo To Be",
+      "question": "Como se completa a frase \"She ___ happy.\" com o verbo \"to be\"?",
+      "answer": "is",
+      "explanation": "Usa-se \"is\" com \"he\", \"she\" e \"it\": \"She is happy.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en043",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbo To Be",
+      "question": "Como se completa a frase \"They ___ friends.\" com o verbo \"to be\"?",
+      "answer": "are",
+      "explanation": "Usa-se \"are\" com \"we\", \"you\" e \"they\": \"They are friends.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en044",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbo To Be",
+      "question": "Qual é a forma negativa e contraída de \"is not\" no verbo \"to be\"?",
+      "answer": "isn't",
+      "explanation": "Ex.: \"He isn't at home.\" (Ele não está em casa.)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en045",
+      "domain": "Gramática Inglesa",
+      "topic": "Pronomes Pessoais",
+      "question": "Que pronome pessoal substitui o nome de um rapaz, como em \"Tom is tall\"?",
+      "answer": "He",
+      "explanation": "Ex.: \"Tom is tall. He is tall.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en046",
+      "domain": "Gramática Inglesa",
+      "topic": "Pronomes Pessoais",
+      "question": "Que pronome pessoal substitui o nome de uma menina, como em \"Ana is happy\"?",
+      "answer": "She",
+      "explanation": "Ex.: \"Ana is happy. She is happy.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en047",
+      "domain": "Gramática Inglesa",
+      "topic": "Pronomes Pessoais",
+      "question": "Que pronome pessoal se usa para substituir um objeto ou um animal, como \"the dog\"?",
+      "answer": "It",
+      "explanation": "Ex.: \"The dog is small. It is small.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en048",
+      "domain": "Gramática Inglesa",
+      "topic": "Artigos",
+      "question": "Qual é o artigo indefinido correto antes de \"apple\" (maçã)?",
+      "answer": "an",
+      "explanation": "Usa-se \"an\" antes de palavras que começam por som de vogal: \"an apple\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en049",
+      "domain": "Gramática Inglesa",
+      "topic": "Artigos",
+      "question": "Qual é o artigo indefinido correto antes de \"dog\"?",
+      "answer": "a",
+      "explanation": "Usa-se \"a\" antes de palavras que começam por som de consoante: \"a dog\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en050",
+      "domain": "Gramática Inglesa",
+      "topic": "Artigos",
+      "question": "Qual é o artigo definido em inglês, equivalente a \"o\", \"a\", \"os\" e \"as\" em português?",
+      "answer": "the",
+      "explanation": "\"The\" não muda com o género ou o número: \"the boy\", \"the girls\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en051",
+      "domain": "Gramática Inglesa",
+      "topic": "Plural dos Nomes",
+      "question": "Como se forma o plural regular de \"book\" (livro) em inglês?",
+      "answer": "books",
+      "explanation": "A maioria dos nomes forma o plural juntando \"-s\" ao singular.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en052",
+      "domain": "Gramática Inglesa",
+      "topic": "Plural dos Nomes",
+      "question": "Qual é o plural irregular de \"child\" (criança) em inglês?",
+      "answer": "children",
+      "explanation": "É um plural irregular; não se forma com \"-s\", como em \"childs\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en053",
+      "domain": "Gramática Inglesa",
+      "topic": "Plural dos Nomes",
+      "question": "Qual é o plural irregular de \"man\" (homem) em inglês?",
+      "answer": "men",
+      "explanation": "Tal como \"woman\" muda para \"women\" no plural, \"man\" muda para \"men\".",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en054",
+      "domain": "Gramática Inglesa",
+      "topic": "There is / There are",
+      "question": "Como se diz \"há um gato no jardim\" em inglês, usando \"there is\"?",
+      "answer": "There is a cat in the garden",
+      "explanation": "Usa-se \"there is\" quando o nome que vem a seguir está no singular.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en055",
+      "domain": "Gramática Inglesa",
+      "topic": "There is / There are",
+      "question": "Como se diz \"há três livros na mesa\" em inglês, usando \"there are\"?",
+      "answer": "There are three books on the table",
+      "explanation": "Usa-se \"there are\" quando o nome que vem a seguir está no plural.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en056",
+      "domain": "Gramática Inglesa",
+      "topic": "There is / There are",
+      "question": "Qual é a forma correta: \"There is two dogs\" ou \"There are two dogs\"?",
+      "answer": "There are two dogs",
+      "explanation": "Como \"two dogs\" está no plural, usa-se sempre \"there are\", nunca \"there is\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en057",
+      "domain": "Gramática Inglesa",
+      "topic": "Presente Simples",
+      "question": "Como se diz \"eu jogo futebol\" em inglês, no presente simples?",
+      "answer": "I play football",
+      "explanation": "Com \"I\", o verbo no presente simples fica igual ao infinitivo, sem terminação extra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en058",
+      "domain": "Gramática Inglesa",
+      "topic": "Presente Simples",
+      "question": "Como se completa a frase \"She ___ (play) the piano every day.\" no presente simples?",
+      "answer": "plays",
+      "explanation": "Na 3ª pessoa do singular (he/she/it), o verbo recebe \"-s\" no presente simples: play → plays.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en059",
+      "domain": "Gramática Inglesa",
+      "topic": "Presente Simples",
+      "question": "Como se completa a frase \"He ___ (watch) TV after school.\" no presente simples?",
+      "answer": "watches",
+      "explanation": "Verbos terminados em \"-ch\", \"-sh\", \"-s\" ou \"-x\" recebem \"-es\" na 3ª pessoa do singular: watch → watches.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en060",
+      "domain": "Gramática Inglesa",
+      "topic": "Presente Simples",
+      "question": "Como se completa a frase \"My mother ___ (study) English on Mondays.\" no presente simples?",
+      "answer": "studies",
+      "explanation": "Verbos terminados em consoante + \"y\" mudam o \"y\" para \"i\" antes de \"-es\": study → studies.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en061",
+      "domain": "Gramática Inglesa",
+      "topic": "Adjetivos Possessivos",
+      "question": "Como se diz \"o meu\" antes de um nome em inglês, como em \"o meu livro\"?",
+      "answer": "my",
+      "explanation": "Ex.: \"my book\" (o meu livro).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en062",
+      "domain": "Gramática Inglesa",
+      "topic": "Adjetivos Possessivos",
+      "question": "Como se diz \"o teu\" ou \"o seu\" antes de um nome em inglês, como em \"o teu cão\"?",
+      "answer": "your",
+      "explanation": "Ex.: \"your dog\" (o teu cão).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en063",
+      "domain": "Gramática Inglesa",
+      "topic": "Adjetivos Possessivos",
+      "question": "Como se diz \"dela\", referente a uma menina, antes de um nome em inglês, como em \"a mochila dela\"?",
+      "answer": "her",
+      "explanation": "Ex.: \"her schoolbag\" (a mochila dela). Para um rapaz usa-se \"his\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en064",
+      "domain": "Gramática Inglesa",
+      "topic": "Demonstrativos",
+      "question": "Como se diz \"este\" ou \"esta\" em inglês, para algo perto no singular, como em \"this book\"?",
+      "answer": "this",
+      "explanation": "\"This\" usa-se para objetos no singular que estão perto de quem fala.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en065",
+      "domain": "Gramática Inglesa",
+      "topic": "Demonstrativos",
+      "question": "Como se diz \"aquele\" ou \"aquela\" em inglês, para algo longe no singular, como em \"that house\"?",
+      "answer": "that",
+      "explanation": "\"That\" usa-se para objetos no singular que estão longe de quem fala.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en066",
+      "domain": "Gramática Inglesa",
+      "topic": "Demonstrativos",
+      "question": "Como se diz \"estes\" ou \"estas\" em inglês, para objetos no plural perto de quem fala?",
+      "answer": "these",
+      "explanation": "\"These\" é o plural de \"this\": \"these books\" (estes livros).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en067",
+      "domain": "Gramática Inglesa",
+      "topic": "Palavras Interrogativas",
+      "question": "Que palavra interrogativa em inglês se usa para perguntar sobre um lugar, equivalente a \"onde\"?",
+      "answer": "Where",
+      "explanation": "Ex.: \"Where is my pencil?\" (Onde está o meu lápis?)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en068",
+      "domain": "Gramática Inglesa",
+      "topic": "Palavras Interrogativas",
+      "question": "Que palavra interrogativa em inglês se usa para perguntar sobre uma pessoa, equivalente a \"quem\"?",
+      "answer": "Who",
+      "explanation": "Ex.: \"Who is that boy?\" (Quem é aquele rapaz?)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en069",
+      "domain": "Gramática Inglesa",
+      "topic": "Palavras Interrogativas",
+      "question": "Que palavra interrogativa em inglês se usa para perguntar sobre o modo, equivalente a \"como\"?",
+      "answer": "How",
+      "explanation": "Ex.: \"How are you?\" (Como estás?)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en070",
+      "domain": "Gramática Inglesa",
+      "topic": "Conectores",
+      "question": "Que palavra em inglês se usa para justificar uma preferência, equivalente a \"porque\", como em \"I like summer ___ it is warm\"?",
+      "answer": "because",
+      "explanation": "Ex.: \"I like summer because it is warm.\" (Gosto do verão porque está calor.)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en071",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Qual é o país da Europa onde o inglês é língua oficial e cuja capital é Londres?",
+      "answer": "Reino Unido",
+      "explanation": "Em inglês, o nome do país é \"United Kingdom\", muitas vezes abreviado para \"UK\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en072",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país da América do Norte tem o inglês como língua oficial e a maior economia do mundo?",
+      "answer": "Estados Unidos da América",
+      "explanation": "Em inglês, diz-se \"United States of America\", muitas vezes abreviado para \"USA\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en073",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país insular da Europa, vizinho do Reino Unido, tem o inglês e o gaélico como línguas oficiais?",
+      "answer": "Irlanda",
+      "explanation": "Em inglês, o nome do país é \"Ireland\"; não deve ser confundido com a \"Northern Ireland\" (Irlanda do Norte), que faz parte do Reino Unido.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en074",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país da Oceânia, conhecido pelos cangurus, tem o inglês como língua oficial?",
+      "answer": "Austrália",
+      "explanation": "Em inglês, o nome do país é \"Australia\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en075",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Capitais",
+      "question": "Qual é a capital do Reino Unido?",
+      "answer": "Londres",
+      "explanation": "Em inglês, diz-se \"London\"; é uma das cidades mais visitadas da Europa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en076",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Capitais",
+      "question": "Qual é a capital dos Estados Unidos da América?",
+      "answer": "Washington D.C.",
+      "explanation": "Não deve ser confundida com \"New York\", a cidade mais populosa dos Estados Unidos, mas que não é a capital.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en077",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Capitais",
+      "question": "Qual é a capital da Irlanda?",
+      "answer": "Dublin",
+      "explanation": "Dublin fica na costa leste da Irlanda, junto ao mar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en078",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Capitais",
+      "question": "Qual é a capital do Canadá?",
+      "answer": "Ottawa",
+      "explanation": "Muitos alunos confundem-na com \"Toronto\", que é a cidade mais populosa do Canadá, mas não é a capital.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en079",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Símbolos Nacionais",
+      "question": "Que flor é o símbolo nacional da Inglaterra?",
+      "answer": "Rosa",
+      "explanation": "Cada nação do Reino Unido tem uma flor símbolo: a Escócia tem o cardo e o País de Gales tem o narciso.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en080",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Símbolos Nacionais",
+      "question": "Como se chama a bandeira do Reino Unido, que junta as cruzes de Inglaterra, Escócia e Irlanda?",
+      "answer": "Union Jack",
+      "explanation": "A \"Union Jack\" combina a cruz de São Jorge, a cruz de Santo André e a cruz de São Patrício.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en081",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Família Real Britânica",
+      "question": "Como se chama, em inglês, o filho do rei ou da rainha do Reino Unido?",
+      "answer": "Prince",
+      "explanation": "A filha chama-se \"princess\"; em conjunto, os filhos do rei fazem parte da \"royal family\" (família real).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en082",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Família Real Britânica",
+      "question": "Em que país europeu existe atualmente uma família real muito conhecida, associada ao Castelo de Windsor?",
+      "answer": "Reino Unido",
+      "explanation": "O Castelo de Windsor é uma das residências oficiais da família real britânica.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en083",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Família Real Britânica",
+      "question": "Como se chama, em inglês, o palácio em Londres onde vive oficialmente o monarca britânico?",
+      "answer": "Buckingham Palace",
+      "explanation": "É também lá que acontece a famosa \"changing of the guard\" (troca da guarda).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en084",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tradições Britânicas",
+      "question": "Como se chama, em inglês, o autocarro vermelho de dois andares típico de Londres?",
+      "answer": "Double-decker bus",
+      "explanation": "\"Double\" significa duplo e \"decker\" refere-se aos andares (\"decks\") do autocarro.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en085",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tradições Britânicas",
+      "question": "Como se chama, em inglês, a cabine telefónica vermelha típica das ruas de Londres?",
+      "answer": "Red telephone box",
+      "explanation": "É um dos símbolos mais fotografados do Reino Unido, apesar de hoje em dia ser pouco usada para telefonar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en086",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tradições Britânicas",
+      "question": "Como se chama, em inglês, a torre com o famoso relógio junto ao Parlamento britânico, em Londres?",
+      "answer": "Big Ben",
+      "explanation": "Na verdade, \"Big Ben\" é o nome do sino dentro da torre, mas é usado para descrever a torre inteira.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en087",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tradições Britânicas",
+      "question": "Como se chama, em inglês, a tradição britânica de tomar chá com bolos e sanduíches a meio da tarde?",
+      "answer": "Afternoon tea",
+      "explanation": "É uma refeição ligeira típica do Reino Unido, servida normalmente entre as 15h e as 17h.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en088",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Em que país anglófono se celebra o \"Thanksgiving\" (Ação de Graças), com um grande jantar em família?",
+      "answer": "Estados Unidos da América",
+      "explanation": "O \"Thanksgiving\" é celebrado na quarta quinta-feira de novembro, com peru assado como prato principal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en089",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Que festividade anglófona se celebra a 31 de outubro, com crianças disfarçadas a pedir doces de porta em porta?",
+      "answer": "Halloween",
+      "explanation": "A expressão usada pelas crianças à porta é \"trick or treat\" (doce ou travessura).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en090",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Como se chama a festividade britânica celebrada a 5 de novembro com fogueiras e fogo de artifício, em memória de uma conspiração histórica?",
+      "answer": "Bonfire Night",
+      "explanation": "Também conhecida como \"Guy Fawkes Night\", recorda a tentativa falhada de explodir o Parlamento em 1605.",
+      "difficulty": "dificil"
+    }
+  ]
+}

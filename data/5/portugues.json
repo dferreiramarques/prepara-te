@@ -1,0 +1,1085 @@
+{
+  "generatedFor": "Português 5º ano — Aprendizagens Essenciais",
+  "cards": [
+    {
+      "id": "c001",
+      "domain": "Gramática",
+      "topic": "Nome comum",
+      "question": "O que é um nome (substantivo) comum?",
+      "answer": "Uma palavra que designa pessoas, animais, objetos, lugares ou ideias, sem identificar um ser específico",
+      "explanation": "Ex.: 'cão', 'cidade', 'alegria' são nomes comuns; diferem dos nomes próprios, que identificam um ser específico e se escrevem com maiúscula.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c002",
+      "domain": "Gramática",
+      "topic": "Nome próprio",
+      "question": "Qual é a diferença entre um nome comum e um nome próprio? Dá um exemplo de cada.",
+      "answer": "O nome comum designa qualquer elemento de uma classe (ex.: 'cidade'); o nome próprio identifica um ser específico e escreve-se com maiúscula (ex.: 'Lisboa')",
+      "explanation": "Os nomes próprios incluem também nomes de pessoas, países, rios ou marcas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c003",
+      "domain": "Gramática",
+      "topic": "Nome coletivo",
+      "question": "Como se chama o nome que, no singular, designa um conjunto de seres da mesma espécie? Dá um exemplo.",
+      "answer": "Nome coletivo; exemplo: 'cardume' (conjunto de peixes)",
+      "explanation": "Outros exemplos: 'matilha' (cães), 'enxame' (abelhas), 'floresta' (árvores).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c004",
+      "domain": "Gramática",
+      "topic": "Adjetivo",
+      "question": "O que é um adjetivo?",
+      "answer": "Uma palavra que atribui uma qualidade ou característica a um nome",
+      "explanation": "Ex.: na frase 'A casa azul', 'azul' é o adjetivo que qualifica o nome 'casa'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c005",
+      "domain": "Gramática",
+      "topic": "Grau comparativo do adjetivo",
+      "question": "Como se forma o grau comparativo de superioridade do adjetivo 'alto'?",
+      "answer": "'Mais alto (do) que'",
+      "explanation": "O comparativo de superioridade forma-se com 'mais + adjetivo + (do) que'; o de igualdade usa 'tão... como' e o de inferioridade 'menos... (do) que'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c006",
+      "domain": "Gramática",
+      "topic": "Grau superlativo absoluto sintético",
+      "question": "Qual é o superlativo absoluto sintético do adjetivo 'fácil'?",
+      "answer": "Facílimo",
+      "explanation": "O superlativo absoluto sintético usa muitas vezes um sufixo (-íssimo, -érrimo, -ílimo) em vez do advérbio 'muito' antes do adjetivo (superlativo absoluto analítico: 'muito fácil').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c007",
+      "domain": "Gramática",
+      "topic": "Verbo",
+      "question": "O que é um verbo?",
+      "answer": "Uma palavra que exprime uma ação, um estado ou um acontecimento, e que se flexiona em tempo, modo, pessoa e número",
+      "explanation": "Ex.: 'correr', 'ser', 'chover' são verbos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c008",
+      "domain": "Gramática",
+      "topic": "1ª conjugação",
+      "question": "A que conjugação pertencem os verbos terminados em '-ar' no infinitivo, como 'cantar'?",
+      "answer": "1ª conjugação",
+      "explanation": "As três conjugações verbais correspondem às terminações do infinitivo: -ar (1ª), -er (2ª), -ir (3ª).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c009",
+      "domain": "Gramática",
+      "topic": "2ª e 3ª conjugação",
+      "question": "A que conjugações pertencem os verbos 'comer' e 'partir', respetivamente?",
+      "answer": "'Comer' é da 2ª conjugação (-er) e 'partir' é da 3ª conjugação (-ir)",
+      "explanation": "A conjugação de um verbo identifica-se sempre pela terminação do infinitivo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c010",
+      "domain": "Gramática",
+      "topic": "Modo indicativo",
+      "question": "Indica três tempos verbais do modo indicativo.",
+      "answer": "Presente, pretérito perfeito e futuro (há também o pretérito imperfeito e o pretérito mais-que-perfeito)",
+      "explanation": "O modo indicativo exprime factos certos ou reais, ao contrário do conjuntivo (dúvida/desejo) ou do imperativo (ordem).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c011",
+      "domain": "Gramática",
+      "topic": "Presente do indicativo",
+      "question": "Qual é a forma correta do verbo 'fazer' na 3ª pessoa do singular do presente do indicativo?",
+      "answer": "Faz",
+      "explanation": "Eu faço, tu fazes, ele/ela faz, nós fazemos, vós fazeis, eles fazem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c012",
+      "domain": "Gramática",
+      "topic": "Pretérito perfeito",
+      "question": "Qual é a forma do verbo 'ir' na 1ª pessoa do singular do pretérito perfeito do indicativo?",
+      "answer": "Fui",
+      "explanation": "O verbo 'ir' é irregular; no pretérito perfeito conjuga-se: fui, foste, foi, fomos, fostes, foram.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c013",
+      "domain": "Gramática",
+      "topic": "Verbos regulares e irregulares",
+      "question": "O que distingue um verbo regular de um verbo irregular?",
+      "answer": "O verbo regular segue o modelo normal da sua conjugação em todas as formas; o irregular altera o radical ou as terminações em relação a esse modelo",
+      "explanation": "Ex.: 'cantar' é regular; 'fazer' é irregular (diz-se 'eu faço', e não 'eu fazo').",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c014",
+      "domain": "Gramática",
+      "topic": "Pronome pessoal",
+      "question": "O que é um pronome pessoal? Dá dois exemplos.",
+      "answer": "Uma palavra que substitui um nome, referindo-se às pessoas gramaticais; exemplos: 'eu', 'tu', 'ele', 'nós'",
+      "explanation": "Os pronomes pessoais variam consoante a pessoa gramatical (1ª, 2ª, 3ª) e o número (singular, plural).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c015",
+      "domain": "Gramática",
+      "topic": "Pronome possessivo",
+      "question": "Identifica o pronome possessivo na frase: 'Este livro é meu.'",
+      "answer": "'Meu'",
+      "explanation": "Os pronomes possessivos indicam a quem pertence algo: meu, teu, seu, nosso, vosso, e as suas flexões.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c016",
+      "domain": "Gramática",
+      "topic": "Pronome demonstrativo",
+      "question": "Identifica o pronome demonstrativo na frase: 'Aquele é o meu lápis.'",
+      "answer": "'Aquele'",
+      "explanation": "Os pronomes demonstrativos situam algo no espaço ou no tempo em relação às pessoas gramaticais: este/esse/aquele e as suas flexões.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c017",
+      "domain": "Gramática",
+      "topic": "Determinante artigo definido",
+      "question": "Quais são os artigos definidos da língua portuguesa?",
+      "answer": "O, a, os, as",
+      "explanation": "Os artigos definidos referem-se a um ser já conhecido ou identificado; os indefinidos (um, uma, uns, umas) referem-se a um ser não identificado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c018",
+      "domain": "Gramática",
+      "topic": "Determinante artigo indefinido",
+      "question": "Na frase 'Vi um passarinho no jardim', qual é o artigo indefinido?",
+      "answer": "'Um'",
+      "explanation": "'Um' introduz um ser não identificado especificamente (não se sabe qual passarinho).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c019",
+      "domain": "Gramática",
+      "topic": "Advérbio de negação",
+      "question": "Na frase 'Não fui à festa', a que classe de palavras pertence 'não'?",
+      "answer": "Advérbio (de negação)",
+      "explanation": "Os advérbios modificam o sentido de um verbo, adjetivo ou outro advérbio; 'não' é um advérbio de negação.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c020",
+      "domain": "Gramática",
+      "topic": "Advérbio de lugar",
+      "question": "Dá um exemplo de advérbio de lugar.",
+      "answer": "Por exemplo, 'aqui', 'ali', 'longe' ou 'perto'",
+      "explanation": "Os advérbios de lugar indicam onde ocorre a ação, tal como os de tempo indicam quando (ex.: 'hoje') e os de modo indicam como (ex.: 'depressa').",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c021",
+      "domain": "Gramática",
+      "topic": "Preposição",
+      "question": "O que é uma preposição? Dá um exemplo.",
+      "answer": "Uma palavra invariável que liga dois elementos da frase, estabelecendo uma relação entre eles; exemplo: 'de', 'para', 'com'",
+      "explanation": "Ex.: 'O livro de Ana está com o Pedro' — 'de' e 'com' são preposições.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c022",
+      "domain": "Gramática",
+      "topic": "Conjunção coordenativa copulativa",
+      "question": "Que tipo de conjunção é 'e' na frase 'Comprei pão e leite'?",
+      "answer": "Conjunção coordenativa copulativa",
+      "explanation": "As conjunções copulativas ligam elementos, somando ideias (e, nem); as adversativas opõem ideias (mas, porém).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c023",
+      "domain": "Gramática",
+      "topic": "Conjunção coordenativa adversativa",
+      "question": "Que tipo de conjunção é 'mas' na frase 'Estudei, mas não tive boa nota'?",
+      "answer": "Conjunção coordenativa adversativa",
+      "explanation": "As conjunções adversativas exprimem uma ideia de oposição ou contraste entre as partes da frase.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c024",
+      "domain": "Gramática",
+      "topic": "Interjeição",
+      "question": "O que é uma interjeição? Dá um exemplo.",
+      "answer": "Uma palavra ou expressão que exprime uma emoção ou sentimento repentino; exemplo: 'Ai!', 'Bravo!', 'Socorro!'",
+      "explanation": "As interjeições são normalmente seguidas de ponto de exclamação.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c025",
+      "domain": "Gramática",
+      "topic": "Frase declarativa",
+      "question": "Como se chama o tipo de frase usado para afirmar ou dar uma informação, terminando normalmente em ponto final?",
+      "answer": "Frase declarativa",
+      "explanation": "Ex.: 'O sol nasce a Este.' Os outros tipos são interrogativa (pergunta), exclamativa (emoção) e imperativa (ordem/pedido).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c026",
+      "domain": "Gramática",
+      "topic": "Frase interrogativa",
+      "question": "Que sinal de pontuação termina, tipicamente, uma frase interrogativa?",
+      "answer": "O ponto de interrogação (?)",
+      "explanation": "A frase interrogativa é usada para fazer uma pergunta, como em 'Onde vais?'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c027",
+      "domain": "Gramática",
+      "topic": "Frase exclamativa",
+      "question": "Que tipo de frase é usado para exprimir uma emoção forte, como surpresa ou alegria, terminando em ponto de exclamação?",
+      "answer": "Frase exclamativa",
+      "explanation": "Ex.: 'Que dia lindo!'",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c028",
+      "domain": "Gramática",
+      "topic": "Frase imperativa",
+      "question": "Que tipo de frase é 'Fecha a porta, por favor.'?",
+      "answer": "Frase imperativa",
+      "explanation": "A frase imperativa exprime uma ordem, um pedido ou um conselho.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c029",
+      "domain": "Gramática",
+      "topic": "Forma afirmativa e negativa",
+      "question": "Qual é a forma negativa da frase 'Eu gosto de fruta.'?",
+      "answer": "'Eu não gosto de fruta.'",
+      "explanation": "A forma negativa introduz um advérbio de negação (normalmente 'não'); a forma sem essa palavra é a afirmativa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c030",
+      "domain": "Gramática",
+      "topic": "Sujeito",
+      "question": "O que é o sujeito de uma frase? Identifica-o em 'O cão ladrou muito.'",
+      "answer": "É aquele/aquilo que pratica a ação ou de quem/do que se diz algo; nesta frase é 'O cão'",
+      "explanation": "O sujeito concorda em número e pessoa com o verbo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c031",
+      "domain": "Gramática",
+      "topic": "Sujeito subentendido",
+      "question": "Na frase 'Chegámos tarde à escola.', qual é o sujeito, mesmo não estando escrito?",
+      "answer": "'Nós' (sujeito subentendido/nulo)",
+      "explanation": "O sujeito subentendido não aparece explicitamente na frase, mas identifica-se pela desinência do verbo (aqui, a terminação '-ámos' indica 'nós').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c032",
+      "domain": "Gramática",
+      "topic": "Predicado",
+      "question": "O que é o predicado de uma frase?",
+      "answer": "É tudo aquilo que se diz acerca do sujeito, organizado à volta do verbo",
+      "explanation": "Na frase 'O cão ladrou muito', o predicado é 'ladrou muito'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c033",
+      "domain": "Gramática",
+      "topic": "Complemento direto",
+      "question": "Identifica o complemento direto em 'A Maria comeu uma maçã.'",
+      "answer": "'Uma maçã'",
+      "explanation": "O complemento direto completa o sentido do verbo sem preposição e responde à pergunta 'o quê?' feita ao verbo (comeu o quê? uma maçã).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c034",
+      "domain": "Gramática",
+      "topic": "Complemento indireto",
+      "question": "Identifica o complemento indireto em 'O pai ofereceu um livro ao filho.'",
+      "answer": "'Ao filho'",
+      "explanation": "O complemento indireto liga-se ao verbo através de preposição (a/para) e responde a 'a quem?' ou 'para quem?'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c035",
+      "domain": "Gramática",
+      "topic": "Sinónimos",
+      "question": "O que são sinónimos? Dá um exemplo de um sinónimo de 'contente'.",
+      "answer": "Palavras com significado igual ou muito semelhante; um sinónimo de 'contente' é 'feliz' (ou 'alegre')",
+      "explanation": "Os sinónimos ajudam a evitar repetições e a tornar o texto mais rico.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c036",
+      "domain": "Gramática",
+      "topic": "Antónimos",
+      "question": "O que são antónimos? Dá um exemplo de um antónimo de 'quente'.",
+      "answer": "Palavras com significado oposto; um antónimo de 'quente' é 'frio'",
+      "explanation": "Os antónimos são úteis, por exemplo, para expressar contraste ou comparação num texto.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c037",
+      "domain": "Gramática",
+      "topic": "Campo lexical",
+      "question": "O que é o campo lexical de uma palavra? Dá um exemplo relacionado com 'escola'.",
+      "answer": "O conjunto de palavras associadas ao mesmo tema ou ideia; do campo lexical de 'escola' fazem parte, por exemplo, 'professor', 'caderno' ou 'recreio'",
+      "explanation": "O campo lexical agrupa palavras pelo significado (tema), não pela forma.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c038",
+      "domain": "Gramática",
+      "topic": "Família de palavras",
+      "question": "O que é uma família de palavras? Dá três exemplos a partir de 'flor'.",
+      "answer": "O conjunto de palavras que partilham o mesmo radical; a partir de 'flor': 'florista', 'floresta', 'florido'",
+      "explanation": "Ao contrário do campo lexical (mesmo tema), a família de palavras baseia-se na forma (mesmo radical).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c039",
+      "domain": "Gramática",
+      "topic": "Prefixação",
+      "question": "Como se formou a palavra 'infeliz' a partir de 'feliz'?",
+      "answer": "Por prefixação, com o acréscimo do prefixo 'in-' antes da palavra",
+      "explanation": "O prefixo 'in-' costuma indicar negação, tal como em 'incapaz' ou 'incompleto'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c040",
+      "domain": "Gramática",
+      "topic": "Sufixação",
+      "question": "Como se formou a palavra 'felizmente' a partir de 'feliz'?",
+      "answer": "Por sufixação, com o acréscimo do sufixo '-mente' depois da palavra",
+      "explanation": "O sufixo '-mente', acrescentado a um adjetivo, forma normalmente um advérbio de modo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c041",
+      "domain": "Gramática",
+      "topic": "Divisão silábica",
+      "question": "Divide a palavra 'cadeira' em sílabas.",
+      "answer": "Ca-dei-ra",
+      "explanation": "'Cadeira' tem três sílabas: 'ca', 'dei' (ditongo 'ei') e 'ra'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c042",
+      "domain": "Gramática",
+      "topic": "Sílaba tónica",
+      "question": "O que é a sílaba tónica de uma palavra?",
+      "answer": "A sílaba pronunciada com mais intensidade (mais forte) do que as restantes",
+      "explanation": "Ex.: em 'ja-NE-la', a sílaba tónica é 'NE'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c043",
+      "domain": "Gramática",
+      "topic": "Classificação quanto à sílaba tónica",
+      "question": "Como se classifica uma palavra cuja sílaba tónica é a última, como 'café'?",
+      "answer": "Palavra aguda (oxítona)",
+      "explanation": "Se a sílaba tónica for a penúltima, a palavra é grave (ex.: 'mesa'); se for a antepenúltima, é esdrúxula (ex.: 'médico').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c044",
+      "domain": "Gramática",
+      "topic": "Acentuação de esdrúxulas",
+      "question": "Todas as palavras esdrúxulas levam acento gráfico?",
+      "answer": "Sim, todas",
+      "explanation": "É uma das regras de acentuação sem exceções em português: toda a palavra esdrúxula (proparoxítona) é sempre acentuada graficamente. Ex.: 'médico', 'público'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c045",
+      "domain": "Gramática",
+      "topic": "Til",
+      "question": "Para que serve o til (~) numa palavra como 'mão'?",
+      "answer": "Para indicar que a vogal (ou ditongo) é nasal",
+      "explanation": "O til marca a nasalidade da vogal sobre a qual é colocado, como em 'mãe', 'coração' ou 'órgão'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c046",
+      "domain": "Gramática",
+      "topic": "Vírgula em enumerações",
+      "question": "Como se separam os elementos de uma enumeração numa frase, como em 'Comprei maçãs, peras e uvas.'?",
+      "answer": "Por vírgulas (exceto antes do último elemento, que é normalmente ligado por 'e')",
+      "explanation": "A vírgula tem também outras funções, como isolar um vocativo ou uma expressão explicativa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c047",
+      "domain": "Gramática",
+      "topic": "Dois pontos no discurso direto",
+      "question": "Que sinal de pontuação se usa, tipicamente, antes de introduzir uma fala em discurso direto?",
+      "answer": "Os dois pontos (:)",
+      "explanation": "Ex.: A mãe disse: \"Vai lavar as mãos.\" Depois dos dois pontos, usa-se também o travessão para marcar a fala.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c048",
+      "domain": "Gramática",
+      "topic": "Travessão no discurso direto",
+      "question": "Para que serve o travessão (—) no discurso direto?",
+      "answer": "Para assinalar o início da fala de uma personagem",
+      "explanation": "Ex.: — Vou já! — respondeu o Pedro.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c049",
+      "domain": "Gramática",
+      "topic": "Discurso direto e indireto",
+      "question": "Passa para discurso indireto a frase em discurso direto: A Ana disse: \"Estou cansada.\"",
+      "answer": "A Ana disse que estava cansada.",
+      "explanation": "No discurso indireto, a fala é relatada por outra pessoa, sem aspas nem travessão, e há normalmente mudanças nos tempos verbais e nos pronomes.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c050",
+      "domain": "Gramática",
+      "topic": "Onomatopeia",
+      "question": "O que é uma onomatopeia? Dá um exemplo.",
+      "answer": "Uma palavra que imita um som da realidade; exemplo: 'miau', 'tique-taque', 'zum'",
+      "explanation": "As onomatopeias são muito usadas na banda desenhada e na poesia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c051",
+      "domain": "Gramática",
+      "topic": "Frase simples e complexa",
+      "question": "Qual é a diferença entre frase simples e frase complexa?",
+      "answer": "A frase simples tem apenas um verbo principal (um único predicado); a frase complexa tem duas ou mais orações",
+      "explanation": "Ex.: 'O cão correu.' é simples; 'O cão correu porque tinha fome.' é complexa (duas orações).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c052",
+      "domain": "Gramática",
+      "topic": "Concordância nome-adjetivo",
+      "question": "Corrige a concordância: 'As casas branco são bonitas.'",
+      "answer": "'As casas brancas são bonitas.'",
+      "explanation": "O adjetivo tem de concordar em género e número com o nome a que se refere: 'casas' (feminino plural) exige 'brancas'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c053",
+      "domain": "Gramática",
+      "topic": "Ortografia c/qu",
+      "question": "Antes de 'e' ou 'i', que letras se usam em conjunto para manter o som /k/, como em 'quero' ou 'aqui'?",
+      "answer": "'Qu'",
+      "explanation": "Antes de 'a', 'o' ou 'u', o som /k/ escreve-se normalmente com 'c' (ex.: 'casa', 'copo'); antes de 'e' ou 'i', usa-se 'qu' (ex.: 'quero', 'aqui').",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c054",
+      "domain": "Gramática",
+      "topic": "Ortografia g/gu",
+      "question": "Porque é que se escreve 'guerra' com 'u' depois do 'g'?",
+      "answer": "Porque antes de 'e' ou 'i', o 'u' é necessário para manter o som /g/ (senão o 'g' teria o som de 'j')",
+      "explanation": "Compara com 'gato' (som /g/ natural antes de 'a') e 'geada' (som /j/, sem 'u').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c055",
+      "domain": "Gramática",
+      "topic": "Ortografia s/ss",
+      "question": "Porque é que se escreve 'passar' com dois 's' e não com um?",
+      "answer": "Porque entre vogais, o 's' simples tem som de /z/; para manter o som /s/, usa-se 'ss'",
+      "explanation": "Compara 'casa' (som de /z/) com 'passar' (som de /s/, com dois s).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c056",
+      "domain": "Educação Literária",
+      "topic": "Géneros literários",
+      "question": "Quais são os três géneros literários principais?",
+      "answer": "Narrativo, lírico e dramático",
+      "explanation": "O narrativo conta histórias (contos, romances); o lírico exprime sentimentos, normalmente em verso (poesia); o dramático é escrito para ser representado (teatro).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c057",
+      "domain": "Educação Literária",
+      "topic": "Narrador",
+      "question": "O que é o narrador de uma história?",
+      "answer": "A entidade (fictícia) que conta a história",
+      "explanation": "O narrador não deve ser confundido com o autor, que é a pessoa real que escreveu o texto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c058",
+      "domain": "Educação Literária",
+      "topic": "Narrador na 1ª e 3ª pessoa",
+      "question": "Qual é a diferença entre um narrador na 1ª pessoa e um narrador na 3ª pessoa?",
+      "answer": "O narrador na 1ª pessoa participa na história como personagem (fala 'eu'); o narrador na 3ª pessoa conta a história de fora, sem ser personagem (fala 'ele/ela')",
+      "explanation": "A escolha do narrador influencia o que o leitor sabe sobre a história.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c059",
+      "domain": "Educação Literária",
+      "topic": "Personagem principal",
+      "question": "O que é a personagem principal de uma narrativa?",
+      "answer": "A personagem à volta de quem se desenrola a ação, normalmente presente ao longo de toda a história",
+      "explanation": "As personagens secundárias têm um papel menos central, mas ajudam a desenvolver a ação.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c060",
+      "domain": "Educação Literária",
+      "topic": "Espaço na narrativa",
+      "question": "O que é o espaço, num texto narrativo?",
+      "answer": "O lugar (ou lugares) onde a ação decorre",
+      "explanation": "Pode ser um espaço físico (ex.: uma floresta) ou também psicológico/social, consoante o que se descreve.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c061",
+      "domain": "Educação Literária",
+      "topic": "Tempo na narrativa",
+      "question": "O que se entende por 'tempo' numa narrativa?",
+      "answer": "A época e a duração em que decorre a ação da história",
+      "explanation": "O tempo pode ser cronológico (a época histórica, a hora, a estação) ou referir-se à ordem em que os factos são contados.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c062",
+      "domain": "Educação Literária",
+      "topic": "Ação/enredo",
+      "question": "O que é a ação (ou enredo) de uma narrativa?",
+      "answer": "O conjunto de acontecimentos que compõem a história, organizados numa sequência",
+      "explanation": "A ação inclui normalmente uma situação inicial, um problema (ou complicação) e um desfecho.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c063",
+      "domain": "Educação Literária",
+      "topic": "Fábula",
+      "question": "O que é uma fábula e que característica a distingue tipicamente?",
+      "answer": "Uma narrativa curta, geralmente com animais que falam e agem como pessoas, que termina normalmente com uma moral (um ensinamento)",
+      "explanation": "A moral resume, em poucas palavras, a lição que a fábula pretende transmitir.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c064",
+      "domain": "Educação Literária",
+      "topic": "Lenda",
+      "question": "O que é uma lenda?",
+      "answer": "Uma narrativa tradicional, transmitida de geração em geração, que mistura factos reais ou lugares conhecidos com elementos fantásticos ou maravilhosos",
+      "explanation": "Muitas lendas explicam a origem de um lugar, de um costume ou de um fenómeno.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c065",
+      "domain": "Educação Literária",
+      "topic": "Conto tradicional",
+      "question": "Que características tem, geralmente, um conto tradicional?",
+      "answer": "É uma narrativa breve, transmitida oralmente ao longo do tempo, com personagens-tipo (ex.: o rei, a bruxa) e uma moral ou lição implícita",
+      "explanation": "Os contos tradicionais têm normalmente uma estrutura simples: situação inicial, problema e resolução.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c066",
+      "domain": "Educação Literária",
+      "topic": "Verso",
+      "question": "O que é um verso, num poema?",
+      "answer": "Cada linha de um poema",
+      "explanation": "O conjunto de versos organiza-se, muitas vezes, em estrofes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c067",
+      "domain": "Educação Literária",
+      "topic": "Estrofe",
+      "question": "O que é uma estrofe?",
+      "answer": "Um conjunto de versos, separado de outros conjuntos por um espaço em branco",
+      "explanation": "Uma estrofe de quatro versos chama-se quadra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c068",
+      "domain": "Educação Literária",
+      "topic": "Rima",
+      "question": "O que é a rima, num poema?",
+      "answer": "A semelhança de sons entre as terminações de dois ou mais versos",
+      "explanation": "Ex.: 'flor' e 'amor' rimam, porque terminam com sons semelhantes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c069",
+      "domain": "Educação Literária",
+      "topic": "Rima emparelhada",
+      "question": "Como se chama o esquema de rima em que os versos rimam dois a dois (AABB)?",
+      "answer": "Rima emparelhada",
+      "explanation": "Outros esquemas comuns são a rima cruzada (ABAB) e a rima interpolada (ABBA).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c070",
+      "domain": "Educação Literária",
+      "topic": "Comparação",
+      "question": "Que recurso expressivo está presente em 'Os seus olhos eram como duas estrelas'?",
+      "answer": "A comparação",
+      "explanation": "A comparação aproxima duas realidades usando um termo comparativo (como, tal qual, semelhante a).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c071",
+      "domain": "Educação Literária",
+      "topic": "Personificação",
+      "question": "Que recurso expressivo está presente em 'O vento sussurrava segredos às árvores'?",
+      "answer": "A personificação",
+      "explanation": "A personificação atribui características ou ações humanas a seres não humanos (animais, objetos, forças da natureza).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c072",
+      "domain": "Educação Literária",
+      "topic": "Metáfora",
+      "question": "Que recurso expressivo está presente em 'Os seus olhos são duas estrelas'?",
+      "answer": "A metáfora",
+      "explanation": "Ao contrário da comparação, a metáfora não usa termo comparativo — identifica diretamente as duas realidades ('são', e não 'são como').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c073",
+      "domain": "Educação Literária",
+      "topic": "Onomatopeia (uso literário)",
+      "question": "Que recurso expressivo é usado quando um poema inclui a palavra 'tlim-tlim' para representar o som de um sino?",
+      "answer": "A onomatopeia",
+      "explanation": "A onomatopeia reproduz sons da realidade através da linguagem, tornando o texto mais expressivo e sonoro.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c074",
+      "domain": "Educação Literária",
+      "topic": "Repetição/anáfora",
+      "question": "Como se chama o recurso expressivo que consiste em repetir a mesma palavra ou expressão no início de vários versos?",
+      "answer": "Anáfora (um tipo de repetição)",
+      "explanation": "Este recurso reforça uma ideia e cria um efeito rítmico e de insistência no poema.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c075",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático - fala",
+      "question": "Num texto dramático (teatro), como se identifica quem fala em cada momento?",
+      "answer": "Através do nome da personagem, escrito antes da respetiva fala",
+      "explanation": "Este formato distingue o texto dramático do texto narrativo, onde a fala surge normalmente integrada no discurso do narrador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c076",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático - indicação cénica",
+      "question": "O que são as indicações cénicas (ou didascálias) num texto dramático?",
+      "answer": "Informações do autor sobre o cenário, os gestos, os movimentos ou o tom de voz das personagens, normalmente escritas entre parênteses",
+      "explanation": "Ajudam quem representa a peça a saber como se deve mover ou falar em cada momento.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c077",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático - ato e cena",
+      "question": "Num texto dramático, o que é um ato?",
+      "answer": "Cada uma das grandes partes em que a peça se divide",
+      "explanation": "Cada ato pode, por sua vez, dividir-se em cenas, que mudam normalmente quando entra ou sai uma personagem.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c078",
+      "domain": "Educação Literária",
+      "topic": "Banda desenhada - vinheta",
+      "question": "Como se chama cada uma das 'caixas' ou imagens que compõem uma banda desenhada?",
+      "answer": "Vinheta",
+      "explanation": "Um conjunto de vinhetas forma uma prancha (página) de banda desenhada.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c079",
+      "domain": "Educação Literária",
+      "topic": "Banda desenhada - balão",
+      "question": "Como se chama o elemento gráfico que contém as falas das personagens numa banda desenhada?",
+      "answer": "Balão de fala",
+      "explanation": "Existem também balões de pensamento, normalmente com contorno diferente (ex.: em forma de nuvem).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c080",
+      "domain": "Educação Literária",
+      "topic": "Provérbio",
+      "question": "O que é um provérbio? Dá um exemplo.",
+      "answer": "Uma frase curta e popular que transmite um ensinamento ou uma verdade da sabedoria popular; exemplo: 'Mais vale prevenir do que remediar.'",
+      "explanation": "Os provérbios transmitem-se, tradicionalmente, de forma oral, de geração em geração.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c081",
+      "domain": "Educação Literária",
+      "topic": "Adivinha",
+      "question": "O que é uma adivinha?",
+      "answer": "Um pequeno texto, muitas vezes em verso, que descreve algo de forma indireta para que o ouvinte descubra do que se trata",
+      "explanation": "As adivinhas fazem parte da tradição oral popular, tal como as lengalengas e os provérbios.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c082",
+      "domain": "Educação Literária",
+      "topic": "Lengalenga",
+      "question": "O que é uma lengalenga?",
+      "answer": "Um texto popular, de tradição oral, com repetições e rimas, muitas vezes usado em jogos infantis",
+      "explanation": "As lengalengas são fáceis de memorizar, precisamente por causa das repetições e do ritmo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c083",
+      "domain": "Educação Literária",
+      "topic": "Retrato literário",
+      "question": "O que é feito num retrato, como texto?",
+      "answer": "Descreve-se uma pessoa, tanto física (aspeto) como psicologicamente (personalidade, forma de ser)",
+      "explanation": "Um bom retrato costuma usar vários adjetivos para tornar a descrição mais rica.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c084",
+      "domain": "Educação Literária",
+      "topic": "Biografia",
+      "question": "O que é uma biografia?",
+      "answer": "O relato da vida de uma pessoa, escrito por outra pessoa",
+      "explanation": "Costuma seguir a ordem cronológica dos principais acontecimentos da vida dessa pessoa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c085",
+      "domain": "Educação Literária",
+      "topic": "Autobiografia",
+      "question": "O que é uma autobiografia e em que difere de uma biografia?",
+      "answer": "É o relato que uma pessoa faz da própria vida; ao contrário da biografia, é escrita pela própria pessoa sobre si mesma",
+      "explanation": "Por ser escrita na 1ª pessoa, a autobiografia reflete diretamente o ponto de vista de quem viveu os factos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c086",
+      "domain": "Leitura",
+      "topic": "Texto narrativo",
+      "question": "Qual é a função principal de um texto narrativo?",
+      "answer": "Contar uma história, real ou imaginária, com personagens, espaço, tempo e ação",
+      "explanation": "O texto narrativo é o mais comum nos contos, lendas e romances.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c087",
+      "domain": "Leitura",
+      "topic": "Texto descritivo",
+      "question": "O que carateriza um texto descritivo?",
+      "answer": "Apresenta as características de um ser, objeto, lugar ou ambiente, recorrendo com frequência a adjetivos",
+      "explanation": "É comum encontrar passagens descritivas dentro de textos narrativos, por exemplo ao descrever uma personagem ou um cenário.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c088",
+      "domain": "Leitura",
+      "topic": "Texto informativo",
+      "question": "Qual é o objetivo principal de um texto informativo?",
+      "answer": "Transmitir informação ou conhecimento sobre um tema, de forma clara e objetiva",
+      "explanation": "Ex.: uma notícia, um artigo enciclopédico ou uma ficha informativa sobre um animal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c089",
+      "domain": "Leitura",
+      "topic": "Texto instrucional",
+      "question": "O que é um texto instrucional? Dá um exemplo.",
+      "answer": "Um texto que dá indicações ou instruções para realizar algo, organizado normalmente por passos; exemplo: uma receita de culinária ou as regras de um jogo",
+      "explanation": "Este tipo de texto usa muitas vezes o modo imperativo e conectores como 'primeiro' e 'depois'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c090",
+      "domain": "Leitura",
+      "topic": "Texto dialogal",
+      "question": "O que carateriza um texto dialogal?",
+      "answer": "É organizado através da troca de falas entre duas ou mais personagens",
+      "explanation": "Pode surgir dentro de uma narrativa (diálogo) ou como o próprio texto principal (entrevista, texto dramático).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c091",
+      "domain": "Leitura",
+      "topic": "Ideia principal",
+      "question": "O que é a ideia principal de um texto (ou de um parágrafo)?",
+      "answer": "A informação mais importante, à volta da qual se organizam as restantes ideias (secundárias)",
+      "explanation": "Identificar a ideia principal ajuda a compreender melhor o texto e a fazer um bom resumo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c092",
+      "domain": "Leitura",
+      "topic": "Resumo",
+      "question": "O que deve conter um bom resumo de um texto?",
+      "answer": "Apenas as ideias principais, apresentadas de forma breve e pelas próprias palavras de quem resume",
+      "explanation": "Um resumo não deve incluir pormenores secundários nem opiniões pessoais sobre o texto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c093",
+      "domain": "Leitura",
+      "topic": "Título",
+      "question": "Qual é uma das funções do título de um texto?",
+      "answer": "Antecipar o tema ou o assunto do texto, despertando o interesse do leitor",
+      "explanation": "Antes de ler um texto na íntegra, o título ajuda o leitor a fazer previsões sobre o seu conteúdo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c094",
+      "domain": "Leitura",
+      "topic": "Inferência",
+      "question": "O que significa 'fazer uma inferência' durante a leitura de um texto?",
+      "answer": "Concluir uma informação que não está escrita diretamente no texto, mas que se deduz a partir de pistas dadas",
+      "explanation": "Ex.: se o texto diz que a personagem 'pegou no guarda-chuva antes de sair', pode inferir-se que estava (ou parecia estar) a chover.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c095",
+      "domain": "Leitura",
+      "topic": "Parágrafo",
+      "question": "Para que serve, geralmente, um parágrafo dentro de um texto?",
+      "answer": "Para organizar as ideias, agrupando as que estão relacionadas entre si e separando-as visualmente das restantes",
+      "explanation": "Cada parágrafo desenvolve normalmente uma ideia principal diferente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c096",
+      "domain": "Escrita",
+      "topic": "Carta - elementos",
+      "question": "Indica dois elementos que costumam constar do início de uma carta.",
+      "answer": "Por exemplo, o local e a data, e a saudação inicial (ex.: 'Caro amigo,')",
+      "explanation": "No final, costuma constar uma despedida e a assinatura de quem escreve.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c097",
+      "domain": "Escrita",
+      "topic": "Registo formal e informal",
+      "question": "Qual é a diferença entre escrever num registo formal e num registo informal?",
+      "answer": "O registo formal usa uma linguagem cuidada e mais distante (ex.: para um desconhecido ou uma entidade); o informal usa uma linguagem mais próxima e simples (ex.: para um amigo ou familiar)",
+      "explanation": "A escolha do registo depende sempre do destinatário e da situação de comunicação.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c098",
+      "domain": "Escrita",
+      "topic": "Convite",
+      "question": "Que informações não podem faltar num convite?",
+      "answer": "O motivo do convite, a data, a hora e o local do evento",
+      "explanation": "Um convite deve ser claro e conter toda a informação necessária para quem o recebe poder comparecer.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c099",
+      "domain": "Escrita",
+      "topic": "Aviso",
+      "question": "Qual é a função principal de um texto do tipo 'aviso'?",
+      "answer": "Transmitir, de forma breve e clara, uma informação importante a um grupo de pessoas",
+      "explanation": "Ex.: um aviso afixado na escola sobre a suspensão das aulas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c100",
+      "domain": "Escrita",
+      "topic": "Estrutura do resumo",
+      "question": "Ao escrever um resumo, deve usar-se as palavras exatas do texto original ou reformular por palavras próprias?",
+      "answer": "Deve reformular-se por palavras próprias, mantendo apenas as ideias essenciais",
+      "explanation": "Copiar frases inteiras do texto original não é considerado um verdadeiro resumo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c101",
+      "domain": "Escrita",
+      "topic": "Conectores discursivos",
+      "question": "Para que servem palavras como 'primeiro', 'depois' e 'por fim' num texto?",
+      "answer": "Para organizar as ideias no tempo e ligar as diferentes partes do texto (são conectores/marcadores discursivos)",
+      "explanation": "Ajudam o leitor a acompanhar a sequência dos acontecimentos ou dos passos descritos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c102",
+      "domain": "Escrita",
+      "topic": "Diário",
+      "question": "Que características tem, geralmente, um texto do tipo 'diário'?",
+      "answer": "É escrito na 1ª pessoa, organizado por datas, e regista acontecimentos e sentimentos pessoais de quem escreve",
+      "explanation": "É um texto de caráter íntimo, normalmente não destinado a ser lido por outras pessoas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c103",
+      "domain": "Escrita",
+      "topic": "Planeamento da escrita",
+      "question": "Antes de escrever um texto, o que é aconselhável fazer?",
+      "answer": "Planear: pensar no tema, organizar as ideias principais (por exemplo, num esquema ou em tópicos) e definir a estrutura do texto",
+      "explanation": "Depois de escrever, é também importante rever e corrigir o texto (ortografia, pontuação, coerência).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c104",
+      "domain": "Escrita",
+      "topic": "Texto de opinião simples",
+      "question": "Num pequeno texto de opinião, o que se espera que o autor apresente, além da sua opinião?",
+      "answer": "Pelo menos um argumento (uma razão) que justifique essa opinião",
+      "explanation": "Um argumento bem escolhido torna o texto de opinião mais convincente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c105",
+      "domain": "Escrita",
+      "topic": "Coerência textual",
+      "question": "O que significa dizer que um texto é coerente?",
+      "answer": "Que as suas ideias fazem sentido entre si e estão organizadas de forma lógica, sem contradições",
+      "explanation": "A coerência é essencial para que o leitor consiga acompanhar e compreender o texto.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c106",
+      "domain": "Oralidade",
+      "topic": "Registo formal na oralidade",
+      "question": "Em que situação se deve usar, tipicamente, um registo mais formal ao falar?",
+      "answer": "Por exemplo, ao dirigir-se a um professor, a um adulto desconhecido ou numa apresentação oral na escola",
+      "explanation": "O registo informal é mais adequado entre amigos ou familiares próximos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c107",
+      "domain": "Oralidade",
+      "topic": "Entoação",
+      "question": "O que é a entoação, na oralidade?",
+      "answer": "A variação da melodia da voz ao falar, que ajuda a distinguir, por exemplo, uma pergunta de uma afirmação",
+      "explanation": "A entoação transmite também emoções, como surpresa, dúvida ou entusiasmo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c108",
+      "domain": "Oralidade",
+      "topic": "Debate - regras",
+      "question": "Indica uma regra importante a respeitar durante um debate ou uma conversa em grupo.",
+      "answer": "Por exemplo, esperar pela sua vez para falar e não interromper quem está a falar",
+      "explanation": "Outras regras importantes: ouvir com atenção e respeitar opiniões diferentes das nossas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c109",
+      "domain": "Oralidade",
+      "topic": "Exposição oral",
+      "question": "O que é importante fazer antes de uma apresentação oral?",
+      "answer": "Preparar o conteúdo com antecedência, organizando as ideias principais, e treinar a apresentação",
+      "explanation": "Preparar antecipadamente ajuda a falar com mais confiança e clareza.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c110",
+      "domain": "Oralidade",
+      "topic": "Volume e articulação",
+      "question": "Indica dois aspetos importantes a cuidar quando se fala para um público (por exemplo, numa apresentação).",
+      "answer": "Por exemplo, falar com volume de voz adequado e articular bem as palavras",
+      "explanation": "Também é importante manter um ritmo de fala que não seja nem demasiado rápido nem demasiado lento.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c111",
+      "domain": "Gramática",
+      "topic": "Grau superlativo relativo",
+      "question": "Como se chama o grau do adjetivo usado na expressão 'o mais alto da turma'?",
+      "answer": "Superlativo relativo de superioridade",
+      "explanation": "Compara um ser com um conjunto a que pertence, destacando-o como o que tem mais dessa qualidade dentro desse grupo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c112",
+      "domain": "Gramática",
+      "topic": "Verbo auxiliar",
+      "question": "O que é um verbo auxiliar? Dá um exemplo.",
+      "answer": "Um verbo que se combina com outro verbo (principal) para formar tempos compostos ou a voz passiva; exemplo: 'ter' em 'tinha estudado'",
+      "explanation": "Os verbos 'ter', 'haver' e 'ser' são os auxiliares mais usados em português.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c113",
+      "domain": "Gramática",
+      "topic": "Numeral",
+      "question": "O que é um numeral? Dá um exemplo.",
+      "answer": "Uma palavra que indica quantidade, ordem ou proporção; exemplo: 'três', 'terceiro', 'dobro'",
+      "explanation": "Os numerais podem ser cardinais (três), ordinais (terceiro) ou multiplicativos (dobro).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c114",
+      "domain": "Gramática",
+      "topic": "Dupla negação",
+      "question": "Na frase 'Não vi ninguém', quantas palavras de negação existem?",
+      "answer": "Duas: 'não' e 'ninguém'",
+      "explanation": "No português, ao contrário de outras línguas, é comum e correto usar duas (ou mais) palavras de negação na mesma frase, sem que isso a torne afirmativa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c115",
+      "domain": "Educação Literária",
+      "topic": "Verso livre",
+      "question": "Um texto precisa de ter rima para ser considerado poesia?",
+      "answer": "Não",
+      "explanation": "Há poesia sem rima (verso livre); a poesia carateriza-se sobretudo pela linguagem trabalhada, o ritmo e a divisão em versos, não obrigatoriamente pela rima.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c116",
+      "domain": "Educação Literária",
+      "topic": "Quadra",
+      "question": "Como se chama uma estrofe composta por quatro versos?",
+      "answer": "Quadra",
+      "explanation": "Outras estrofes têm nomes conforme o número de versos: dístico (2), terceto (3), quintilha (5).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c117",
+      "domain": "Leitura",
+      "topic": "Notícia",
+      "question": "Que perguntas costuma responder uma notícia, logo no seu primeiro parágrafo?",
+      "answer": "O quê, quem, quando, onde, como e porquê",
+      "explanation": "Estas perguntas ajudam a garantir que a informação essencial é dada logo no início da notícia.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c118",
+      "domain": "Escrita",
+      "topic": "Retrato físico e psicológico",
+      "question": "Qual é a diferença entre o retrato físico e o retrato psicológico de uma personagem?",
+      "answer": "O retrato físico descreve o aspeto exterior (altura, cor dos olhos, etc.); o retrato psicológico descreve a personalidade e o comportamento",
+      "explanation": "Um retrato completo costuma combinar os dois tipos de descrição.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c119",
+      "domain": "Oralidade",
+      "topic": "Escuta ativa",
+      "question": "O que é a escuta ativa?",
+      "answer": "Prestar atenção total a quem fala, procurando compreender a mensagem, sem interromper",
+      "explanation": "A escuta ativa é essencial tanto em conversas do dia a dia como em contexto de sala de aula.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "c120",
+      "domain": "Gramática",
+      "topic": "Palavras variáveis e invariáveis",
+      "question": "As preposições são palavras variáveis ou invariáveis?",
+      "answer": "Invariáveis (não têm flexão em género, número ou grau)",
+      "explanation": "São invariáveis: preposições, conjunções, a maioria dos advérbios e as interjeições. São variáveis: nomes, adjetivos, verbos, pronomes e determinantes.",
+      "difficulty": "dificil"
+    }
+  ]
+}

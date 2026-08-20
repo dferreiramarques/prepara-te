@@ -1,0 +1,16 @@
+{
+  "name": "Prepara-te",
+  "short_name": "Prepara-te",
+  "description": "Cartões de revisão por ano e disciplina, com pergunta, resposta e explicação.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAFAF6",
+  "theme_color": "#2F6F8F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

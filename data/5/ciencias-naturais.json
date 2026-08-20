@@ -1,0 +1,904 @@
+{
+  "cards": [
+    {
+      "id": "cn001",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Condições para a vida na Terra",
+      "question": "Quais são as três condições fundamentais que tornam possível a vida na Terra?",
+      "answer": "Água no estado líquido, atmosfera e temperatura amena",
+      "explanation": "É a combinação destes três fatores que permite a existência de seres vivos, algo que não se verifica nos outros planetas do sistema solar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn002",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Condições para a vida na Terra",
+      "question": "Por que razão a Terra é conhecida como o \"planeta azul\"?",
+      "answer": "Porque a maior parte da sua superfície está coberta por água",
+      "explanation": "Cerca de 70% da superfície terrestre é ocupada por oceanos, mares e outras massas de água, o que lhe dá essa cor quando observada do espaço.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn003",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Condições para a vida na Terra",
+      "question": "Que gás presente na atmosfera é essencial para a respiração da maioria dos seres vivos?",
+      "answer": "Oxigénio",
+      "explanation": "O oxigénio é utilizado pelos seres vivos na respiração, um processo que liberta a energia contida nos alimentos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn004",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Ambientes terrestres e aquáticos",
+      "question": "Dá um exemplo de ambiente terrestre e um exemplo de ambiente aquático.",
+      "answer": "Por exemplo, uma floresta (terrestre) e um rio (aquático)",
+      "explanation": "Os ambientes terrestres e aquáticos oferecem condições diferentes aos seres vivos, como a disponibilidade de água, luz e oxigénio.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn005",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Subsistemas terrestres",
+      "question": "Como se chama o subsistema terrestre constituído pelo ar que envolve o planeta?",
+      "answer": "Atmosfera",
+      "explanation": "A atmosfera é a camada gasosa que envolve a Terra e desempenha funções como a proteção contra radiações prejudiciais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn006",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Subsistemas terrestres",
+      "question": "Como se chama o subsistema terrestre constituído por toda a água do planeta?",
+      "answer": "Hidrosfera",
+      "explanation": "A hidrosfera inclui os oceanos, os mares, os rios, os lagos, as águas subterrâneas e o gelo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn007",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Subsistemas terrestres",
+      "question": "Como se chama o subsistema terrestre formado pela parte sólida da Terra, incluindo rochas e solo?",
+      "answer": "Geosfera",
+      "explanation": "A geosfera corresponde à parte rochosa do planeta, desde a superfície até às camadas mais profundas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn008",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Subsistemas terrestres",
+      "question": "O que é a biosfera e como se relaciona com os outros subsistemas terrestres?",
+      "answer": "É o conjunto de todos os seres vivos e dos locais onde vivem, resultante da interação entre a atmosfera, a hidrosfera e a geosfera",
+      "explanation": "A biosfera não existe isolada: depende diretamente das condições criadas pelos outros três subsistemas para que a vida seja possível.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn009",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Minerais e rochas",
+      "question": "Qual é a diferença entre um mineral e uma rocha?",
+      "answer": "O mineral é uma substância natural simples; a rocha é um conjunto de um ou mais minerais",
+      "explanation": "Por exemplo, o granito é uma rocha formada por vários minerais, como o quartzo, o feldspato e a mica.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn010",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Minerais e rochas",
+      "question": "Dá um exemplo de um mineral.",
+      "answer": "Por exemplo, o quartzo",
+      "explanation": "Os minerais são substâncias sólidas naturais com composição e propriedades próprias, como a cor, o brilho e a dureza.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn011",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas magmáticas",
+      "question": "Como se formam as rochas magmáticas?",
+      "answer": "A partir do arrefecimento e solidificação do magma",
+      "explanation": "Se o arrefecimento for lento, no interior da Terra, formam-se cristais grandes; se for rápido, à superfície, os cristais são pequenos ou quase não se formam.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn012",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas magmáticas",
+      "question": "Dá um exemplo de rocha magmática.",
+      "answer": "Granito",
+      "explanation": "O granito forma-se por arrefecimento lento do magma no interior da Terra, o que origina cristais visíveis a olho nu.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn013",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas metamórficas",
+      "question": "Como se formam as rochas metamórficas?",
+      "answer": "A partir da transformação de outras rochas devido à ação da pressão e/ou do calor",
+      "explanation": "Estas transformações ocorrem sem que a rocha chegue a fundir-se completamente, alterando a sua estrutura interna e o seu aspeto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn014",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas metamórficas",
+      "question": "Dá um exemplo de rocha metamórfica.",
+      "answer": "Mármore",
+      "explanation": "O mármore forma-se a partir do calcário quando este é submetido a grande pressão e temperatura no interior da Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn015",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas sedimentares",
+      "question": "Como se formam as rochas sedimentares?",
+      "answer": "Pela acumulação e compactação de sedimentos ao longo do tempo",
+      "explanation": "Os sedimentos resultam da desagregação de outras rochas e vão-se depositando em camadas que se compactam e cimentam.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn016",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Rochas sedimentares",
+      "question": "Dá um exemplo de rocha sedimentar.",
+      "answer": "Calcário",
+      "explanation": "O calcário forma-se frequentemente a partir da acumulação de restos de conchas e esqueletos de seres marinhos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn017",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Grupos de rochas",
+      "question": "Quais são os três grupos principais em que se classificam as rochas, de acordo com a sua origem?",
+      "answer": "Rochas magmáticas, rochas metamórficas e rochas sedimentares",
+      "explanation": "Esta classificação tem em conta o processo de formação de cada tipo de rocha, sendo que todas podem transformar-se umas nas outras ao longo de muito tempo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn018",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Formação do solo",
+      "question": "A partir de que material se forma, principalmente, o solo?",
+      "answer": "Da desagregação e alteração das rochas",
+      "explanation": "A rocha que dá origem a um solo chama-se rocha-mãe e é fragmentada por agentes atmosféricos e biológicos ao longo de muito tempo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn019",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Formação do solo",
+      "question": "Indica um agente atmosférico que contribui para a desagregação das rochas e a formação do solo.",
+      "answer": "Por exemplo, a variação de temperatura, a chuva ou o vento",
+      "explanation": "Estes agentes provocam a fragmentação lenta e progressiva das rochas, num processo chamado meteorização.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn020",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Formação do solo",
+      "question": "De que forma os seres vivos contribuem para a formação do solo?",
+      "answer": "As raízes das plantas e a ação de alguns animais ajudam a fragmentar as rochas, e a decomposição de restos de seres vivos enriquece o solo",
+      "explanation": "Este é um exemplo de agente biológico de meteorização, que atua em conjunto com os agentes atmosféricos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn021",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Constituintes do solo",
+      "question": "Além de partículas de rocha, o que mais constitui o solo?",
+      "answer": "Água, ar, seres vivos e matéria orgânica",
+      "explanation": "A matéria orgânica, também chamada húmus, resulta da decomposição de plantas e animais e torna o solo mais fértil.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn022",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Constituintes do solo",
+      "question": "O que é o húmus e qual é a sua importância para o solo?",
+      "answer": "É a matéria orgânica em decomposição que torna o solo mais fértil",
+      "explanation": "O húmus fornece nutrientes que as plantas utilizam para se desenvolverem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn023",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Propriedades do solo",
+      "question": "O que é a permeabilidade de um solo?",
+      "answer": "É a capacidade de o solo deixar passar a água através dele",
+      "explanation": "Um solo arenoso é muito permeável, enquanto um solo argiloso deixa passar a água com muito mais dificuldade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn024",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Propriedades do solo",
+      "question": "Por que motivo os solos arenosos retêm menos água do que os solos argilosos?",
+      "answer": "Porque têm partículas maiores e mais espaço entre elas, o que permite que a água escoe mais facilmente",
+      "explanation": "Os solos argilosos têm partículas muito pequenas e apertadas, o que dificulta a passagem da água e favorece a sua retenção.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn025",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Importância de rochas e solo",
+      "question": "Indica uma utilização das rochas nas atividades humanas.",
+      "answer": "Por exemplo, na construção de casas e estradas",
+      "explanation": "As rochas são também usadas para fazer estátuas, pavimentos e diversos materiais de construção.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn026",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Ciclo da água",
+      "question": "Como se chama o processo em que a água líquida se transforma em vapor de água devido ao calor do Sol?",
+      "answer": "Evaporação",
+      "explanation": "A evaporação ocorre sobretudo à superfície dos oceanos, rios e lagos, sendo uma das fases do ciclo da água.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn027",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Ciclo da água",
+      "question": "Como se chama o processo em que o vapor de água se transforma em pequenas gotas, formando as nuvens?",
+      "answer": "Condensação",
+      "explanation": "A condensação ocorre quando o vapor de água arrefece nas camadas mais altas da atmosfera.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn028",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Ciclo da água",
+      "question": "O que é a precipitação, no ciclo da água?",
+      "answer": "É a queda de água, em estado líquido ou sólido, das nuvens para a superfície terrestre",
+      "explanation": "A precipitação pode ocorrer sob a forma de chuva, granizo ou neve, consoante a temperatura.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn029",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Ciclo da água",
+      "question": "Explica, de forma resumida, como funciona o ciclo da água.",
+      "answer": "A água evapora dos oceanos e rios, condensa-se formando nuvens, precipita sob a forma de chuva ou neve e depois escoa-se ou infiltra-se, regressando aos cursos de água",
+      "explanation": "Este ciclo é contínuo e permite que a água circule entre a atmosfera, a hidrosfera e a geosfera sem nunca se esgotar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn030",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Propriedades da água",
+      "question": "Em que três estados físicos pode a água ser encontrada na natureza?",
+      "answer": "Sólido, líquido e gasoso",
+      "explanation": "A água muda de estado consoante a temperatura, como acontece no gelo (sólido), na água da torneira (líquido) e no vapor de água (gasoso).",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn031",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Propriedades da água",
+      "question": "A que temperatura a água pura se transforma em gelo, à pressão normal?",
+      "answer": "0 ºC",
+      "explanation": "Esta mudança de estado, de líquido para sólido, chama-se solidificação.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn032",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Importância da água",
+      "question": "Por que motivo é importante beber água regularmente ao longo do dia?",
+      "answer": "Porque o corpo humano precisa de água para funcionar corretamente e para repor a que perde",
+      "explanation": "A água é essencial para o transporte de substâncias no organismo e para a regulação da temperatura corporal, entre outras funções vitais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn033",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Água própria e imprópria para consumo",
+      "question": "O que é a água potável?",
+      "answer": "É a água própria para consumo humano, por não conter substâncias nem microrganismos prejudiciais à saúde",
+      "explanation": "A água potável cumpre requisitos de qualidade definidos por normas de saúde pública.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn034",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Água própria e imprópria para consumo",
+      "question": "O que é a água salobra?",
+      "answer": "É a água com um teor de sal intermédio entre a água doce e a água do mar",
+      "explanation": "A água salobra encontra-se, por exemplo, em estuários, onde a água doce dos rios se mistura com a água do mar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn035",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Água própria e imprópria para consumo",
+      "question": "A água do mar é própria para consumo humano? Porquê?",
+      "answer": "Não, porque tem uma quantidade de sal demasiado elevada",
+      "explanation": "Beber água do mar é prejudicial à saúde, pois o excesso de sal desidrata o organismo em vez de o hidratar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn036",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Composição da água",
+      "question": "Por que razão a água que circula no subsolo pode conter minerais dissolvidos?",
+      "answer": "Porque, ao atravessar as rochas, a água dissolve pequenas quantidades dos minerais que as compõem",
+      "explanation": "É por isso que a composição da água mineral varia consoante a região e o tipo de rochas por onde circulou.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn037",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Gestão sustentável da água",
+      "question": "Indica uma atitude que ajuda a poupar água em casa.",
+      "answer": "Por exemplo, fechar a torneira enquanto se lava os dentes",
+      "explanation": "Pequenos gestos do dia a dia, como tomar duches mais curtos, ajudam a preservar este recurso, que é limitado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn038",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "O ar",
+      "question": "Quais são os dois gases que existem em maior quantidade no ar que respiramos?",
+      "answer": "Azoto e oxigénio",
+      "explanation": "O azoto representa cerca de 78% do ar e o oxigénio cerca de 21%; o restante é composto por outros gases em pequena quantidade.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn039",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Funções do ar",
+      "question": "Indica uma função importante que a atmosfera desempenha para os seres vivos.",
+      "answer": "Por exemplo, proteger da radiação solar prejudicial e ajudar a regular a temperatura do planeta",
+      "explanation": "Sem a atmosfera, a Terra teria temperaturas muito mais extremas e estaria exposta a radiações que prejudicam os seres vivos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn040",
+      "domain": "A água, o ar, as rochas e o solo – materiais terrestres",
+      "topic": "Qualidade do ar",
+      "question": "Indica uma atividade humana que contribui para a poluição do ar.",
+      "answer": "Por exemplo, a queima de combustíveis pelos veículos ou pelas fábricas",
+      "explanation": "A libertação de gases e partículas poluentes prejudica a qualidade do ar e a saúde dos seres vivos, sendo importante adotar medidas como usar mais transportes públicos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn041",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Forma do corpo e o meio",
+      "question": "Por que razão os peixes têm um corpo fusiforme (em forma de fuso)?",
+      "answer": "Porque facilita o deslocamento na água, reduzindo a resistência",
+      "explanation": "Esta forma hidrodinâmica ajuda o peixe a nadar com menos esforço.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn042",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Revestimento do corpo e o meio",
+      "question": "Que tipo de revestimento corporal ajuda as aves a voar e a manter a temperatura do corpo?",
+      "answer": "Penas",
+      "explanation": "As penas tornam o corpo mais leve, favorecendo o voo, e também isolam o corpo do frio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn043",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Locomoção e o meio",
+      "question": "Que órgãos de locomoção permitem às aves voar?",
+      "answer": "Asas",
+      "explanation": "As asas, associadas a ossos leves e músculos fortes, permitem às aves deslocar-se pelo ar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn044",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Forma do corpo e o meio",
+      "question": "Por que motivo os animais que vivem em ambientes desérticos, como o dromedário, apresentam patas largas?",
+      "answer": "Porque ajudam a não afundar na areia e a caminhar com mais facilidade",
+      "explanation": "Esta é uma adaptação morfológica ao tipo de solo característico do habitat onde vivem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn045",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Revestimento do corpo e o meio",
+      "question": "Que tipo de revestimento corporal têm os répteis, como as cobras e os lagartos?",
+      "answer": "Escamas",
+      "explanation": "As escamas protegem o corpo e ajudam a evitar a perda de água, o que é importante nos ambientes terrestres mais secos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn046",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Regimes alimentares",
+      "question": "Como se chamam os animais que se alimentam exclusivamente de plantas?",
+      "answer": "Herbívoros",
+      "explanation": "A vaca e o coelho são exemplos de animais herbívoros, que se alimentam de erva e de outras plantas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn047",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Regimes alimentares",
+      "question": "Como se chamam os animais que se alimentam de outros animais?",
+      "answer": "Carnívoros",
+      "explanation": "O leão e a águia são exemplos de animais carnívoros, que caçam outros animais para se alimentarem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn048",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Regimes alimentares",
+      "question": "Como se chamam os animais que se alimentam tanto de plantas como de outros animais?",
+      "answer": "Omnívoros",
+      "explanation": "O ser humano e o porco são exemplos de animais omnívoros.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn049",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Regimes alimentares e habitat",
+      "question": "Por que razão o regime alimentar de um animal está relacionado com o seu habitat?",
+      "answer": "Porque o animal precisa de viver num local onde consiga encontrar o tipo de alimento de que necessita",
+      "explanation": "Por exemplo, um herbívoro necessita de viver onde existam plantas suficientes para se alimentar todos os dias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn050",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Rituais de acasalamento",
+      "question": "Para que servem os rituais de acasalamento em muitas espécies de aves?",
+      "answer": "Para atrair um parceiro e garantir a reprodução e a continuidade da espécie",
+      "explanation": "Estes rituais podem incluir cantos, danças ou a exibição de plumagem colorida.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn051",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Rituais de acasalamento",
+      "question": "Indica um exemplo de comportamento usado por alguns animais para atrair um parceiro reprodutor.",
+      "answer": "Por exemplo, o canto (nas aves) ou a exibição de cores vistosas",
+      "explanation": "Estes comportamentos aumentam as hipóteses de encontrar um par e de a espécie continuar a existir.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn052",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Reprodução sexuada e assexuada",
+      "question": "O que caracteriza a reprodução sexuada?",
+      "answer": "A existência de dois progenitores e a união de células reprodutoras, uma masculina e uma feminina",
+      "explanation": "Na reprodução sexuada, a descendência combina características de ambos os progenitores.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn053",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Reprodução sexuada e assexuada",
+      "question": "O que caracteriza a reprodução assexuada?",
+      "answer": "A existência de um único progenitor, sem união de células reprodutoras",
+      "explanation": "Os descendentes resultantes da reprodução assexuada são geneticamente idênticos ao progenitor.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn054",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Reprodução sexuada e assexuada",
+      "question": "Dá um exemplo de uma planta que se pode reproduzir de forma assexuada.",
+      "answer": "Por exemplo, o morangueiro, que se reproduz através de estolhos",
+      "explanation": "Os estolhos são caules que crescem horizontalmente e dão origem a novas plantas idênticas à planta-mãe.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn055",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Ovíparos, ovovivíparos e vivíparos",
+      "question": "O que são animais ovíparos?",
+      "answer": "São animais que se desenvolvem dentro de um ovo, fora do corpo da mãe",
+      "explanation": "As aves e a maioria dos répteis são exemplos de animais ovíparos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn056",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Ovíparos, ovovivíparos e vivíparos",
+      "question": "O que são animais vivíparos?",
+      "answer": "São animais que se desenvolvem dentro do corpo da mãe e nascem já formados",
+      "explanation": "A maioria dos mamíferos, como o cão e o ser humano, são vivíparos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn057",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Ovíparos, ovovivíparos e vivíparos",
+      "question": "O que são animais ovovivíparos?",
+      "answer": "São animais cujo embrião se desenvolve dentro de um ovo que permanece no interior do corpo da mãe até à eclosão",
+      "explanation": "Alguns tubarões e certas espécies de cobras são exemplos de animais ovovivíparos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn058",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Ovíparos, ovovivíparos e vivíparos",
+      "question": "A que grupo pertence a galinha quanto ao seu desenvolvimento: ovíparo, ovovivíparo ou vivíparo?",
+      "answer": "Ovíparo",
+      "explanation": "A galinha põe ovos que se desenvolvem fora do corpo da mãe até à eclosão do pintainho.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn059",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Metamorfoses",
+      "question": "O que é a metamorfose de um animal?",
+      "answer": "É o conjunto de transformações que o corpo do animal sofre ao longo do seu desenvolvimento",
+      "explanation": "A forma do animal jovem pode ser muito diferente da forma do animal adulto.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn060",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Metamorfoses",
+      "question": "Quais são as fases da metamorfose completa da borboleta?",
+      "answer": "Ovo, larva (lagarta), pupa (crisálida) e adulto",
+      "explanation": "Na metamorfose completa existe uma fase de pupa em que o corpo se reorganiza profundamente antes de chegar à forma adulta.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn061",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Metamorfoses",
+      "question": "Quais são as fases da metamorfose incompleta do gafanhoto?",
+      "answer": "Ovo, ninfa e adulto",
+      "explanation": "Na metamorfose incompleta não existe fase de pupa; a ninfa já se parece com o adulto, mas em menor tamanho e sem asas desenvolvidas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn062",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Metamorfoses",
+      "question": "Qual é a principal diferença entre a metamorfose completa e a metamorfose incompleta?",
+      "answer": "Na metamorfose completa existe uma fase de pupa, enquanto na incompleta essa fase não existe",
+      "explanation": "Por isso, na metamorfose incompleta a passagem de ninfa a adulto é mais gradual, sem uma transformação tão radical do corpo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn063",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Desenvolvimento das plantas",
+      "question": "De que precisam as plantas, além de água e luz, para se desenvolverem bem?",
+      "answer": "De um solo com nutrientes adequados e de uma temperatura apropriada",
+      "explanation": "Sem estas condições, o crescimento das plantas pode ficar prejudicado ou mesmo impedido.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn064",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Desenvolvimento das plantas",
+      "question": "Por que motivo a falta de água prejudica o desenvolvimento de uma planta?",
+      "answer": "Porque a água é necessária para o transporte de nutrientes e para a realização de processos vitais, como a fotossíntese",
+      "explanation": "Sem água suficiente, a planta murcha e pode mesmo morrer.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn065",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Desenvolvimento das plantas",
+      "question": "Que efeito pode ter a falta de luz no crescimento de uma planta?",
+      "answer": "A planta cresce mais fraca, com folhas pálidas, pois não consegue realizar a fotossíntese normalmente",
+      "explanation": "A luz é essencial para a planta produzir o seu próprio alimento através da fotossíntese.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn066",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Desenvolvimento das plantas",
+      "question": "Como pode a temperatura influenciar a germinação das sementes?",
+      "answer": "Cada espécie de planta tem uma gama de temperaturas ideais para germinar; temperaturas muito baixas ou muito altas podem impedir a germinação",
+      "explanation": "É por isso que certas culturas agrícolas só se semeiam em determinadas épocas do ano.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn067",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Adaptações dos animais",
+      "question": "Como se adaptam alguns mamíferos, como o urso polar, ao frio intenso?",
+      "answer": "Têm uma camada espessa de gordura e um pelo denso que os isolam do frio",
+      "explanation": "Esta adaptação morfológica reduz a perda de calor corporal em climas muito frios.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn068",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Adaptações dos animais",
+      "question": "Que comportamento adotam alguns animais para enfrentar as baixas temperaturas do inverno?",
+      "answer": "A hibernação",
+      "explanation": "Durante a hibernação, o animal reduz a sua atividade e o seu metabolismo, poupando energia até as condições melhorarem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn069",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Adaptações dos animais",
+      "question": "Que adaptação comportamental é comum em muitas aves para escapar às baixas temperaturas do inverno?",
+      "answer": "A migração para regiões com clima mais ameno",
+      "explanation": "A migração permite às aves encontrar alimento e condições de temperatura mais favoráveis noutra região durante essa época do ano.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn070",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Adaptações dos animais",
+      "question": "Por que razão muitos animais do deserto têm hábitos noturnos?",
+      "answer": "Para evitarem as temperaturas muito elevadas durante o dia",
+      "explanation": "Ao serem ativos durante a noite, quando está mais fresco, estes animais poupam água e evitam o calor extremo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn071",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Biodiversidade",
+      "question": "O que é a biodiversidade?",
+      "answer": "É a variedade de seres vivos que existe num determinado local ou em todo o planeta, incluindo a diversidade entre espécies e dentro de cada espécie",
+      "explanation": "Uma maior biodiversidade torna os ecossistemas mais equilibrados e resistentes a alterações.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn072",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Biodiversidade",
+      "question": "Indica um exemplo de espécie animal característica da fauna portuguesa.",
+      "answer": "Por exemplo, o lince-ibérico",
+      "explanation": "Portugal tem espécies próprias, algumas delas raras e protegidas, como o lince-ibérico.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn073",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Biodiversidade",
+      "question": "Por que razão a flora e a fauna de uma região estão relacionadas entre si?",
+      "answer": "Porque muitos animais dependem das plantas para se alimentarem ou se abrigarem, e algumas plantas dependem de animais para a polinização ou dispersão de sementes",
+      "explanation": "Esta relação de interdependência é essencial para o equilíbrio dos ecossistemas, e a perda de uma espécie pode afetar várias outras.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn074",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Espécies invasoras",
+      "question": "O que é uma espécie invasora?",
+      "answer": "É uma espécie que não é originária de determinado território e que, ao ser introduzida, se espalha e prejudica as espécies locais",
+      "explanation": "As espécies invasoras podem competir com as espécies nativas por alimento e espaço, reduzindo a biodiversidade local.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn075",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Espécies invasoras",
+      "question": "Indica um exemplo de planta invasora presente em Portugal.",
+      "answer": "Por exemplo, a acácia",
+      "explanation": "A acácia espalha-se rapidamente e ocupa o espaço de plantas nativas, alterando o ecossistema onde se instala.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn076",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Espécies invasoras",
+      "question": "Que consequências pode ter a introdução de uma espécie animal invasora num ecossistema?",
+      "answer": "Pode competir com as espécies nativas por alimento e território, predar espécies locais e reduzir a biodiversidade",
+      "explanation": "Um exemplo é o lagostim-vermelho-da-luisiana, que afeta espécies aquáticas nativas em Portugal.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn077",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Impacto humano na biodiversidade",
+      "question": "Indica uma ação humana que pode prejudicar a biodiversidade.",
+      "answer": "Por exemplo, a desflorestação ou a poluição",
+      "explanation": "A destruição de habitats naturais reduz o espaço disponível para muitas espécies sobreviverem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn078",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Impacto humano na biodiversidade",
+      "question": "Indica uma atitude que ajuda a proteger a biodiversidade.",
+      "answer": "Por exemplo, não deitar lixo na natureza ou não retirar plantas e animais do seu habitat",
+      "explanation": "Pequenos gestos individuais, somados, contribuem para preservar os ecossistemas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn079",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Áreas protegidas",
+      "question": "O que é uma área protegida?",
+      "answer": "É um território delimitado e gerido com o objetivo de conservar a natureza, a biodiversidade e a geodiversidade",
+      "explanation": "Em Portugal existem várias áreas protegidas, como parques naturais e reservas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn080",
+      "domain": "Diversidade de seres vivos e suas interações com o meio",
+      "topic": "Áreas protegidas",
+      "question": "Indica um exemplo de área protegida em Portugal.",
+      "answer": "Por exemplo, o Parque Nacional da Peneda-Gerês",
+      "explanation": "A Peneda-Gerês é o único parque nacional de Portugal e protege uma grande diversidade de espécies e paisagens.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn081",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "A célula",
+      "question": "Qual é a unidade básica constituinte de todos os seres vivos?",
+      "answer": "A célula",
+      "explanation": "Todos os seres vivos, desde as bactérias até ao ser humano, são formados por células.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn082",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "A célula",
+      "question": "O que são seres unicelulares?",
+      "answer": "São seres vivos constituídos por uma única célula",
+      "explanation": "Muitas bactérias e alguns protozoários são exemplos de seres unicelulares.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn083",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "A célula",
+      "question": "O que são seres pluricelulares?",
+      "answer": "São seres vivos constituídos por muitas células",
+      "explanation": "O ser humano, os animais e a maioria das plantas são exemplos de seres pluricelulares.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn084",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "A célula",
+      "question": "As células são visíveis a olho nu?",
+      "answer": "Não, a maioria das células só é visível com o auxílio de um microscópio",
+      "explanation": "As células são, regra geral, demasiado pequenas para serem observadas sem instrumentos de ampliação.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn085",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "Como se chama a estrutura que controla a entrada e a saída de substâncias da célula?",
+      "answer": "Membrana celular",
+      "explanation": "A membrana celular envolve a célula e regula as trocas entre o seu interior e o meio exterior.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn086",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "O que é o citoplasma?",
+      "answer": "É a substância que preenche o interior da célula, entre a membrana e o núcleo",
+      "explanation": "É no citoplasma que ocorrem muitas das reações químicas necessárias à vida da célula.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn087",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "Qual é a estrutura da célula que contém a informação genética?",
+      "answer": "O núcleo",
+      "explanation": "O núcleo controla as atividades da célula e contém o material que transmite as características hereditárias.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn088",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "O que é a parede celular e em que tipo de células está presente?",
+      "answer": "É uma estrutura rígida que envolve e protege a célula, presente nas células vegetais",
+      "explanation": "A parede celular dá rigidez e sustentação às plantas, algo que as células animais não possuem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn089",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "Para além da parede celular, indica outra estrutura típica das células vegetais que não existe nas células animais.",
+      "answer": "Os cloroplastos",
+      "explanation": "Os cloroplastos contêm clorofila e são responsáveis pela realização da fotossíntese nas plantas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn090",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Constituintes da célula",
+      "question": "Qual é a função dos cloroplastos nas células vegetais?",
+      "answer": "Realizar a fotossíntese, captando a energia da luz para produzir matéria orgânica",
+      "explanation": "É graças aos cloroplastos, que contêm clorofila, que as plantas conseguem produzir o seu próprio alimento.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn091",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Célula animal e célula vegetal",
+      "question": "As células animais têm parede celular?",
+      "answer": "Não, as células animais têm apenas membrana celular",
+      "explanation": "A ausência de parede celular torna a forma das células animais mais irregular do que a das células vegetais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn092",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Célula animal e célula vegetal",
+      "question": "Indica uma diferença entre a célula animal e a célula vegetal.",
+      "answer": "A célula vegetal tem parede celular e cloroplastos, que a célula animal não tem",
+      "explanation": "Estas estruturas estão relacionadas com funções próprias das plantas, como a fotossíntese e a sustentação da planta.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn093",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Célula animal e célula vegetal",
+      "question": "Indica uma estrutura que existe tanto nas células animais como nas células vegetais.",
+      "answer": "Por exemplo, a membrana celular, o citoplasma ou o núcleo",
+      "explanation": "Estas estruturas são comuns à generalidade das células, sejam animais ou vegetais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn094",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Célula animal e célula vegetal",
+      "question": "Por que motivo as células vegetais têm geralmente uma forma mais regular do que as células animais?",
+      "answer": "Porque possuem parede celular, que lhes dá uma forma fixa e rígida",
+      "explanation": "As células animais, sem parede celular, apresentam formas mais variadas e irregulares.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn095",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Célula animal e célula vegetal",
+      "question": "Que estrutura celular está associada à cor verde das plantas?",
+      "answer": "Os cloroplastos, que contêm um pigmento chamado clorofila",
+      "explanation": "A clorofila absorve a luz solar necessária para a fotossíntese, dando às plantas a sua cor característica.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn096",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Ciência e tecnologia",
+      "question": "Que instrumento é utilizado para observar as células, uma vez que estas são muito pequenas?",
+      "answer": "O microscópio",
+      "explanation": "O microscópio amplia a imagem de objetos muito pequenos, tornando visíveis estruturas que o olho humano não consegue distinguir sozinho.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn097",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Ciência e tecnologia",
+      "question": "Por que foi importante a invenção do microscópio para o estudo dos seres vivos?",
+      "answer": "Porque permitiu descobrir e estudar a célula, algo impossível de observar apenas a olho nu",
+      "explanation": "Sem o microscópio, o conhecimento sobre a estrutura e o funcionamento dos seres vivos seria muito mais limitado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn098",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Ciência e tecnologia",
+      "question": "Que cientista é geralmente associado à primeira observação e descrição de células, no século XVII?",
+      "answer": "Robert Hooke",
+      "explanation": "Robert Hooke observou ao microscópio um pedaço de cortiça e chamou \"células\" às pequenas cavidades que viu, por lhe lembrarem celas de um mosteiro.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn099",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Ciência e tecnologia",
+      "question": "De que forma a evolução da tecnologia tem contribuído para o conhecimento sobre a célula?",
+      "answer": "Microscópios cada vez mais potentes permitem observar com maior detalhe as estruturas celulares",
+      "explanation": "Esta evolução tecnológica tem permitido à ciência descobrir cada vez mais pormenores sobre o funcionamento das células.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn100",
+      "domain": "Unidade na diversidade de seres vivos",
+      "topic": "Ciência e tecnologia",
+      "question": "Sem o auxílio de instrumentos como o microscópio, seria possível ao ser humano ter descoberto a existência das células?",
+      "answer": "Não, porque as células são demasiado pequenas para serem vistas a olho nu",
+      "explanation": "Foi apenas com o desenvolvimento de instrumentos de ampliação que se tornou possível estudar o mundo microscópico dos seres vivos.",
+      "difficulty": "facil"
+    }
+  ]
+}

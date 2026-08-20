@@ -1,0 +1,1184 @@
+{
+  "generatedFor": "Matemática 5º ano — Aprendizagens Essenciais",
+  "cards": [
+    {
+      "id": "c001",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 7/12 ou 2/12?",
+      "answer": "7/12",
+      "explanation": "Como as frações têm o mesmo denominador (12), compara-se diretamente o numerador: 7 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c002",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 40?",
+      "answer": "8",
+      "explanation": "Divisores de 40: 1, 2, 4, 5, 8, 10, 20, 40.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c003",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de massa",
+      "question": "Quantos gramas há num quilograma?",
+      "answer": "1000 g",
+      "explanation": "1 kg = 1000 g, seguindo o mesmo princípio do sistema métrico decimal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c004",
+      "domain": "Geometria e Medida",
+      "topic": "Área",
+      "question": "Como se calcula a área de um retângulo com 7 cm de comprimento e 4 cm de largura?",
+      "answer": "28 cm²",
+      "explanation": "A área do retângulo é dada por comprimento × largura: A = 7 × 4 = 28 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c005",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 6 cm de comprimento e 10 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 32 cm; Área = 60 cm²",
+      "explanation": "Perímetro: 2×(6+10) = 32 cm. Área: 6×10 = 60 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c006",
+      "domain": "Números",
+      "topic": "Máximo divisor comum (ideia)",
+      "question": "Quais são os divisores comuns a 12 e 18?",
+      "answer": "1, 2, 3 e 6",
+      "explanation": "Divisores de 12: 1, 2, 3, 4, 6, 12. Divisores de 18: 1, 2, 3, 6, 9, 18. Os que aparecem em ambas as listas são 1, 2, 3 e 6.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c007",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de tempo",
+      "question": "Quantos minutos há em 2 horas e meia?",
+      "answer": "150 minutos",
+      "explanation": "1 hora = 60 minutos. 2 horas = 120 minutos; meia hora = 30 minutos; 120 + 30 = 150 minutos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c008",
+      "domain": "Geometria e Medida",
+      "topic": "Ângulos",
+      "question": "Qual é a amplitude de um ângulo raso?",
+      "answer": "180°",
+      "explanation": "O ângulo raso corresponde a meia volta e mede exatamente 180° — os seus lados formam uma linha reta.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c009",
+      "domain": "Números",
+      "topic": "Números decimais",
+      "question": "No número 6,205, qual é o algarismo das centésimas?",
+      "answer": "0",
+      "explanation": "Após a vírgula, a 1ª casa é das décimas, a 2ª das centésimas e a 3ª das milésimas: 6,205 → 2 (décimas), 0 (centésimas), 5 (milésimas).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c010",
+      "domain": "Dados e Probabilidade",
+      "topic": "Amostra e população",
+      "question": "Numa sondagem sobre o desporto favorito, feita a 30 alunos de uma escola com 500 alunos, o que representam os 30 alunos?",
+      "answer": "Uma amostra da população (os 500 alunos da escola)",
+      "explanation": "A população é o conjunto total que se quer estudar; a amostra é um subconjunto representativo, usado quando não é possível (ou prático) inquirir toda a população.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c011",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 63 é primo ou composto?",
+      "answer": "Composto",
+      "explanation": "63 tem outros divisores além de 1 e 63 — por exemplo 3 — logo é composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c012",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 11 cm de comprimento e 10 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 42 cm; Área = 110 cm²",
+      "explanation": "Perímetro: 2×(11+10) = 42 cm. Área: 11×10 = 110 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c013",
+      "domain": "Números",
+      "topic": "Expressões numéricas",
+      "question": "Calcula, respeitando a prioridade das operações: 5 + 3 × 2",
+      "answer": "11",
+      "explanation": "A multiplicação tem prioridade sobre a adição: primeiro calcula-se 3×2=6, depois 5+6=11.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c014",
+      "domain": "Geometria e Medida",
+      "topic": "Ângulos",
+      "question": "Como se classifica um ângulo com amplitude menor que 90°?",
+      "answer": "Ângulo agudo",
+      "explanation": "Qualquer ângulo com amplitude entre 0° e 90° (sem incluir estes valores) é classificado como agudo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c015",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 5/6 ou 7/9?",
+      "answer": "5/6",
+      "explanation": "Reduzindo ao mesmo denominador (18): 5/6 = 15/18 e 7/9 = 14/18. Como 15/18 > 14/18, conclui-se que 5/6 > 7/9.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c016",
+      "domain": "Geometria e Medida",
+      "topic": "Circunferência e círculo",
+      "question": "Qual é a diferença entre circunferência e círculo?",
+      "answer": "A circunferência é a linha (o contorno); o círculo é a região plana delimitada por essa linha",
+      "explanation": "Podemos pensar na circunferência como a 'moldura' e no círculo como a 'moldura mais o interior preenchido'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c017",
+      "domain": "Números",
+      "topic": "Frações equivalentes",
+      "question": "As frações 2/3 e 8/12 são equivalentes? Justifica.",
+      "answer": "Sim",
+      "explanation": "Multiplicando o numerador e o denominador de 2/3 por 4, obtém-se 8/12 (2×4=8 e 3×4=12). Como representam a mesma parte do todo, são frações equivalentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c018",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 5/4 ou 3/4?",
+      "answer": "5/4",
+      "explanation": "Como as frações têm o mesmo denominador (4), compara-se diretamente o numerador: 5 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c019",
+      "domain": "Números",
+      "topic": "Frações",
+      "question": "O que representa o denominador de uma fração?",
+      "answer": "O número de partes iguais em que o todo foi dividido",
+      "explanation": "Numa fração a/b, o denominador (b) indica em quantas partes iguais se dividiu a unidade, e o numerador (a) indica quantas dessas partes se consideram.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c020",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 11 cm de comprimento e 9 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 40 cm; Área = 99 cm²",
+      "explanation": "Perímetro: 2×(11+9) = 40 cm. Área: 11×9 = 99 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c021",
+      "domain": "Geometria e Medida",
+      "topic": "Área",
+      "question": "Um quadrado tem 5 cm de lado. Qual é a sua área?",
+      "answer": "25 cm²",
+      "explanation": "A área do quadrado é lado × lado: A = 5 × 5 = 25 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c022",
+      "domain": "Álgebra",
+      "topic": "Números em falta",
+      "question": "Descobre o número em falta: __ + 15 = 42",
+      "answer": "27",
+      "explanation": "Para descobrir o número em falta, subtrai-se: 42 − 15 = 27. Verificação: 27+15=42.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c023",
+      "domain": "Números",
+      "topic": "Subtração de frações",
+      "question": "Calcula 5/8 − 1/8.",
+      "answer": "4/8, que simplifica para 1/2",
+      "explanation": "Com o mesmo denominador, subtraem-se os numeradores: 5−1=4, ficando 4/8. Simplificando (dividindo por 4), obtém-se 1/2.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c024",
+      "domain": "Álgebra",
+      "topic": "Sequências",
+      "question": "Numa sequência, os termos são 2, 4, 8, 16… Qual é a regra e qual é o próximo termo?",
+      "answer": "Cada termo é o dobro do anterior; o próximo termo é 32",
+      "explanation": "2×2=4, 4×2=8, 8×2=16, logo o próximo é 16×2=32.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c025",
+      "domain": "Geometria e Medida",
+      "topic": "Polígonos",
+      "question": "Como se chama um polígono com 5 lados?",
+      "answer": "Pentágono",
+      "explanation": "Os polígonos recebem nomes conforme o número de lados: triângulo (3), quadrilátero (4), pentágono (5), hexágono (6), heptágono (7), octógono (8).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c026",
+      "domain": "Números",
+      "topic": "Critérios de divisibilidade",
+      "question": "Como se sabe, sem dividir, se um número é divisível por 4?",
+      "answer": "Se o número formado pelos dois últimos algarismos for múltiplo de 4 (ou 00)",
+      "explanation": "Exemplo: 3 716 → os dois últimos algarismos formam 16, que é múltiplo de 4 (16÷4=4), logo 3 716 é divisível por 4.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c027",
+      "domain": "Álgebra",
+      "topic": "Expressões com incógnita",
+      "question": "Se x + 8 = 15, qual é o valor de x?",
+      "answer": "x = 7",
+      "explanation": "Para isolar x, subtrai-se 8 a ambos os membros: x = 15 − 8 = 7.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c028",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 23?",
+      "answer": "2",
+      "explanation": "Divisores de 23: 1, 23.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c029",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 34 é primo ou composto?",
+      "answer": "Composto",
+      "explanation": "34 tem outros divisores além de 1 e 34 — por exemplo 2 — logo é composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c030",
+      "domain": "Dados e Probabilidade",
+      "topic": "Interpretação de dados",
+      "question": "Num gráfico de barras, a categoria 'natação' tem a barra mais alta de todas. O que isso significa?",
+      "answer": "Que 'natação' foi a resposta com maior frequência (a mais escolhida)",
+      "explanation": "A barra mais alta corresponde sempre à categoria com mais respostas — é a moda do conjunto de dados nesse contexto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c031",
+      "domain": "Dados e Probabilidade",
+      "topic": "Diagrama de caule-e-folhas",
+      "question": "Num diagrama de caule-e-folhas, o que representa o 'caule'?",
+      "answer": "A(s) ordem(s) de maior valor dos dados (por exemplo, as dezenas), enquanto a 'folha' representa a ordem das unidades",
+      "explanation": "Por exemplo, para o valor 47, o caule é '4' (dezenas) e a folha é '7' (unidades). Vários valores com o mesmo caule partilham a mesma linha.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c032",
+      "domain": "Números",
+      "topic": "Valor posicional",
+      "question": "No número 47 832, qual é o valor posicional do algarismo 8?",
+      "answer": "800 (oito centenas)",
+      "explanation": "O algarismo 8 ocupa a 3ª casa a contar da direita, a casa das centenas, por isso vale 8 × 100 = 800.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c033",
+      "domain": "Dados e Probabilidade",
+      "topic": "Pictogramas",
+      "question": "Num pictograma sobre livros lidos, cada símbolo representa 2 livros. Se uma turma tem 5 símbolos, quantos livros leu?",
+      "answer": "10 livros",
+      "explanation": "Cada símbolo vale 2 livros, então multiplica-se: 5 símbolos × 2 livros = 10 livros.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c034",
+      "domain": "Dados e Probabilidade",
+      "topic": "Tabelas de frequências",
+      "question": "Para que serve uma tabela de frequências?",
+      "answer": "Para organizar os dados recolhidos, mostrando quantas vezes (frequência) cada valor ou categoria ocorre",
+      "explanation": "É uma forma de resumir um conjunto grande de respostas, tornando mais fácil ver padrões, comparar categorias e construir gráficos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c035",
+      "domain": "Números",
+      "topic": "Numeral misto",
+      "question": "Escreve a fração 17/5 na forma de numeral misto.",
+      "answer": "3 e 2/5 (três inteiros e dois quintos)",
+      "explanation": "Divide-se 17 por 5: 17÷5 dá quociente 3 e resto 2. O quociente é a parte inteira e o resto forma a nova fração: 3 + 2/5.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c036",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 80?",
+      "answer": "10",
+      "explanation": "Divisores de 80: 1, 2, 4, 5, 8, 10, 16, 20, 40, 80.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c037",
+      "domain": "Geometria e Medida",
+      "topic": "Posição relativa de retas",
+      "question": "Duas retas que se cruzam num único ponto, mas sem formar ângulo de 90°, dizem-se…",
+      "answer": "Concorrentes (oblíquas)",
+      "explanation": "Retas concorrentes intersectam-se num só ponto. Se esse ângulo for de 90°, são também perpendiculares; caso contrário, dizem-se apenas concorrentes ou oblíquas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c038",
+      "domain": "Álgebra",
+      "topic": "Sequências decrescentes",
+      "question": "Numa sequência, os termos são 50, 44, 38, 32… Qual é o próximo termo?",
+      "answer": "26",
+      "explanation": "A diferença entre termos consecutivos é sempre −6 (50−6=44, 44−6=38, 38−6=32). O próximo termo é 32−6=26.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c039",
+      "domain": "Números",
+      "topic": "Propriedades das operações",
+      "question": "Como se chama a propriedade que permite calcular 4 × (2 + 3) = 4×2 + 4×3?",
+      "answer": "Propriedade distributiva da multiplicação em relação à adição",
+      "explanation": "Esta propriedade permite 'distribuir' a multiplicação por cada parcela da soma dentro dos parênteses: 4×(2+3) = 8+12 = 20, tal como 4×5 = 20.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c040",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 25?",
+      "answer": "3",
+      "explanation": "Divisores de 25: 1, 5, 25.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c041",
+      "domain": "Números",
+      "topic": "Mínimo múltiplo comum (ideia)",
+      "question": "Qual é o menor múltiplo comum a 4 e a 6, maior que zero?",
+      "answer": "12",
+      "explanation": "Múltiplos de 4: 4, 8, 12, 16… Múltiplos de 6: 6, 12, 18… O menor número que aparece nas duas listas é 12.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c042",
+      "domain": "Geometria e Medida",
+      "topic": "Sólidos geométricos",
+      "question": "Quantas faces, vértices e arestas tem um cubo?",
+      "answer": "6 faces, 8 vértices e 12 arestas",
+      "explanation": "O cubo é um prisma quadrangular regular: tem 6 faces quadradas, 8 vértices (pontas) e 12 arestas (linhas onde as faces se encontram).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c043",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 55?",
+      "answer": "4",
+      "explanation": "Divisores de 55: 1, 5, 11, 55.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c044",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de comprimento",
+      "question": "Converte 3,5 metros em centímetros.",
+      "answer": "350 cm",
+      "explanation": "Para converter metros em centímetros, multiplica-se por 100: 3,5 × 100 = 350 cm.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c045",
+      "domain": "Números",
+      "topic": "Múltiplos",
+      "question": "Quais são os primeiros 5 múltiplos de 7 (maiores que zero)?",
+      "answer": "7, 14, 21, 28, 35",
+      "explanation": "Os múltiplos de um número obtêm-se multiplicando-o sucessivamente por 1, 2, 3, 4, 5…: 7×1=7, 7×2=14, 7×3=21, 7×4=28, 7×5=35.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c046",
+      "domain": "Geometria e Medida",
+      "topic": "Triângulos",
+      "question": "Como se classifica um triângulo que tem um ângulo reto?",
+      "answer": "Triângulo retângulo",
+      "explanation": "Um triângulo com um ângulo de 90° chama-se retângulo. Os lados que formam esse ângulo chamam-se catetos, e o lado oposto chama-se hipotenusa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c047",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de comprimento",
+      "question": "Quantos centímetros há num metro?",
+      "answer": "100 cm",
+      "explanation": "1 metro = 100 centímetros, porque cada unidade do sistema métrico vale 10 vezes a unidade imediatamente inferior (m → dm → cm → mm).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c048",
+      "domain": "Geometria e Medida",
+      "topic": "Planificações",
+      "question": "O que é a planificação de um sólido geométrico?",
+      "answer": "A representação de todas as faces do sólido, desenhadas no plano e ligadas entre si, que ao serem dobradas reconstroem o sólido",
+      "explanation": "É como 'desmontar' o sólido e espalmá-lo numa folha — útil, por exemplo, para construir um cubo em cartolina.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c049",
+      "domain": "Geometria e Medida",
+      "topic": "Soma dos ângulos internos",
+      "question": "Qual é a soma das amplitudes dos ângulos internos de qualquer triângulo?",
+      "answer": "180°",
+      "explanation": "Em qualquer triângulo, por maior ou mais estranho que seja, a soma dos três ângulos internos é sempre 180°.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c050",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência absoluta",
+      "question": "Numa turma de 20 alunos, 8 preferem futebol. Qual é a frequência absoluta da resposta 'futebol'?",
+      "answer": "8",
+      "explanation": "A frequência absoluta é simplesmente o número de vezes que uma resposta ocorre — neste caso, 8 alunos responderam 'futebol'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c051",
+      "domain": "Números",
+      "topic": "Números primos e compostos",
+      "question": "1 é um número primo? Porquê?",
+      "answer": "Não",
+      "explanation": "Por definição, um número primo tem exatamente dois divisores diferentes. O número 1 tem apenas um divisor (ele próprio), por isso não é considerado primo nem composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c052",
+      "domain": "Números",
+      "topic": "Expressões numéricas",
+      "question": "Calcula: (5 + 3) × 2",
+      "answer": "16",
+      "explanation": "Os parênteses indicam o que se calcula primeiro: 5+3=8, depois 8×2=16.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c053",
+      "domain": "Álgebra",
+      "topic": "Pensamento computacional (ideia)",
+      "question": "Se um algoritmo repete a instrução 'soma 3' quatro vezes a partir de 0, que número final se obtém?",
+      "answer": "12",
+      "explanation": "Repetir 'soma 3' quatro vezes a partir de 0 corresponde a 0+3+3+3+3, ou seja, 4×3=12.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c054",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 2/12 ou 3/12?",
+      "answer": "3/12",
+      "explanation": "Como as frações têm o mesmo denominador (12), compara-se diretamente o numerador: 3 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c055",
+      "domain": "Números",
+      "topic": "Divisão inteira",
+      "question": "Numa divisão inteira, o dividendo é 47, o divisor é 6. Qual é o quociente e qual é o resto?",
+      "answer": "Quociente 7, resto 5",
+      "explanation": "6 × 7 = 42, e 47 − 42 = 5. Como 5 é menor que o divisor 6, a divisão está certa: 47 = 6×7 + 5.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c056",
+      "domain": "Álgebra",
+      "topic": "Sinal de igualdade",
+      "question": "A expressão 12 − 5 = 4 + 3 é verdadeira ou falsa?",
+      "answer": "Verdadeira",
+      "explanation": "12−5=7 e 4+3=7. Como os dois membros são iguais (ambos valem 7), a igualdade é verdadeira.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c057",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 25 alunos, 9 preferem Ciências. Qual é a frequência relativa, em fração irredutível?",
+      "answer": "9/25",
+      "explanation": "Frequência relativa = 9/25. Dividindo ambos por 1 (o maior divisor comum), obtém-se a fração irredutível 9/25.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c058",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 26?",
+      "answer": "4",
+      "explanation": "Divisores de 26: 1, 2, 13, 26.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c059",
+      "domain": "Álgebra",
+      "topic": "Termo geral (ideia)",
+      "question": "Numa sequência em que o termo de ordem n é dado por 3×n + 1, qual é o valor do 5º termo?",
+      "answer": "16",
+      "explanation": "Substitui-se n por 5 na expressão: 3×5+1 = 15+1 = 16.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c060",
+      "domain": "Números",
+      "topic": "Números pares e ímpares",
+      "question": "A soma de dois números ímpares é sempre par ou ímpar?",
+      "answer": "Par",
+      "explanation": "Por exemplo, 3+5=8 e 7+9=16. Dois números ímpares deixam sempre resto 1 na divisão por 2; somados, esses restos completam mais uma unidade, tornando o total divisível por 2.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c061",
+      "domain": "Dados e Probabilidade",
+      "topic": "Tipos de variáveis",
+      "question": "A 'altura dos alunos em centímetros' é uma variável qualitativa ou quantitativa?",
+      "answer": "Quantitativa",
+      "explanation": "É quantitativa porque as respostas são valores numéricos (medidas), que podem ser ordenados e usados em cálculos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c062",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O que é um número primo?",
+      "answer": "Um número natural maior que 1 que tem exatamente dois divisores: 1 e ele próprio",
+      "explanation": "Por exemplo, 7 só é divisível por 1 e por 7, por isso é primo. Já o 8 tem mais divisores (1, 2, 4, 8), logo não é primo — é composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c063",
+      "domain": "Números",
+      "topic": "Operações com decimais",
+      "question": "Calcula: 4,7 + 2,35",
+      "answer": "7,05",
+      "explanation": "Alinham-se as vírgulas: 4,70 + 2,35 = 7,05.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c064",
+      "domain": "Álgebra",
+      "topic": "Expressões numéricas",
+      "question": "Calcula o valor de 2 × (3 + 5) − 4.",
+      "answer": "12",
+      "explanation": "Primeiro os parênteses: 3+5=8. Depois a multiplicação: 2×8=16. Por fim a subtração: 16−4=12.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c065",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de área",
+      "question": "Quantos cm² há num m²?",
+      "answer": "10 000 cm²",
+      "explanation": "Um quadrado de 1 m de lado equivale a um quadrado de 100 cm de lado; a área é 100 × 100 = 10 000 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c066",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 3/5 ou 3/8?",
+      "answer": "3/5",
+      "explanation": "Quando o numerador é igual, é maior a fração com menor denominador, porque o todo foi dividido em partes maiores. Como 5 < 8, cada quinto é maior do que cada oitavo, logo 3/5 > 3/8.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c067",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 23 é primo ou composto?",
+      "answer": "Primo",
+      "explanation": "23 só é divisível por 1 e por 23, logo é primo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c068",
+      "domain": "Álgebra",
+      "topic": "Relações entre grandezas",
+      "question": "Um carro percorre 60 km em cada hora, a uma velocidade constante. Quantos km percorre em 3 horas?",
+      "answer": "180 km",
+      "explanation": "Como a velocidade é constante, a distância é diretamente proporcional ao tempo: 60 km/h × 3 h = 180 km.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c069",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 61?",
+      "answer": "2",
+      "explanation": "Divisores de 61: 1, 61.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c070",
+      "domain": "Álgebra",
+      "topic": "Regularidades numéricas",
+      "question": "Completa a sequência: 100, 90, 80, 70, __",
+      "answer": "60",
+      "explanation": "A sequência diminui sempre 10 unidades em cada passo, logo o termo seguinte é 70−10=60.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c071",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 41 é primo ou composto?",
+      "answer": "Primo",
+      "explanation": "41 só é divisível por 1 e por 41, logo é primo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c072",
+      "domain": "Dados e Probabilidade",
+      "topic": "Acontecimentos",
+      "question": "Ao lançar um dado equilibrado de 6 faces, sair o número 7 é um acontecimento certo, possível ou impossível?",
+      "answer": "Impossível",
+      "explanation": "Um dado de 6 faces só tem os números de 1 a 6, por isso nunca pode sair o número 7 — é um acontecimento impossível.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c073",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 5/12 ou 2/12?",
+      "answer": "5/12",
+      "explanation": "Como as frações têm o mesmo denominador (12), compara-se diretamente o numerador: 5 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c074",
+      "domain": "Geometria e Medida",
+      "topic": "Circunferência",
+      "question": "O que é o raio de uma circunferência?",
+      "answer": "O segmento de reta que une o centro a qualquer ponto da circunferência",
+      "explanation": "Todos os raios de uma mesma circunferência têm o mesmo comprimento. O diâmetro é o dobro do raio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c075",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 56 é primo ou composto?",
+      "answer": "Composto",
+      "explanation": "56 tem outros divisores além de 1 e 56 — por exemplo 2 — logo é composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c076",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 11 cm de comprimento e 4 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 30 cm; Área = 44 cm²",
+      "explanation": "Perímetro: 2×(11+4) = 30 cm. Área: 11×4 = 44 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c077",
+      "domain": "Dados e Probabilidade",
+      "topic": "Probabilidade (ideia intuitiva)",
+      "question": "Numa saca com 3 bolas vermelhas e 2 bolas azuis, é mais provável tirar uma bola vermelha ou uma bola azul?",
+      "answer": "Vermelha",
+      "explanation": "Há mais bolas vermelhas (3) do que azuis (2) na saca, por isso é mais provável, ao acaso, sair uma bola vermelha.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c078",
+      "domain": "Geometria e Medida",
+      "topic": "Quadriláteros",
+      "question": "Quantos lados e quantos ângulos internos tem um quadrilátero?",
+      "answer": "4 lados e 4 ângulos internos",
+      "explanation": "'Quadri' remete para quatro: um quadrilátero é sempre um polígono de 4 lados e 4 ângulos, como o quadrado, o retângulo, o losango ou o trapézio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c079",
+      "domain": "Geometria e Medida",
+      "topic": "Retas",
+      "question": "O que são retas paralelas?",
+      "answer": "Retas que nunca se intersectam, mantendo sempre a mesma distância entre si",
+      "explanation": "Duas retas no mesmo plano são paralelas se, por mais que se prolonguem, nunca se cruzam — como os carris de uma linha de comboio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c080",
+      "domain": "Álgebra",
+      "topic": "Padrões geométricos",
+      "question": "Numa sequência de quadrados feitos com azulejos, o número de azulejos é sempre o quadrado da ordem da figura (1º=1, 2º=4, 3º=9…). Quantos azulejos tem a 5ª figura?",
+      "answer": "25 azulejos",
+      "explanation": "A regra é: número de azulejos = ordem × ordem. Para a 5ª figura: 5×5=25.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c081",
+      "domain": "Geometria e Medida",
+      "topic": "Ângulos",
+      "question": "Como se classifica um ângulo com amplitude de 90°?",
+      "answer": "Ângulo reto",
+      "explanation": "Um ângulo de exatamente 90° chama-se ângulo reto. É o ângulo que se forma, por exemplo, entre os dois lados de um esquadro.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c082",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 29?",
+      "answer": "2",
+      "explanation": "Divisores de 29: 1, 29.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c083",
+      "domain": "Números",
+      "topic": "Adição de frações",
+      "question": "Calcula 2/7 + 3/7.",
+      "answer": "5/7",
+      "explanation": "Com o mesmo denominador, somam-se apenas os numeradores e mantém-se o denominador: 2+3=5, ficando 5/7.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c084",
+      "domain": "Geometria e Medida",
+      "topic": "Soma dos ângulos internos",
+      "question": "Num triângulo, dois dos ângulos medem 50° e 70°. Quanto mede o terceiro ângulo?",
+      "answer": "60°",
+      "explanation": "A soma dos ângulos internos de um triângulo é 180°. Então: 180° − 50° − 70° = 60°.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c085",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 12 cm de comprimento e 5 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 34 cm; Área = 60 cm²",
+      "explanation": "Perímetro: 2×(12+5) = 34 cm. Área: 12×5 = 60 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c086",
+      "domain": "Números",
+      "topic": "Critérios de divisibilidade",
+      "question": "Como se sabe, sem dividir, se um número é divisível por 3?",
+      "answer": "Se a soma dos seus algarismos for múltiplo de 3",
+      "explanation": "Exemplo: 234 → 2+3+4 = 9, que é múltiplo de 3, logo 234 é divisível por 3 (234÷3=78).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c087",
+      "domain": "Números",
+      "topic": "Simplificação de frações",
+      "question": "Simplifica a fração 18/24 para a sua forma irredutível.",
+      "answer": "3/4",
+      "explanation": "18 e 24 têm o divisor comum 6: 18÷6=3 e 24÷6=4. Como 3 e 4 já não têm divisores comuns além de 1, a fração 3/4 é irredutível.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c088",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "O número 77 é primo ou composto?",
+      "answer": "Composto",
+      "explanation": "77 tem outros divisores além de 1 e 77 — por exemplo 7 — logo é composto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c089",
+      "domain": "Números",
+      "topic": "Comparação de decimais",
+      "question": "Qual é maior: 3,4 ou 3,25?",
+      "answer": "3,4",
+      "explanation": "Comparam-se casa a casa a partir da vírgula: as partes inteiras são iguais (3). Nas décimas, 4 > 2, por isso 3,4 é maior, independentemente do número de casas decimais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c090",
+      "domain": "Geometria e Medida",
+      "topic": "Ângulos",
+      "question": "Como se classifica um ângulo com amplitude entre 90° e 180°?",
+      "answer": "Ângulo obtuso",
+      "explanation": "Ângulos com amplitude superior a 90° e inferior a 180° chamam-se obtusos. Abaixo de 90° são agudos; exatamente 180° é um ângulo raso.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c091",
+      "domain": "Geometria e Medida",
+      "topic": "Área do triângulo",
+      "question": "Um triângulo tem 10 cm de base e 6 cm de altura. Qual é a sua área?",
+      "answer": "30 cm²",
+      "explanation": "A área do triângulo é (base × altura) ÷ 2: A = (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c092",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 20 alunos, 10 preferem Ciências. Qual é a frequência relativa, em fração irredutível?",
+      "answer": "1/2",
+      "explanation": "Frequência relativa = 10/20. Dividindo ambos por 10 (o maior divisor comum), obtém-se a fração irredutível 1/2.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c093",
+      "domain": "Geometria e Medida",
+      "topic": "Retas",
+      "question": "O que são retas perpendiculares?",
+      "answer": "Retas que se intersectam formando um ângulo reto (90°)",
+      "explanation": "Quando duas retas se cruzam e o ângulo formado é exatamente 90°, dizem-se perpendiculares — como os lados de uma folha de papel.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c094",
+      "domain": "Dados e Probabilidade",
+      "topic": "Contagem e organização",
+      "question": "Antes de construir uma tabela de frequências, o que se costuma fazer aos dados recolhidos em bruto?",
+      "answer": "Organizá-los, por exemplo através de uma contagem (traços) de cada valor ou categoria",
+      "explanation": "Uma tabela de contagem ajuda a passar de uma lista desordenada de respostas para um resumo organizado, que depois se transforma na tabela de frequências.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c095",
+      "domain": "Dados e Probabilidade",
+      "topic": "Gráficos de barras",
+      "question": "Num gráfico de barras sobre desportos preferidos, qual é a informação dada pela altura de cada barra?",
+      "answer": "A frequência (o número de respostas) de cada categoria",
+      "explanation": "Quanto mais alta a barra, maior é a frequência dessa categoria — o eixo vertical costuma representar o número de respostas ou a percentagem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c096",
+      "domain": "Álgebra",
+      "topic": "Sequências",
+      "question": "Numa sequência, os termos são 3, 7, 11, 15… Qual é a regra de formação e qual é o próximo termo?",
+      "answer": "Soma-se sempre 4 ao termo anterior; o próximo termo é 19",
+      "explanation": "A diferença entre termos consecutivos é constante: 7−3=4, 11−7=4, 15−11=4. Logo, o termo seguinte é 15+4=19.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c097",
+      "domain": "Geometria e Medida",
+      "topic": "Sólidos geométricos",
+      "question": "Quantas faces tem uma pirâmide de base quadrangular?",
+      "answer": "5 faces (1 base quadrada + 4 faces triangulares)",
+      "explanation": "A pirâmide quadrangular tem uma base em forma de quadrado e quatro faces laterais triangulares que se encontram no vértice.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c098",
+      "domain": "Dados e Probabilidade",
+      "topic": "Recolha de dados",
+      "question": "Qual é a primeira etapa de um estudo estatístico?",
+      "answer": "Definir claramente a questão ou o objetivo do estudo, e depois planear como recolher os dados",
+      "explanation": "Antes de recolher dados, é preciso saber exatamente o que se quer descobrir — só assim se escolhe bem a amostra e o método de recolha (inquérito, observação, etc.).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c099",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 46?",
+      "answer": "4",
+      "explanation": "Divisores de 46: 1, 2, 23, 46.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c100",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quais são todos os divisores de 24?",
+      "answer": "1, 2, 3, 4, 6, 8, 12, 24",
+      "explanation": "Um divisor de 24 é um número que divide 24 sem deixar resto. Testando: 24÷1=24, 24÷2=12, 24÷3=8, 24÷4=6, 24÷6=4, 24÷8=3, 24÷12=2, 24÷24=1.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c101",
+      "domain": "Dados e Probabilidade",
+      "topic": "Gráficos",
+      "question": "Além do gráfico de barras e do pictograma, indica outro tipo de gráfico usado para organizar dados.",
+      "answer": "Diagrama de caule-e-folhas (ou gráfico circular / de linhas, consoante o tipo de dados)",
+      "explanation": "A escolha do gráfico depende do tipo de dados e do que se quer destacar: comparações (barras), evolução no tempo (linhas), partes de um todo (circular).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c102",
+      "domain": "Números",
+      "topic": "Divisores",
+      "question": "Quantos divisores tem o número 73?",
+      "answer": "2",
+      "explanation": "Divisores de 73: 1, 73.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "c103",
+      "domain": "Números",
+      "topic": "Critérios de divisibilidade",
+      "question": "Como se sabe, sem dividir, se um número é divisível por 9?",
+      "answer": "Se a soma dos seus algarismos for múltiplo de 9",
+      "explanation": "Exemplo: 5 481 → 5+4+8+1 = 18, que é múltiplo de 9, logo 5 481 é divisível por 9.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c104",
+      "domain": "Geometria e Medida",
+      "topic": "Sólidos geométricos",
+      "question": "O que distingue um prisma de uma pirâmide?",
+      "answer": "O prisma tem duas bases iguais e paralelas; a pirâmide tem apenas uma base e um vértice comum a todas as faces laterais",
+      "explanation": "Nas faces laterais, o prisma tem retângulos (ou paralelogramos) e a pirâmide tem triângulos que se encontram todos num único ponto, o vértice da pirâmide.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c105",
+      "domain": "Álgebra",
+      "topic": "Expressões com incógnita",
+      "question": "Se 4 × x = 28, qual é o valor de x?",
+      "answer": "x = 7",
+      "explanation": "Para isolar x, divide-se ambos os membros por 4: x = 28 ÷ 4 = 7.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c106",
+      "domain": "Números",
+      "topic": "Propriedades das operações",
+      "question": "Como se chama a propriedade da adição que diz que 5 + 8 = 8 + 5?",
+      "answer": "Propriedade comutativa",
+      "explanation": "A propriedade comutativa da adição garante que trocar a ordem das parcelas não altera o resultado da soma.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c107",
+      "domain": "Números",
+      "topic": "Números primos",
+      "question": "Indica os números primos entre 10 e 20.",
+      "answer": "11, 13, 17, 19",
+      "explanation": "Testando cada número de 10 a 20: 11, 13, 17 e 19 só são divisíveis por 1 e por si próprios. Os restantes (12, 14, 15, 16, 18, 20) têm mais divisores.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c108",
+      "domain": "Álgebra",
+      "topic": "Proporcionalidade direta (ideia)",
+      "question": "Se 3 canetas custam 6 €, quanto custam 5 canetas ao mesmo preço?",
+      "answer": "10 €",
+      "explanation": "Cada caneta custa 6€÷3=2€. Para 5 canetas: 5×2€=10€. As grandezas são diretamente proporcionais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c109",
+      "domain": "Geometria e Medida",
+      "topic": "Simetria",
+      "question": "O que é um eixo de simetria de uma figura?",
+      "answer": "Uma linha que divide a figura em duas partes exatamente iguais, uma espelho da outra",
+      "explanation": "Se dobrarmos a figura ao longo do eixo de simetria, as duas metades encaixam perfeitamente uma na outra.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c110",
+      "domain": "Números",
+      "topic": "Ordens e classes",
+      "question": "Quantas classes tem o número 5 214 397?",
+      "answer": "Duas classes: a classe dos milhões e a classe das unidades",
+      "explanation": "5 214 397 = 5 milhões, 214 mil e 397 unidades. A classe dos milhões (5) e a classe das unidades (214 397, com as ordens de milhar e simples).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c111",
+      "domain": "Álgebra",
+      "topic": "Regularidades",
+      "question": "Numa sequência de figuras feitas com palitos, a 1ª figura tem 4 palitos, a 2ª tem 7 e a 3ª tem 10. Quantos palitos terá a 4ª figura?",
+      "answer": "13 palitos",
+      "explanation": "A sequência aumenta sempre 3 palitos de figura para figura (4, 7, 10, 13…), porque se acrescenta o mesmo padrão a cada passo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c112",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 25 alunos, 12 preferem Ciências. Qual é a frequência relativa, em fração irredutível?",
+      "answer": "12/25",
+      "explanation": "Frequência relativa = 12/25. Dividindo ambos por 1 (o maior divisor comum), obtém-se a fração irredutível 12/25.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c113",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 40 alunos, 6 preferem Ciências. Qual é a frequência relativa, em fração irredutível?",
+      "answer": "3/20",
+      "explanation": "Frequência relativa = 6/40. Dividindo ambos por 2 (o maior divisor comum), obtém-se a fração irredutível 3/20.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c114",
+      "domain": "Dados e Probabilidade",
+      "topic": "Moda",
+      "question": "Numa turma, as notas de um teste (0 a 5) foram: 3, 4, 3, 5, 3, 4, 2. Qual é a moda?",
+      "answer": "3",
+      "explanation": "A moda é o valor que aparece mais vezes no conjunto de dados. O valor 3 aparece 3 vezes, mais do que qualquer outro.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c115",
+      "domain": "Dados e Probabilidade",
+      "topic": "Acontecimentos",
+      "question": "Ao lançar um dado equilibrado de 6 faces, sair um número entre 1 e 6 é um acontecimento certo, possível ou impossível?",
+      "answer": "Certo",
+      "explanation": "Como o dado só tem as faces de 1 a 6, é garantido que o resultado estará sempre entre 1 e 6 — é um acontecimento certo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c116",
+      "domain": "Dados e Probabilidade",
+      "topic": "Probabilidade (ideia intuitiva)",
+      "question": "Ao lançar uma moeda equilibrada, qual é a probabilidade de sair 'coroa'?",
+      "answer": "1 em 2 (ou seja, metade das vezes, 1/2)",
+      "explanation": "Uma moeda tem apenas dois resultados possíveis, igualmente prováveis: cara ou coroa. Logo, cada um tem probabilidade 1/2.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c117",
+      "domain": "Números",
+      "topic": "Sistema de numeração decimal",
+      "question": "Quantas unidades tem uma dezena de milhar?",
+      "answer": "10 000",
+      "explanation": "Cada ordem do sistema decimal vale 10 vezes a anterior: 1 dezena de milhar = 10 × 1000 unidades = 10 000 unidades.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c118",
+      "domain": "Números",
+      "topic": "Arredondamentos",
+      "question": "Arredonda 6,378 às décimas.",
+      "answer": "6,4",
+      "explanation": "Olha-se para o algarismo das centésimas (7). Como 7 ≥ 5, arredonda-se por excesso: o algarismo das décimas sobe de 3 para 4, ficando 6,4.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c119",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 20 alunos, 8 preferem futebol. Qual é a frequência relativa dessa resposta?",
+      "answer": "8/20, que simplifica para 2/5 (ou 0,4, ou seja 40%)",
+      "explanation": "A frequência relativa é a frequência absoluta a dividir pelo total de dados: 8÷20 = 0,4 = 40%.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c120",
+      "domain": "Geometria e Medida",
+      "topic": "Unidades de capacidade",
+      "question": "Quantos mililitros há num litro?",
+      "answer": "1000 ml",
+      "explanation": "1 litro = 1000 mililitros. Uma garrafa de 1,5 l, por exemplo, tem 1500 ml.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c121",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 5/4 ou 8/4?",
+      "answer": "8/4",
+      "explanation": "Como as frações têm o mesmo denominador (4), compara-se diretamente o numerador: 8 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c122",
+      "domain": "Dados e Probabilidade",
+      "topic": "Frequência relativa em percentagem",
+      "question": "Numa turma de 25 alunos, 5 têm animal de estimação um gato. Qual é a percentagem correspondente?",
+      "answer": "20%",
+      "explanation": "Frequência relativa: 5÷25 = 0,2. Em percentagem, 0,2 corresponde a 20%.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c123",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro",
+      "question": "Um quadrado tem 6 cm de lado. Qual é o seu perímetro?",
+      "answer": "24 cm",
+      "explanation": "Num quadrado, os 4 lados são iguais: P = 4 × lado = 4 × 6 = 24 cm.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c124",
+      "domain": "Dados e Probabilidade",
+      "topic": "Tipos de variáveis",
+      "question": "Numa recolha de dados sobre a cor dos olhos dos colegas de turma, a variável em estudo é qualitativa ou quantitativa?",
+      "answer": "Qualitativa",
+      "explanation": "Uma variável é qualitativa quando as suas respostas são categorias ou qualidades (como cores), e não números. Se fosse a 'idade em anos', seria quantitativa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c125",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro",
+      "question": "Como se calcula o perímetro de um retângulo com 8 cm de comprimento e 5 cm de largura?",
+      "answer": "26 cm",
+      "explanation": "O perímetro é a soma de todos os lados: P = 2×(comprimento + largura) = 2×(8+5) = 2×13 = 26 cm.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c126",
+      "domain": "Geometria e Medida",
+      "topic": "Triângulos",
+      "question": "Como se classifica um triângulo com os três lados iguais?",
+      "answer": "Triângulo equilátero",
+      "explanation": "Num triângulo equilátero, os três lados (e também os três ângulos, todos de 60°) são iguais entre si.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c127",
+      "domain": "Geometria e Medida",
+      "topic": "Perímetro e área",
+      "question": "Um retângulo tem 5 cm de comprimento e 9 cm de largura. Calcula o seu perímetro e a sua área.",
+      "answer": "Perímetro = 28 cm; Área = 45 cm²",
+      "explanation": "Perímetro: 2×(5+9) = 28 cm. Área: 5×9 = 45 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c128",
+      "domain": "Números",
+      "topic": "Comparação de frações",
+      "question": "Qual é maior: 8/10 ou 3/10?",
+      "answer": "8/10",
+      "explanation": "Como as frações têm o mesmo denominador (10), compara-se diretamente o numerador: 8 é o maior numerador.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c129",
+      "domain": "Geometria e Medida",
+      "topic": "Triângulos",
+      "question": "Como se classifica um triângulo com os três lados de comprimentos diferentes?",
+      "answer": "Triângulo escaleno",
+      "explanation": "Quando nenhum dos três lados tem o mesmo comprimento, o triângulo chama-se escaleno. Se dois lados forem iguais, é isósceles; se os três forem iguais, é equilátero.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c130",
+      "domain": "Geometria e Medida",
+      "topic": "Polígonos",
+      "question": "Como se chama um polígono com 6 lados?",
+      "answer": "Hexágono",
+      "explanation": "Um hexágono tem exatamente 6 lados e 6 ângulos internos — é a forma clássica de um favo de mel.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "c131",
+      "domain": "Dados e Probabilidade",
+      "topic": "Média (ideia)",
+      "question": "As idades de 4 colegas são 10, 11, 10 e 9 anos. Qual é a idade média?",
+      "answer": "10 anos",
+      "explanation": "Soma-se todos os valores e divide-se pelo número de valores: (10+11+10+9)÷4 = 40÷4 = 10.",
+      "difficulty": "medio"
+    }
+  ]
+}
