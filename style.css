@@ -15,6 +15,17 @@
   --dados:#D97A34;
   --dados-bg:#FBEEE1;
 
+  --gramatica:#9C3B58;
+  --gramatica-bg:#F5E4EA;
+  --literaria:#8C6B3A;
+  --literaria-bg:#F0E9DA;
+  --leitura:#2E9E8A;
+  --leitura-bg:#E3F5F1;
+  --escrita:#6B6FB0;
+  --escrita-bg:#ECEDF7;
+  --oralidade:#7A9E3F;
+  --oralidade-bg:#EEF4E2;
+
   --card-shadow: 0 1px 0 rgba(38,50,62,.06), 0 12px 28px -14px rgba(38,50,62,.35);
   --radius-lg: 18px;
   --radius-md: 12px;
@@ -217,6 +228,11 @@ body{
 .tab--geometria.is-active{background:var(--geometria);}
 .tab--algebra.is-active{background:var(--algebra);}
 .tab--dados.is-active{background:var(--dados);}
+.tab--gramatica.is-active{background:var(--gramatica);}
+.tab--literaria.is-active{background:var(--literaria);}
+.tab--leitura.is-active{background:var(--leitura);}
+.tab--escrita.is-active{background:var(--escrita);}
+.tab--oralidade.is-active{background:var(--oralidade);}
 
 .stage{
   position:relative;

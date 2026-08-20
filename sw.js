@@ -1,4 +1,4 @@
-const CACHE_NAME = "prepara-te-v1";
+const CACHE_NAME = "prepara-te-v2";
 const APP_SHELL = [
   "./",
   "index.html",
@@ -14,6 +14,7 @@ const APP_SHELL = [
   "js/views/subject-select.js",
   "data/catalog.json",
   "data/5/matematica.json",
+  "data/5/portugues.json",
   "icons/icon-192.png",
   "icons/icon-512.png",
 ];

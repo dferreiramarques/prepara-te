@@ -11,6 +11,7 @@
     { "id": "ingles", "label": "Inglês" }
   ],
   "decks": [
-    { "year": "5", "subject": "matematica", "file": "data/5/matematica.json" }
+    { "year": "5", "subject": "matematica", "file": "data/5/matematica.json" },
+    { "year": "5", "subject": "portugues", "file": "data/5/portugues.json" }
   ]
 }

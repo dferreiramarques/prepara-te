@@ -5,12 +5,14 @@ utilizador escolhe o ano que frequentou, depois escolhe "Geral" (todas
 as disciplinas desse ano) ou uma disciplina específica, e entra no ecrã
 de estudo (cartão com pergunta, resposta e explicação).
 
-Por agora só existe conteúdo de **Matemática do 5º ano** (131 cartões,
+Por agora existe conteúdo de **Matemática do 5º ano** (131 cartões,
 cobrindo os 4 domínios das Aprendizagens Essenciais: Números, Geometria e
-Medida, Álgebra, Dados e Probabilidade). O 6º ano e as restantes
-disciplinas do 2º ciclo (Português, Ciências Naturais, História e
-Geografia de Portugal, Inglês) já aparecem no seletor, mas marcados como
-"brevemente" até terem cartões.
+Medida, Álgebra, Dados e Probabilidade) e de **Português do 5º ano** (120
+cartões, cobrindo os 5 domínios das Aprendizagens Essenciais: Oralidade,
+Leitura, Educação Literária, Escrita e Gramática — com maior peso em
+Gramática e Educação Literária). O 6º ano e as restantes disciplinas do
+2º ciclo (Ciências Naturais, História e Geografia de Portugal, Inglês) já
+aparecem no seletor, mas marcados como "brevemente" até terem cartões.
 
 ## Como publicar
 
@@ -91,8 +93,8 @@ migrado automaticamente para o novo formato na primeira visita.
 ## Próximos passos possíveis
 
 - Acrescentar o 6º ano e as restantes disciplinas do 2º ciclo
-  (Português, Ciências Naturais, História e Geografia de Portugal,
-  Inglês), reutilizando a mesma estrutura de dados.
+  (Ciências Naturais, História e Geografia de Portugal, Inglês),
+  reutilizando a mesma estrutura de dados.
 - Mais tarde, alargar ao ensino secundário.
 - Ecrã de estatísticas por domínio.
 - Modo "exame" com temporizador.

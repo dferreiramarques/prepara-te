@@ -2,15 +2,24 @@ import { deckFilesFor, yearLabel, subjectLabel } from "./catalog.js";
 import { loadDeckProgress, saveDeckProgress, resetDeckProgress, ensureToday } from "./progress.js";
 import { showToast } from "./toast.js";
 
-const PALETTE_ORDER = ["Números", "Geometria e Medida", "Álgebra", "Dados e Probabilidade"];
-const PALETTE_SLUGS = ["numeros", "geometria", "algebra", "dados"];
+const DOMAIN_SLUGS = {
+  "Números": "numeros",
+  "Geometria e Medida": "geometria",
+  "Álgebra": "algebra",
+  "Dados e Probabilidade": "dados",
+  "Gramática": "gramatica",
+  "Educação Literária": "literaria",
+  "Leitura": "leitura",
+  "Escrita": "escrita",
+  "Oralidade": "oralidade",
+};
+const FALLBACK_SLUGS = Object.values(DOMAIN_SLUGS);
 
 function domainSlugMap(domains) {
   const map = {};
-  const extras = domains.filter((d) => !PALETTE_ORDER.includes(d));
+  const unknown = domains.filter((d) => !DOMAIN_SLUGS[d]);
   for (const d of domains) {
-    const idx = PALETTE_ORDER.indexOf(d);
-    map[d] = idx !== -1 ? PALETTE_SLUGS[idx] : PALETTE_SLUGS[extras.indexOf(d) % PALETTE_SLUGS.length];
+    map[d] = DOMAIN_SLUGS[d] || FALLBACK_SLUGS[unknown.indexOf(d) % FALLBACK_SLUGS.length];
   }
   return map;
 }
