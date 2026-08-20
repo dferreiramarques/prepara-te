@@ -1,4 +1,4 @@
-const CACHE_NAME = "prepara-te-v3";
+const CACHE_NAME = "prepara-te-v4";
 const APP_SHELL = [
   "./",
   "index.html",

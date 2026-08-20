@@ -15,21 +15,45 @@ async function init() {
     navigator.serviceWorker.register("sw.js").catch(() => {});
   }
 
-  let deferredPrompt = null;
   const installBtn = document.getElementById("install-btn");
+  const installHelp = document.getElementById("install-help");
+  const installHelpClose = document.getElementById("install-help-close");
+
+  const isStandalone =
+    window.matchMedia("(display-mode: standalone)").matches ||
+    window.navigator.standalone === true;
+  const isIOS =
+    /iP(hone|od|ad)/.test(navigator.userAgent) ||
+    (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+
+  let deferredPrompt = null;
+
+  if (!isStandalone && isIOS) {
+    // iOS never fires beforeinstallprompt; show manual instructions instead.
+    installBtn.hidden = false;
+  }
+
   window.addEventListener("beforeinstallprompt", (e) => {
     e.preventDefault();
     deferredPrompt = e;
     installBtn.hidden = false;
   });
+
   installBtn.addEventListener("click", async () => {
-    if (!deferredPrompt) return;
-    deferredPrompt.prompt();
-    await deferredPrompt.userChoice;
-    deferredPrompt = null;
-    installBtn.hidden = true;
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+      deferredPrompt = null;
+      installBtn.hidden = true;
+      return;
+    }
+    installHelp.hidden = !installHelp.hidden;
   });
-  window.addEventListener("appinstalled", () => { installBtn.hidden = true; });
+  installHelpClose.addEventListener("click", () => { installHelp.hidden = true; });
+  window.addEventListener("appinstalled", () => {
+    installBtn.hidden = true;
+    installHelp.hidden = true;
+  });
 }
 
 init();
