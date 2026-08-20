@@ -52,7 +52,11 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
 
   root.innerHTML = `
     <button class="back-link back-link--floating" id="back-link">← ${subtitle}</button>
-    <nav class="tabs" id="domain-tabs" aria-label="Filtrar por domínio">
+    <button class="tabs-toggle" id="tabs-toggle" aria-expanded="false" aria-controls="domain-tabs">
+      <span class="tabs-toggle-label" id="tabs-toggle-label">Temas <span class="tabs-toggle-count">(${domains.length})</span></span>
+      <span class="tabs-toggle-icon" aria-hidden="true">▾</span>
+    </button>
+    <nav class="tabs" id="domain-tabs" aria-label="Filtrar por domínio" hidden>
       <button class="tab tab--all is-active" data-domain="__all__">Todos<span class="tab-count" id="count-all"></span></button>
       ${domains.map((d) => `<button class="tab tab--${slugFor[d]}" data-domain="${d}">${d}<span class="tab-count" id="count-${d}"></span></button>`).join("")}
     </nav>
@@ -102,6 +106,8 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
 
   const els = {
     tabs: root.querySelector("#domain-tabs"),
+    tabsToggle: root.querySelector("#tabs-toggle"),
+    tabsToggleLabel: root.querySelector("#tabs-toggle-label"),
     backLink: root.querySelector("#back-link"),
     card: root.querySelector("#flashcard"),
     frontTag: root.querySelector("#front-tag"),
@@ -235,15 +241,37 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
     setTimeout(showNext, 420);
   }
 
+  function updateTabsToggleLabel() {
+    els.tabsToggleLabel.innerHTML =
+      activeDomain === "__all__"
+        ? `Temas <span class="tabs-toggle-count">(${domains.length})</span>`
+        : activeDomain;
+  }
+
+  function collapseTabs() {
+    els.tabs.hidden = true;
+    els.tabsToggle.setAttribute("aria-expanded", "false");
+    els.tabsToggle.classList.remove("is-open");
+  }
+
   function setActiveDomain(domain) {
     activeDomain = domain;
     root.querySelectorAll(".tab").forEach((t) => {
       t.classList.toggle("is-active", t.dataset.domain === domain);
     });
+    updateTabsToggleLabel();
+    collapseTabs();
     history = [];
     historyIndex = -1;
     showNext();
   }
+
+  els.tabsToggle.addEventListener("click", () => {
+    const expanded = els.tabsToggle.getAttribute("aria-expanded") === "true";
+    els.tabs.hidden = expanded;
+    els.tabsToggle.setAttribute("aria-expanded", String(!expanded));
+    els.tabsToggle.classList.toggle("is-open", !expanded);
+  });
 
   els.card.addEventListener("click", flipCurrent);
   els.card.addEventListener("keydown", (e) => {
