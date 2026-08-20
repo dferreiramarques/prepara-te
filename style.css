@@ -195,19 +195,25 @@ body{
 }
 
 .back-link{
-  display:inline-block;
-  background:none;
-  border:none;
-  font-family:var(--font-mono);
-  font-size:.76rem;
-  color:var(--ink-soft);
-  text-decoration:underline;
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  background:#fff;
+  border:1.5px solid rgba(38,50,62,.16);
+  border-radius:100px;
+  font-family:var(--font-body);
+  font-weight:600;
+  font-size:.82rem;
+  color:var(--ink);
+  text-decoration:none;
   cursor:pointer;
-  padding:0 0 12px;
+  padding:8px 14px;
+  margin:0 0 14px;
+  transition:transform .12s ease, border-color .12s ease;
 }
+.back-link:active{transform:scale(.96);}
 .back-link--floating{
-  padding-left:18px;
-  padding-top:10px;
+  margin:10px 0 4px 18px;
 }
 
 .tabs{
@@ -461,15 +467,19 @@ body{
 }
 .reset-link{
   margin-left:auto;
-  background:none;
-  border:none;
-  font-family:var(--font-mono);
-  font-size:.7rem;
+  background:#fff;
+  border:1.5px solid rgba(38,50,62,.16);
+  border-radius:100px;
+  font-family:var(--font-body);
+  font-weight:600;
+  font-size:.72rem;
   color:var(--ink-soft);
-  text-decoration:underline;
+  text-decoration:none;
   cursor:pointer;
-  padding:4px 0;
+  padding:7px 12px;
+  transition:transform .12s ease, border-color .12s ease;
 }
+.reset-link:active{transform:scale(.96);}
 
 .toast{
   position:fixed;
@@ -485,6 +495,39 @@ body{
   border-radius:100px;
   z-index:20;
   box-shadow:0 10px 24px -8px rgba(0,0,0,.4);
+}
+
+@media (max-width:640px){
+  body{padding-left:18px;}
+  .margin-line{left:14px; opacity:.35;}
+
+  .topbar{
+    flex-direction:column;
+    justify-content:center;
+    text-align:center;
+    padding:22px 16px 10px;
+  }
+  .brand{flex-direction:column;}
+  .subtitle{text-align:center;}
+  .install-btn{margin-top:4px;}
+
+  .picker-intro{text-align:center;}
+
+  .tabs{
+    flex-wrap:wrap;
+    overflow-x:visible;
+    justify-content:center;
+    padding:10px 12px 14px;
+  }
+  .tab{
+    flex:0 1 calc(50% - 4px);
+    max-width:calc(50% - 4px);
+    white-space:normal;
+    text-align:center;
+    justify-content:center;
+    border-radius:var(--radius-md);
+    line-height:1.25;
+  }
 }
 
 @media (max-width:380px){
