@@ -27,6 +27,14 @@ export function subjectIsAvailable(catalog, yearId, subjectId) {
   return catalog.decks.some((d) => d.year === yearId && d.subject === subjectId);
 }
 
+// only the subjects that belong to the given year's cycle (e.g. HGP is
+// 2º ciclo only; História/Geografia are 3º ciclo only)
+export function subjectsForYear(catalog, yearId) {
+  const year = catalog.years.find((y) => y.id === yearId);
+  if (!year) return catalog.subjects;
+  return catalog.subjects.filter((s) => !s.cycles || s.cycles.includes(year.cycle));
+}
+
 // files to load for a given year + "geral" or a specific subject id
 export function deckFilesFor(catalog, yearId, subjectOrGeral) {
   if (subjectOrGeral === "geral") {

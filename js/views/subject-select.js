@@ -1,4 +1,4 @@
-import { yearLabel, subjectIsAvailable, yearIsAvailable } from "../catalog.js";
+import { yearLabel, subjectIsAvailable, yearIsAvailable, subjectsForYear } from "../catalog.js";
 import { showToast } from "../toast.js";
 
 export function renderSubjectSelect(root, catalog, yearId) {
@@ -21,7 +21,7 @@ export function renderSubjectSelect(root, catalog, yearId) {
 
   const options = [
     { id: "geral", label: "Geral (todas as disciplinas)", available: generalAvailable },
-    ...catalog.subjects.map((s) => ({
+    ...subjectsForYear(catalog, yearId).map((s) => ({
       id: s.id,
       label: s.label,
       available: subjectIsAvailable(catalog, yearId, s.id),

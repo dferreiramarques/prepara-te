@@ -1,14 +1,19 @@
 {
   "years": [
-    { "id": "5", "label": "5º ano" },
-    { "id": "6", "label": "6º ano" }
+    { "id": "5", "label": "5º ano", "cycle": "2º ciclo" },
+    { "id": "6", "label": "6º ano", "cycle": "2º ciclo" },
+    { "id": "7", "label": "7º ano", "cycle": "3º ciclo" },
+    { "id": "8", "label": "8º ano", "cycle": "3º ciclo" },
+    { "id": "9", "label": "9º ano", "cycle": "3º ciclo" }
   ],
   "subjects": [
-    { "id": "matematica", "label": "Matemática" },
-    { "id": "portugues", "label": "Português" },
-    { "id": "ciencias-naturais", "label": "Ciências Naturais" },
-    { "id": "hgp", "label": "História e Geografia de Portugal" },
-    { "id": "ingles", "label": "Inglês" }
+    { "id": "matematica", "label": "Matemática", "cycles": ["2º ciclo", "3º ciclo"] },
+    { "id": "portugues", "label": "Português", "cycles": ["2º ciclo", "3º ciclo"] },
+    { "id": "ciencias-naturais", "label": "Ciências Naturais", "cycles": ["2º ciclo", "3º ciclo"] },
+    { "id": "hgp", "label": "História e Geografia de Portugal", "cycles": ["2º ciclo"] },
+    { "id": "ingles", "label": "Inglês", "cycles": ["2º ciclo", "3º ciclo"] },
+    { "id": "historia", "label": "História", "cycles": ["3º ciclo"] },
+    { "id": "geografia", "label": "Geografia", "cycles": ["3º ciclo"] }
   ],
   "decks": [
     { "year": "5", "subject": "matematica", "file": "data/5/matematica.json" },
