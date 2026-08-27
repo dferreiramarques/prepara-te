@@ -47,6 +47,39 @@
   --cultura-en:#8F328E;
   --cultura-en-bg:#F7E8F7;
 
+  --geometria-7:#328F3C;
+  --geometria-7-bg:#E8F7EA;
+  --dados-prob-7:#328F66;
+  --dados-prob-7-bg:#E8F7F0;
+  --dinamica-externa:#7B8F32;
+  --dinamica-externa-bg:#F4F7E8;
+  --estrutura-interna:#8F323F;
+  --estrutura-interna-bg:#F7E8EA;
+  --consequencias-dinamica-interna:#8F4B32;
+  --consequencias-dinamica-interna-bg:#F7ECE8;
+  --terra-historia:#8F8032;
+  --terra-historia-bg:#F7F5E8;
+  --geologia-sustentabilidade:#64328F;
+  --geologia-sustentabilidade-bg:#F0E8F7;
+  --hist-primeiras-civilizacoes:#8F3261;
+  --hist-primeiras-civilizacoes-bg:#F7E8F0;
+  --hist-mediterraneo:#83328F;
+  --hist-mediterraneo-bg:#F5E8F7;
+  --hist-cristandade-islao:#8F327E;
+  --hist-cristandade-islao-bg:#F7E8F5;
+  --hist-seculos-xii-xiv:#32648F;
+  --hist-seculos-xii-xiv-bg:#E8F0F7;
+  --geo-paisagem:#32488F;
+  --geo-paisagem-bg:#E8ECF7;
+  --geo-mapas:#328F86;
+  --geo-mapas-bg:#E8F7F6;
+  --geo-localizacao-ue:#327E8F;
+  --geo-localizacao-ue-bg:#E8F5F7;
+  --geo-clima:#5E8F32;
+  --geo-clima-bg:#EFF7E8;
+  --geo-relevo:#348F32;
+  --geo-relevo-bg:#E8F7E8;
+
   --card-shadow: 0 1px 0 rgba(38,50,62,.06), 0 12px 28px -14px rgba(38,50,62,.35);
   --radius-lg: 18px;
   --radius-md: 12px;
@@ -356,6 +389,22 @@ body{
 .tab--vocabulario.is-active{background:var(--vocabulario);}
 .tab--gramatica-en.is-active{background:var(--gramatica-en);}
 .tab--cultura-en.is-active{background:var(--cultura-en);}
+.tab--geometria-7.is-active{background:var(--geometria-7);}
+.tab--dados-prob-7.is-active{background:var(--dados-prob-7);}
+.tab--dinamica-externa.is-active{background:var(--dinamica-externa);}
+.tab--estrutura-interna.is-active{background:var(--estrutura-interna);}
+.tab--consequencias-dinamica-interna.is-active{background:var(--consequencias-dinamica-interna);}
+.tab--terra-historia.is-active{background:var(--terra-historia);}
+.tab--geologia-sustentabilidade.is-active{background:var(--geologia-sustentabilidade);}
+.tab--hist-primeiras-civilizacoes.is-active{background:var(--hist-primeiras-civilizacoes);}
+.tab--hist-mediterraneo.is-active{background:var(--hist-mediterraneo);}
+.tab--hist-cristandade-islao.is-active{background:var(--hist-cristandade-islao);}
+.tab--hist-seculos-xii-xiv.is-active{background:var(--hist-seculos-xii-xiv);}
+.tab--geo-paisagem.is-active{background:var(--geo-paisagem);}
+.tab--geo-mapas.is-active{background:var(--geo-mapas);}
+.tab--geo-localizacao-ue.is-active{background:var(--geo-localizacao-ue);}
+.tab--geo-clima.is-active{background:var(--geo-clima);}
+.tab--geo-relevo.is-active{background:var(--geo-relevo);}
 
 .stage{
   position:relative;

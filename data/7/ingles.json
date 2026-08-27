@@ -1,0 +1,814 @@
+{
+  "cards": [
+    {
+      "id": "en7-001",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz \"aeroporto\" em inglês?",
+      "answer": "Airport",
+      "explanation": "Ex.: \"We arrived at the airport two hours early.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-002",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz \"mala de viagem\" em inglês?",
+      "answer": "Suitcase",
+      "explanation": "Ex.: \"I packed my suitcase for the trip.\" (Fiz a mala para a viagem.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-003",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz \"passaporte\" em inglês?",
+      "answer": "Passport",
+      "explanation": "É necessário para viajar para fora do espaço Schengen, por exemplo para o Reino Unido.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-004",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz \"comboio\" em inglês?",
+      "answer": "Train",
+      "explanation": "Ex.: \"We travelled by train to Porto.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-005",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz \"bilhete de ida e volta\" em inglês?",
+      "answer": "Return ticket",
+      "explanation": "No inglês americano usa-se mais \"round-trip ticket\" para o mesmo significado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-006",
+      "domain": "Vocabulário",
+      "topic": "Viagens e Transportes",
+      "question": "Como se diz que um voo ou comboio está \"atrasado\" em inglês?",
+      "answer": "Delayed",
+      "explanation": "Ex.: \"Our flight was delayed by two hours.\"",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-007",
+      "domain": "Vocabulário",
+      "topic": "Comida e Restaurantes",
+      "question": "Como se diz \"ementa\", num restaurante, em inglês?",
+      "answer": "Menu",
+      "explanation": "Ex.: \"Can I see the menu, please?\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-008",
+      "domain": "Vocabulário",
+      "topic": "Comida e Restaurantes",
+      "question": "Como se diz \"a conta\", que se pede para pagar num restaurante, em inglês?",
+      "answer": "Bill",
+      "explanation": "No inglês americano usa-se mais \"check\" com o mesmo significado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-009",
+      "domain": "Vocabulário",
+      "topic": "Comida e Restaurantes",
+      "question": "Como se diz \"reservar uma mesa\" num restaurante, em inglês?",
+      "answer": "Book a table",
+      "explanation": "Ex.: \"We booked a table for four people.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-010",
+      "domain": "Vocabulário",
+      "topic": "Comida e Restaurantes",
+      "question": "Como se diz \"sobremesa\" em inglês?",
+      "answer": "Dessert",
+      "explanation": "Cuidado para não confundir com \"desert\" (deserto), palavra parecida mas com significado diferente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-011",
+      "domain": "Vocabulário",
+      "topic": "Comida e Restaurantes",
+      "question": "Como se diz \"estou cheio\", depois de comer bastante, em inglês?",
+      "answer": "I'm full",
+      "explanation": "É uma expressão usada para dizer que já não se consegue comer mais nada.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-012",
+      "domain": "Vocabulário",
+      "topic": "Saúde e o Corpo",
+      "question": "Como se diz \"dor de cabeça\" em inglês?",
+      "answer": "Headache",
+      "explanation": "Ex.: \"I have a headache today.\" (Tenho dor de cabeça hoje.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-013",
+      "domain": "Vocabulário",
+      "topic": "Saúde e o Corpo",
+      "question": "Como se diz \"estou doente\" em inglês?",
+      "answer": "I'm ill",
+      "explanation": "No inglês americano é mais comum dizer \"I'm sick\", com o mesmo significado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-014",
+      "domain": "Vocabulário",
+      "topic": "Saúde e o Corpo",
+      "question": "Como se diz \"marcar uma consulta\" médica em inglês?",
+      "answer": "Make an appointment",
+      "explanation": "Ex.: \"I need to make an appointment with the doctor.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-015",
+      "domain": "Vocabulário",
+      "topic": "Saúde e o Corpo",
+      "question": "Como se diz \"tomar um medicamento\" em inglês?",
+      "answer": "Take medicine",
+      "explanation": "Ex.: \"You should take this medicine twice a day.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-016",
+      "domain": "Vocabulário",
+      "topic": "Saúde e o Corpo",
+      "question": "Como se diz \"queimadura solar\" em inglês?",
+      "answer": "Sunburn",
+      "explanation": "Para a evitar, é importante usar protetor solar (\"sunscreen\").",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-017",
+      "domain": "Vocabulário",
+      "topic": "Tecnologia e Redes Sociais",
+      "question": "Como se diz \"carregar o telemóvel\" em inglês?",
+      "answer": "Charge the phone",
+      "explanation": "Ex.: \"I need to charge my phone, the battery is low.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-018",
+      "domain": "Vocabulário",
+      "topic": "Tecnologia e Redes Sociais",
+      "question": "Como se diz \"publicação\", numa rede social, em inglês?",
+      "answer": "Post",
+      "explanation": "Ex.: \"She shared a new post on social media.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-019",
+      "domain": "Vocabulário",
+      "topic": "Tecnologia e Redes Sociais",
+      "question": "Como se diz \"descarregar uma aplicação\" em inglês?",
+      "answer": "Download an app",
+      "explanation": "O contrário de \"download\" é \"upload\", que significa carregar ou enviar um ficheiro.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-020",
+      "domain": "Vocabulário",
+      "topic": "Tecnologia e Redes Sociais",
+      "question": "Como se diz \"palavra-passe\" em inglês?",
+      "answer": "Password",
+      "explanation": "Ex.: \"Don't share your password with anyone.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-021",
+      "domain": "Vocabulário",
+      "topic": "Tecnologia e Redes Sociais",
+      "question": "Como se diz \"ligação à internet\" em inglês?",
+      "answer": "Internet connection",
+      "explanation": "Ex.: \"The Wi-Fi has a very slow internet connection.\"",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-022",
+      "domain": "Vocabulário",
+      "topic": "Ambiente e Natureza",
+      "question": "Como se diz \"reciclar\" em inglês?",
+      "answer": "Recycle",
+      "explanation": "Ex.: \"We recycle paper, plastic and glass at home.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-023",
+      "domain": "Vocabulário",
+      "topic": "Ambiente e Natureza",
+      "question": "Como se diz \"poluição\" em inglês?",
+      "answer": "Pollution",
+      "explanation": "Ex.: \"Air pollution is a big problem in large cities.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-024",
+      "domain": "Vocabulário",
+      "topic": "Ambiente e Natureza",
+      "question": "Como se diz \"poupar água\" em inglês?",
+      "answer": "Save water",
+      "explanation": "Ex.: \"We should save water by taking shorter showers.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-025",
+      "domain": "Vocabulário",
+      "topic": "Ambiente e Natureza",
+      "question": "Como se diz \"floresta\" em inglês?",
+      "answer": "Forest",
+      "explanation": "Ex.: \"There are many animals living in the forest.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-026",
+      "domain": "Vocabulário",
+      "topic": "Ambiente e Natureza",
+      "question": "Como se diz \"aquecimento global\" em inglês?",
+      "answer": "Global warming",
+      "explanation": "É causado, entre outros fatores, pela emissão de gases poluentes para a atmosfera.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-027",
+      "domain": "Vocabulário",
+      "topic": "Escola e Rotinas",
+      "question": "Como se diz \"horário escolar\" em inglês?",
+      "answer": "Timetable",
+      "explanation": "No inglês americano usa-se mais \"schedule\", com o mesmo significado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-028",
+      "domain": "Vocabulário",
+      "topic": "Escola e Rotinas",
+      "question": "Como se diz \"fazer os trabalhos de casa\" em inglês?",
+      "answer": "Do homework",
+      "explanation": "Ex.: \"I always do my homework after dinner.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-029",
+      "domain": "Vocabulário",
+      "topic": "Escola e Rotinas",
+      "question": "Como se diz \"exame\" em inglês?",
+      "answer": "Exam",
+      "explanation": "\"Exam\" é a forma abreviada de \"examination\", muito usada no dia a dia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-030",
+      "domain": "Vocabulário",
+      "topic": "Escola e Rotinas",
+      "question": "Como se diz \"faltar às aulas\" em inglês?",
+      "answer": "Miss classes",
+      "explanation": "Ex.: \"He missed classes because he was ill.\"",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-031",
+      "domain": "Vocabulário",
+      "topic": "Roupa e Compras",
+      "question": "Como se diz \"provar roupa\", numa loja, em inglês?",
+      "answer": "Try on clothes",
+      "explanation": "Ex.: \"Can I try on this jacket, please?\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-032",
+      "domain": "Vocabulário",
+      "topic": "Roupa e Compras",
+      "question": "Como se diz \"vendedor\" ou \"vendedora\", numa loja, em inglês?",
+      "answer": "Shop assistant",
+      "explanation": "No inglês americano é comum dizer-se \"sales clerk\", com o mesmo significado.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-033",
+      "domain": "Vocabulário",
+      "topic": "Roupa e Compras",
+      "question": "Como se diz que um artigo está \"em saldo\" ou \"em promoção\" em inglês?",
+      "answer": "On sale",
+      "explanation": "Ex.: \"These shoes are on sale this week.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-034",
+      "domain": "Vocabulário",
+      "topic": "Roupa e Compras",
+      "question": "Como se diz \"cabine de provas\", numa loja de roupa, em inglês?",
+      "answer": "Fitting room",
+      "explanation": "No inglês americano também se usa a expressão \"dressing room\" com o mesmo sentido.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-035",
+      "domain": "Vocabulário",
+      "topic": "Tempo Livre e Desporto",
+      "question": "Como se diz \"equipa\" em inglês?",
+      "answer": "Team",
+      "explanation": "Ex.: \"I play for the school basketball team.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-036",
+      "domain": "Vocabulário",
+      "topic": "Tempo Livre e Desporto",
+      "question": "Como se diz \"treinar\" (praticar um desporto) em inglês?",
+      "answer": "Train",
+      "explanation": "Ex.: \"The team trains every Tuesday and Thursday.\" Nota que \"train\" também pode significar \"comboio\", consoante o contexto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-037",
+      "domain": "Vocabulário",
+      "topic": "Tempo Livre e Desporto",
+      "question": "Como se diz \"ganhar um jogo\" em inglês?",
+      "answer": "Win a game",
+      "explanation": "Ex.: \"Our team won the game last Saturday.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-038",
+      "domain": "Vocabulário",
+      "topic": "Tempo Livre e Desporto",
+      "question": "Como se diz \"estar em forma\" em inglês?",
+      "answer": "Be fit",
+      "explanation": "Ex.: \"She exercises every day to stay fit.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-039",
+      "domain": "Vocabulário",
+      "topic": "Tipos de Habitação",
+      "question": "Como se diz \"apartamento\" em inglês (palavra mais usada no Reino Unido)?",
+      "answer": "Flat",
+      "explanation": "No inglês americano usa-se mais \"apartment\", com o mesmo significado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-040",
+      "domain": "Vocabulário",
+      "topic": "Tipos de Habitação",
+      "question": "Como se diz \"vizinho\" em inglês (ortografia britânica)?",
+      "answer": "Neighbour",
+      "explanation": "No inglês americano escreve-se \"neighbor\", sem o \"u\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-041",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Regular",
+      "question": "Como se diz \"eu limpei o meu quarto ontem\" em inglês, no passado simples?",
+      "answer": "I cleaned my room yesterday",
+      "explanation": "Os verbos regulares formam o passado simples com a terminação \"-ed\": clean torna-se cleaned.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-042",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Regular",
+      "question": "Como se completa a frase \"She ___ (watch) a film last night.\" no passado simples?",
+      "answer": "watched",
+      "explanation": "\"Watch\" é um verbo regular; no passado simples junta-se \"-ed\" ao infinitivo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-043",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Regular",
+      "question": "Como se completa a frase \"He ___ (stop) at the traffic light.\" no passado simples?",
+      "answer": "stopped",
+      "explanation": "Verbos curtos terminados em consoante + vogal + consoante duplicam a última consoante antes de \"-ed\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-044",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Regular",
+      "question": "Qual é a forma negativa correta de \"I played tennis yesterday.\" no passado simples?",
+      "answer": "I didn't play tennis yesterday",
+      "explanation": "Na negativa do passado simples usa-se \"didn't\" seguido do verbo no infinitivo, sem a terminação \"-ed\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-045",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Irregular",
+      "question": "Qual é o passado simples irregular do verbo \"go\" (ir)?",
+      "answer": "went",
+      "explanation": "\"Go\" não segue a regra do \"-ed\"; é um verbo irregular que deve ser memorizado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-046",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Irregular",
+      "question": "Qual é o passado simples irregular do verbo \"eat\" (comer)?",
+      "answer": "ate",
+      "explanation": "Ex.: \"I ate pizza for dinner.\" (Comi piza ao jantar.)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-047",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Irregular",
+      "question": "Qual é o passado simples irregular do verbo \"see\" (ver)?",
+      "answer": "saw",
+      "explanation": "Ex.: \"We saw a great film last weekend.\"",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-048",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Simples Irregular",
+      "question": "Como se completa a pergunta \"___ you ___ (buy) a new phone?\" no passado simples?",
+      "answer": "Did you buy",
+      "explanation": "Nas perguntas do passado simples usa-se \"did\" antes do sujeito e o verbo principal fica no infinitivo, mesmo com verbos irregulares.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-049",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Contínuo",
+      "question": "Como se diz \"eu estava a ler um livro\" em inglês, no passado contínuo?",
+      "answer": "I was reading a book",
+      "explanation": "O passado contínuo forma-se com \"was\"/\"were\" seguido do verbo com a terminação \"-ing\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-050",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Contínuo",
+      "question": "Como se completa a frase \"They ___ (play) football when it started to rain.\" no passado contínuo?",
+      "answer": "were playing",
+      "explanation": "Com \"they\" usa-se \"were\"; o passado contínuo descreve uma ação em curso interrompida por outra.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-051",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Contínuo",
+      "question": "Na frase \"I was watching TV when the phone rang.\", qual é a função do passado contínuo \"was watching\"?",
+      "answer": "Descrever a ação mais longa, em curso, que estava a decorrer",
+      "explanation": "\"Rang\" (passado simples) é a ação pontual que interrompe a ação de fundo, mais longa, expressa pelo passado contínuo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-052",
+      "domain": "Gramática Inglesa",
+      "topic": "Passado Contínuo",
+      "question": "Como se completa a pergunta \"___ she sleeping at midnight?\" no passado contínuo?",
+      "answer": "Was",
+      "explanation": "Nas perguntas do passado contínuo, \"was\"/\"were\" vem antes do sujeito.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-053",
+      "domain": "Gramática Inglesa",
+      "topic": "Comparativos",
+      "question": "Como se forma o comparativo de superioridade do adjetivo curto \"tall\" (alto)?",
+      "answer": "taller",
+      "explanation": "Os adjetivos curtos formam o comparativo juntando \"-er\", como em \"She is taller than her brother.\"",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-054",
+      "domain": "Gramática Inglesa",
+      "topic": "Comparativos",
+      "question": "Como se forma o comparativo de superioridade do adjetivo longo \"expensive\" (caro)?",
+      "answer": "more expensive",
+      "explanation": "Adjetivos com três ou mais sílabas usam \"more\" antes do adjetivo, em vez da terminação \"-er\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-055",
+      "domain": "Gramática Inglesa",
+      "topic": "Comparativos",
+      "question": "Qual é a forma comparativa irregular do adjetivo \"good\" (bom)?",
+      "answer": "better",
+      "explanation": "\"Good\" não segue a regra normal; o comparativo irregular é \"better\", nunca \"gooder\".",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-056",
+      "domain": "Gramática Inglesa",
+      "topic": "Superlativos",
+      "question": "Como se forma o superlativo do adjetivo curto \"big\" (grande)?",
+      "answer": "the biggest",
+      "explanation": "Adjetivos curtos formam o superlativo com \"the\" mais o adjetivo e \"-est\"; como \"big\" duplica a consoante final.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-057",
+      "domain": "Gramática Inglesa",
+      "topic": "Superlativos",
+      "question": "Como se forma o superlativo do adjetivo longo \"beautiful\" (bonito)?",
+      "answer": "the most beautiful",
+      "explanation": "Adjetivos longos usam \"the most\" antes do adjetivo, em vez da terminação \"-est\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-058",
+      "domain": "Gramática Inglesa",
+      "topic": "Superlativos",
+      "question": "Qual é a forma superlativa irregular do adjetivo \"bad\" (mau)?",
+      "answer": "the worst",
+      "explanation": "\"Bad\" é irregular: o superlativo é \"the worst\", nunca \"the baddest\".",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-059",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbos Modais",
+      "question": "Que verbo modal em inglês exprime capacidade, equivalente a \"conseguir\"/\"poder\", como em \"I ___ swim very well\"?",
+      "answer": "can",
+      "explanation": "Ex.: \"I can swim very well.\" (Eu consigo nadar muito bem.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-060",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbos Modais",
+      "question": "Que verbo modal em inglês exprime obrigação forte, equivalente a \"ter de\", como em \"You ___ wear a seatbelt in the car\"?",
+      "answer": "must",
+      "explanation": "Ex.: \"You must wear a seatbelt in the car.\" (Tens de usar cinto de segurança no carro.)",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-061",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbos Modais",
+      "question": "Que verbo modal em inglês se usa para dar um conselho, equivalente a \"deverias\", como em \"You ___ study more for the test\"?",
+      "answer": "should",
+      "explanation": "\"Should\" exprime um conselho ou recomendação, mais suave do que \"must\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-062",
+      "domain": "Gramática Inglesa",
+      "topic": "Verbos Modais",
+      "question": "Qual é a forma contraída de \"should not\" em inglês?",
+      "answer": "shouldn't",
+      "explanation": "Ex.: \"You shouldn't eat so much sugar.\" (Não deves comer tanto açúcar.)",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-063",
+      "domain": "Gramática Inglesa",
+      "topic": "Futuro (Going To)",
+      "question": "Como se diz \"eu vou viajar para Londres\" em inglês, usando \"going to\" para um plano já decidido?",
+      "answer": "I am going to travel to London",
+      "explanation": "\"Going to\" usa-se para planos e intenções decididos antes do momento em que se fala.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-064",
+      "domain": "Gramática Inglesa",
+      "topic": "Futuro (Going To)",
+      "question": "Como se completa a frase \"It's very cloudy. It ___ rain.\" usando \"going to\" para fazer uma previsão?",
+      "answer": "is going to",
+      "explanation": "\"Going to\" também se usa para previsões baseadas em algo que já se observa no presente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-065",
+      "domain": "Gramática Inglesa",
+      "topic": "Futuro (Will)",
+      "question": "Como se diz \"eu vou ajudar-te\", como decisão espontânea tomada no momento, usando \"will\"?",
+      "answer": "I will help you",
+      "explanation": "\"Will\" usa-se para decisões tomadas no momento em que se fala, ao contrário de \"going to\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-066",
+      "domain": "Gramática Inglesa",
+      "topic": "Futuro (Will)",
+      "question": "Qual é a forma contraída de \"will not\" em inglês?",
+      "answer": "won't",
+      "explanation": "Ex.: \"I won't be late.\" (Não vou chegar atrasado.)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-067",
+      "domain": "Gramática Inglesa",
+      "topic": "Quantificadores",
+      "question": "Que quantificador se usa em frases afirmativas antes de um nome, como em \"There is ___ milk in the fridge\"?",
+      "answer": "some",
+      "explanation": "\"Some\" usa-se em frases afirmativas; em perguntas e negativas usa-se normalmente \"any\".",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-068",
+      "domain": "Gramática Inglesa",
+      "topic": "Quantificadores",
+      "question": "Como se completa a pergunta \"Is there ___ sugar in the cupboard?\" com o quantificador correto?",
+      "answer": "any",
+      "explanation": "\"Any\" usa-se em perguntas e frases negativas, ao contrário de \"some\", usado nas afirmativas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-069",
+      "domain": "Gramática Inglesa",
+      "topic": "Advérbios de Frequência",
+      "question": "Que advérbio de frequência em inglês significa \"quase nunca\"?",
+      "answer": "hardly ever",
+      "explanation": "Ex.: \"I hardly ever eat fast food.\" (Quase nunca como comida rápida.)",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-070",
+      "domain": "Gramática Inglesa",
+      "topic": "Advérbios de Frequência",
+      "question": "Onde se coloca normalmente o advérbio de frequência \"always\" numa frase, como em \"She ___ arrives on time\"?",
+      "answer": "antes do verbo principal",
+      "explanation": "Ex.: \"She always arrives on time.\" Os advérbios de frequência colocam-se antes do verbo principal, mas depois do verbo \"to be\".",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-071",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Reino Unido e Grã-Bretanha",
+      "question": "Quantos países fazem parte do Reino Unido (\"United Kingdom\")?",
+      "answer": "Quatro",
+      "explanation": "O Reino Unido é formado por Inglaterra, Escócia, País de Gales e Irlanda do Norte.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-072",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Reino Unido e Grã-Bretanha",
+      "question": "Qual é a diferença entre \"Great Britain\" e \"United Kingdom\"?",
+      "answer": "Great Britain não inclui a Irlanda do Norte; United Kingdom inclui-a",
+      "explanation": "É um erro comum confundir os dois termos: Great Britain junta apenas Inglaterra, Escócia e País de Gales.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-073",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Reino Unido e Grã-Bretanha",
+      "question": "Qual é a capital da Escócia (\"Scotland\")?",
+      "answer": "Edinburgh",
+      "explanation": "Edinburgh não deve ser confundida com Glasgow, a cidade mais populosa da Escócia, mas que não é a capital.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-074",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Estados Unidos da América",
+      "question": "Em que estado dos EUA fica Hollywood, famoso pela indústria do cinema?",
+      "answer": "California",
+      "explanation": "Hollywood fica na cidade de Los Angeles, no estado da Califórnia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-075",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Estados Unidos da América",
+      "question": "Qual é a cidade mais populosa dos Estados Unidos da América, embora não seja a capital do país?",
+      "answer": "New York",
+      "explanation": "A capital dos EUA é Washington D.C.; Nova Iorque é a cidade com mais habitantes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-076",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Estados Unidos da América",
+      "question": "Em que estado dos EUA fica a cidade de Miami, conhecida pelas suas praias?",
+      "answer": "Florida",
+      "explanation": "A Florida é também conhecida como o \"Sunshine State\" (o estado do sol).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-077",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Estados Unidos da América",
+      "question": "Como se chama a estátua situada na entrada do porto de Nova Iorque, oferecida pela França em 1886?",
+      "answer": "Statue of Liberty",
+      "explanation": "A Estátua da Liberdade é um dos símbolos mais conhecidos dos Estados Unidos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-078",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país da América do Norte, vizinho dos Estados Unidos, tem o inglês e o francês como línguas oficiais?",
+      "answer": "Canadá",
+      "explanation": "Em inglês, o nome do país é \"Canada\"; a província de Quebec fala sobretudo francês.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-079",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Como se chama, em inglês, o recife de coral mais famoso da Austrália, visível até do espaço?",
+      "answer": "Great Barrier Reef",
+      "explanation": "O Great Barrier Reef fica ao largo da costa nordeste da Austrália, no oceano Pacífico.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-080",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país da Oceânia, próximo da Austrália, é conhecido pelas paisagens usadas nos filmes \"O Senhor dos Anéis\"?",
+      "answer": "New Zealand",
+      "explanation": "Em português chama-se Nova Zelândia; tem o inglês e o maori como línguas oficiais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-081",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Países Anglófonos",
+      "question": "Que país africano tem o inglês como uma das suas línguas oficiais e é conhecido por ter onze línguas oficiais no total?",
+      "answer": "África do Sul",
+      "explanation": "Em inglês, o nome do país é \"South Africa\"; entre as línguas oficiais estão também o zulu e o africânder.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-082",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tipos de Habitação Anglófona",
+      "question": "Como se chama, em inglês, uma casa geminada, típica dos subúrbios britânicos e americanos?",
+      "answer": "Semi-detached house",
+      "explanation": "É uma casa unida a outra por uma parede comum, diferente de uma \"detached house\" (casa isolada).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-083",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Tipos de Habitação Anglófona",
+      "question": "Como se chama, em inglês, uma casa térrea, sem andares, muito comum no Reino Unido?",
+      "answer": "Bungalow",
+      "explanation": "Um \"bungalow\" é construído apenas ao nível do rés do chão, sem primeiro andar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-084",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Como se chama a festividade celebrada nos EUA a 4 de julho, que assinala a independência do país?",
+      "answer": "Independence Day",
+      "explanation": "É celebrada com fogo de artifício, churrascos e bandeiras norte-americanas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-085",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Como se chama a tradição britânica de cantar canções de porta em porta, típica da época do Natal?",
+      "answer": "Christmas carols",
+      "explanation": "Os \"carol singers\" cantam canções de Natal, muitas vezes para angariar dinheiro para instituições de solidariedade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-086",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Que festividade escocesa se celebra na passagem de ano, com a tradição de cantar \"Auld Lang Syne\"?",
+      "answer": "Hogmanay",
+      "explanation": "\"Hogmanay\" é o nome escocês para a véspera de Ano Novo, celebrada com festas e fogo de artifício.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "en7-087",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Festividades Anglófonas",
+      "question": "Como se chama o feriado britânico e irlandês celebrado a 17 de março em honra do padroeiro da Irlanda?",
+      "answer": "St Patrick's Day",
+      "explanation": "É tradicional vestir-se de verde e assistir a desfiles nesse dia, especialmente em Dublin.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-088",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Escolas em Países Anglófonos",
+      "question": "Como se chama, em inglês, o uniforme escolar usado obrigatoriamente na maioria das escolas britânicas?",
+      "answer": "School uniform",
+      "explanation": "Ao contrário de Portugal, é comum os alunos britânicos usarem uniforme desde a escola primária.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "en7-089",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Escolas em Países Anglófonos",
+      "question": "Como se chama, em inglês, o último ano do ensino secundário nos Estados Unidos, antes da universidade?",
+      "answer": "Senior year",
+      "explanation": "No sistema americano, o percurso no \"high school\" divide-se em freshman, sophomore, junior e senior year.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "en7-090",
+      "domain": "Cultura e Países Anglófonos",
+      "topic": "Escolas em Países Anglófonos",
+      "question": "Como se chama, em inglês, a festa de finalistas típica das escolas secundárias americanas, com baile formal?",
+      "answer": "Prom",
+      "explanation": "O \"prom\" é um dos eventos mais esperados do ano letivo nas escolas norte-americanas.",
+      "difficulty": "medio"
+    }
+  ]
+}

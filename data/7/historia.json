@@ -1,0 +1,904 @@
+{
+  "cards": [
+    {
+      "id": "hi7-001",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Hominização",
+      "question": "Como se chama o processo evolutivo que deu origem ao ser humano atual?",
+      "answer": "Processo de hominização",
+      "explanation": "Este processo ocorreu ao longo de milhões de anos e envolveu transformações físicas e comportamentais, como a postura bípede e o desenvolvimento do cérebro.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-002",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Origem da espécie humana",
+      "question": "Em que continente surgiram os primeiros hominídeos, segundo os estudos científicos atuais?",
+      "answer": "Em África",
+      "explanation": "Fósseis encontrados em várias regiões africanas, sobretudo na África Oriental, comprovam que foi ali que surgiram os antepassados mais antigos do ser humano.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-003",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Fabrico de instrumentos",
+      "question": "Que material foi utilizado no fabrico dos primeiros instrumentos usados pelo ser humano?",
+      "answer": "A pedra",
+      "explanation": "A capacidade de talhar pedra para criar utensílios cortantes foi decisiva para a sobrevivência dos primeiros grupos humanos, permitindo caçar e cortar alimentos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-004",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Períodos da Pré-História",
+      "question": "Como se chamam os dois grandes períodos em que se divide a Idade da Pedra?",
+      "answer": "Paleolítico e Neolítico",
+      "explanation": "Estes dois períodos distinguem-se sobretudo pelo tipo de instrumentos produzidos e pelo modo de vida das comunidades humanas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-005",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Paleolítico - modo de vida",
+      "question": "Qual era o principal modo de vida dos grupos humanos no Paleolítico?",
+      "answer": "Um modo de vida recoletor, baseado na caça, na pesca e na recoleção de frutos e raízes",
+      "explanation": "Estas comunidades não produziam o seu próprio alimento, dependendo inteiramente dos recursos que a natureza lhes oferecia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-006",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Nomadismo",
+      "question": "Por que motivo os grupos humanos do Paleolítico eram nómadas?",
+      "answer": "Porque se deslocavam constantemente à procura de alimento e de melhores condições de sobrevivência",
+      "explanation": "Quando os recursos naturais de um local se esgotavam, o grupo via-se obrigado a mudar de território.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-007",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Arte rupestre",
+      "question": "O que são as pinturas rupestres?",
+      "answer": "Pinturas feitas pelos seres humanos pré-históricos nas paredes de grutas e abrigos rochosos",
+      "explanation": "Muitas destas pinturas representam animais e cenas de caça, e pensa-se que estavam associadas a rituais mágicos ligados à sobrevivência do grupo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-008",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Arte rupestre em Portugal",
+      "question": "Como se chama o importante conjunto de gravuras rupestres paleolíticas ao ar livre situado no vale do rio Côa?",
+      "answer": "Vale do Côa (Parque Arqueológico do Vale do Côa)",
+      "explanation": "Trata-se de um dos maiores conjuntos de arte paleolítica ao ar livre do mundo, classificado como Património Mundial da UNESCO.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-009",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Ritos funerários no Paleolítico",
+      "question": "O que revela a prática de enterrar os mortos com objetos, já no Paleolítico?",
+      "answer": "A existência de crenças sobre uma vida após a morte",
+      "explanation": "Os objetos colocados junto ao corpo sugerem que o grupo acreditava que o defunto poderia precisar deles noutra forma de existência.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-010",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Neolítico - transformação económica",
+      "question": "Que grande transformação caracteriza o Neolítico, relativamente à forma de obter alimento?",
+      "answer": "A passagem de um modo de vida recoletor para um modo de vida produtor",
+      "explanation": "Ao aprender a cultivar plantas e a criar animais, o ser humano deixou de depender apenas daquilo que a natureza espontaneamente oferecia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-011",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Sedentarização",
+      "question": "O que se entende por sedentarização?",
+      "answer": "A fixação de um grupo humano num local, abandonando o nomadismo",
+      "explanation": "A produção regular de alimento tornou possível permanecer no mesmo sítio durante muito tempo, dando origem às primeiras aldeias.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-012",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Agricultura e pastorícia",
+      "question": "Quais foram as duas principais atividades económicas desenvolvidas pelo ser humano no Neolítico?",
+      "answer": "A agricultura e a pastorícia",
+      "explanation": "A domesticação de plantas e animais garantiu uma fonte de alimento mais regular e previsível do que a caça e a recoleção.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-013",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Megalitismo",
+      "question": "Como se designam os grandes monumentos de pedra construídos por comunidades neolíticas?",
+      "answer": "Monumentos megalíticos",
+      "explanation": "A palavra deriva do grego 'mega' (grande) e 'lithos' (pedra), e estes monumentos tinham normalmente funções funerárias ou religiosas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-014",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Anta",
+      "question": "Como se chama o monumento megalítico funerário formado por grandes pedras dispostas em câmara, originalmente coberto de terra?",
+      "answer": "Anta (ou dólmen)",
+      "explanation": "No seu interior eram depositados os corpos dos mortos, muitas vezes acompanhados de objetos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-015",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Menir",
+      "question": "O que é um menir?",
+      "answer": "Um único bloco de pedra fincado verticalmente no solo",
+      "explanation": "Pensa-se que os menires, isolados ou dispostos em grupo, tinham um significado ritual ou simbólico para as comunidades neolíticas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-016",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Civilizações dos Grandes Rios",
+      "question": "Por que motivo as primeiras civilizações urbanas surgiram junto de grandes rios?",
+      "answer": "Porque as cheias fertilizavam as terras e a água permitia a agricultura, a fixação das populações e o transporte",
+      "explanation": "A abundância de água e de terras férteis nos vales fluviais possibilitou a produção de alimento em quantidade suficiente para sustentar cidades.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-017",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Mesopotâmia",
+      "question": "Entre que dois rios se desenvolveu a civilização da Mesopotâmia?",
+      "answer": "Entre o Tigre e o Eufrates",
+      "explanation": "A própria palavra 'Mesopotâmia' significa 'terra entre rios', em grego.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-018",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Egito Antigo",
+      "question": "Que rio foi fundamental para o desenvolvimento da civilização egípcia?",
+      "answer": "O rio Nilo",
+      "explanation": "As cheias anuais do Nilo depositavam um lodo fértil nas margens, tornando possível a agricultura numa região rodeada de deserto.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-019",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Excedentes agrícolas",
+      "question": "O que permitiu, nas primeiras civilizações urbanas, sustentar pessoas que não se dedicavam à produção de alimentos?",
+      "answer": "A acumulação de excedentes agrícolas",
+      "explanation": "Quando a agricultura passou a produzir mais do que o necessário para o consumo imediato, tornou-se possível libertar pessoas para outras atividades, como o artesanato, o comércio ou a administração.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-020",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Sociedade estratificada",
+      "question": "Como estava organizada a sociedade nas primeiras civilizações urbanas?",
+      "answer": "Em grupos sociais hierarquizados, com diferentes níveis de poder e riqueza",
+      "explanation": "No topo situavam-se geralmente o rei ou faraó e os sacerdotes, seguidos de funcionários, artesãos, camponeses e, na base, os escravos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-021",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Poder sacralizado do faraó",
+      "question": "Que carácter tinha o poder do faraó no Antigo Egito?",
+      "answer": "Um carácter divino, sendo o faraó considerado um deus vivo na Terra",
+      "explanation": "Esta sacralização do poder reforçava a autoridade do faraó, que era simultaneamente chefe político, militar e religioso.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-022",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Politeísmo",
+      "question": "O que significa dizer que uma civilização era politeísta?",
+      "answer": "Que acreditava e cultuava vários deuses",
+      "explanation": "As civilizações da Mesopotâmia e do Egito adoravam divindades associadas a forças da natureza, como o Sol, o rio ou a fertilidade.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-023",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Escravatura nas primeiras civilizações",
+      "question": "Como eram geralmente obtidos os escravos nas primeiras civilizações urbanas?",
+      "answer": "Através de guerras (como prisioneiros), de dívidas não pagas ou por nascimento",
+      "explanation": "Os escravos não tinham liberdade e realizavam trabalhos considerados mais pesados, tanto na agricultura como nas construções públicas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-024",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Escrita cuneiforme",
+      "question": "Como se chama o sistema de escrita criado pelos sumérios, na Mesopotâmia?",
+      "answer": "Escrita cuneiforme",
+      "explanation": "Era feita com marcas em forma de cunha, pressionadas em tabuinhas de argila com um instrumento pontiagudo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-025",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Escrita hieroglífica",
+      "question": "Como se chama o sistema de escrita do Antigo Egito, baseado em desenhos e símbolos?",
+      "answer": "Escrita hieroglífica",
+      "explanation": "Os hieróglifos podiam representar sons, ideias ou objetos, e eram usados sobretudo em templos e monumentos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-026",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Escrita alfabética",
+      "question": "Que povo do Mediterrâneo antigo criou um dos primeiros alfabetos, na origem de muitos alfabetos atuais?",
+      "answer": "Os fenícios",
+      "explanation": "Ao contrário da escrita hieroglífica ou cuneiforme, o alfabeto fenício usava um número reduzido de sinais para representar sons, o que facilitava a aprendizagem da escrita.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-027",
+      "domain": "Das sociedades recolectoras às primeiras civilizações",
+      "topic": "Arqueologia como fonte histórica",
+      "question": "Como se chama a ciência que estuda o passado humano através de vestígios materiais, como objetos, construções e ossos?",
+      "answer": "Arqueologia",
+      "explanation": "Como não existem documentos escritos sobre grande parte da Pré-História, os arqueólogos são essenciais para reconstituir o modo de vida dessas comunidades.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-028",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Cidade-estado grega",
+      "question": "Como se chamavam as cidades-estado independentes da Grécia Antiga?",
+      "answer": "Pólis",
+      "explanation": "Cada pólis, como Atenas ou Esparta, tinha o seu próprio governo, leis e exército, não existindo um estado grego unificado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-029",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Dispersão das cidades-estado gregas",
+      "question": "Por que razões os gregos se dispersaram pelo Mediterrâneo, fundando colónias noutras regiões?",
+      "answer": "Devido ao relevo montanhoso e à escassez de terras férteis na Grécia, associados ao crescimento da população",
+      "explanation": "A fundação de colónias no Mediterrâneo e no mar Negro permitia obter novas terras agrícolas e desenvolver rotas comerciais.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-030",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Democracia ateniense",
+      "question": "Como se chama o sistema político criado em Atenas, em que os cidadãos participavam diretamente no governo?",
+      "answer": "Democracia",
+      "explanation": "Na democracia ateniense, os cidadãos reuniam-se numa assembleia para discutir e votar diretamente as principais decisões da cidade, sem representantes eleitos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-031",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Cidadania em Atenas",
+      "question": "Quem podia ser considerado cidadão em Atenas?",
+      "answer": "Apenas os homens livres, maiores de idade, filhos de pai e mãe atenienses",
+      "explanation": "Isto excluía a maioria da população: mulheres, estrangeiros (metecos) e escravos não tinham estatuto de cidadão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-032",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Direitos políticos do cidadão",
+      "question": "Que direito fundamental tinha o cidadão ateniense na vida política da cidade?",
+      "answer": "O direito de participar e votar na Assembleia (Eclésia)",
+      "explanation": "Além de votar, o cidadão podia também ser sorteado ou eleito para exercer cargos públicos, participando ativamente no governo da pólis.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-033",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Metecos",
+      "question": "Quem eram os metecos, na sociedade ateniense?",
+      "answer": "Estrangeiros livres que residiam em Atenas",
+      "explanation": "Apesar de poderem dedicar-se ao comércio e ao artesanato, os metecos não tinham direitos políticos nem podiam possuir terras.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-034",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Escravos em Atenas",
+      "question": "Que papel tinham os escravos na economia e na sociedade ateniense?",
+      "answer": "Não tinham liberdade nem direitos e realizavam trabalhos domésticos, agrícolas, artesanais e nas minas",
+      "explanation": "A economia ateniense dependia fortemente do trabalho escravo, que sustentava muitas das atividades produtivas da cidade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-035",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "A mulher em Atenas",
+      "question": "Que direitos políticos tinha a mulher ateniense?",
+      "answer": "Nenhuns direitos políticos",
+      "explanation": "A mulher ateniense estava confinada sobretudo ao espaço doméstico e não podia votar, participar na Assembleia nem exercer cargos públicos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-036",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Função cívica da religião grega",
+      "question": "Além da dimensão religiosa, que outra função tinham as festividades e os cultos na pólis grega?",
+      "answer": "Uma função cívica, reforçando a identidade e a coesão da comunidade",
+      "explanation": "Celebrações como as Panateneias reuniam os cidadãos em torno de rituais comuns, fortalecendo o sentimento de pertença à cidade.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-037",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Jogos Olímpicos",
+      "question": "Em honra de que deus grego se realizavam os Jogos Olímpicos na Antiguidade?",
+      "answer": "Zeus",
+      "explanation": "Os jogos eram disputados em Olímpia e reuniam atletas de diferentes cidades-estado, suspendendo-se temporariamente os conflitos entre elas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-038",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Arte clássica grega",
+      "question": "Que características procurava a arte clássica grega representar no corpo humano?",
+      "answer": "A harmonia, o equilíbrio e a perfeição das proporções",
+      "explanation": "Esculturas e templos gregos seguiam regras de proporção, associando a beleza física a valores como a ordem e a razão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-039",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Teatro grego",
+      "question": "Em que cidade grega se desenvolveu especialmente o teatro, ligado a festividades religiosas?",
+      "answer": "Em Atenas",
+      "explanation": "As peças de teatro, entre tragédias e comédias, eram apresentadas em festivais dedicados ao deus Dioniso.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-040",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Filosofia grega",
+      "question": "Como se chamavam os pensadores da Grécia Antiga que refletiam sobre o mundo, o ser humano e a sociedade?",
+      "answer": "Filósofos",
+      "explanation": "Pensadores como Sócrates, Platão e Aristóteles procuravam explicar a realidade através da razão, e não apenas através dos mitos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-041",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Contributos gregos",
+      "question": "Indica um contributo político grego que ainda hoje influencia os sistemas de governo ocidentais.",
+      "answer": "A democracia",
+      "explanation": "Embora a democracia ateniense fosse muito diferente das democracias atuais, foi ali que surgiu a ideia de que o poder deveria pertencer ao conjunto dos cidadãos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-042",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Espaço do Império Romano",
+      "question": "Que mar se tornou o centro do território do Império Romano no seu apogeu?",
+      "answer": "O mar Mediterrâneo",
+      "explanation": "Os romanos chamavam-lhe 'Mare Nostrum' (o nosso mar), por controlarem todas as terras à sua volta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-043",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Economia romana",
+      "question": "Que tipo de economia caracterizava o Império Romano no seu apogeu?",
+      "answer": "Uma economia urbana, comercial, monetária e assente no trabalho escravo",
+      "explanation": "As cidades romanas eram centros de intensa atividade comercial, onde circulava moeda e onde grande parte do trabalho era feito por escravos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-044",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Moeda romana",
+      "question": "Que instrumento facilitava as trocas comerciais em todo o território do Império Romano?",
+      "answer": "A moeda",
+      "explanation": "A existência de uma moeda comum, aceite em todo o império, tornava mais fácil comprar e vender produtos entre regiões distantes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-045",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "O latim",
+      "question": "Que língua, comum a todo o império, contribuiu para a unidade do mundo romano?",
+      "answer": "O latim",
+      "explanation": "O latim tornou-se a língua da administração, das leis e da cultura, e deu origem a várias línguas atuais, entre elas o português.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-046",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Direito romano",
+      "question": "Que conjunto de leis romanas influenciou os sistemas jurídicos ocidentais até à atualidade?",
+      "answer": "O direito romano",
+      "explanation": "Muitos princípios jurídicos ainda usados hoje, como noções de propriedade ou de contrato, têm origem no direito criado pelos romanos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-047",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Administração romana",
+      "question": "Que elemento, além da língua e das leis, ajudou a unificar o vasto território do Império Romano?",
+      "answer": "Uma administração organizada, apoiada numa rede de estradas, funcionários e no exército",
+      "explanation": "Esta estrutura administrativa permitia ao poder central controlar e comunicar com territórios muito afastados de Roma, garantindo a coesão do império.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-048",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Poder imperial",
+      "question": "Que título tinha o chefe supremo do Império Romano?",
+      "answer": "Imperador",
+      "explanation": "O imperador concentrava em si os principais poderes políticos, militares e religiosos de Roma.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-049",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Aquedutos romanos",
+      "question": "Para que serviam os aquedutos construídos pelos romanos?",
+      "answer": "Para transportar água até às cidades",
+      "explanation": "Estas grandes estruturas, muitas vezes apoiadas em arcos, permitiam abastecer termas, fontes e casas com água canalizada a longas distâncias.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-050",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Anfiteatros romanos",
+      "question": "Para que eram usados os anfiteatros romanos, como o Coliseu de Roma?",
+      "answer": "Para a realização de espetáculos públicos, como combates de gladiadores",
+      "explanation": "Estes espaços podiam receber milhares de espectadores e eram um importante instrumento de entretenimento e de afirmação do poder imperial.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-051",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Rede de estradas romanas",
+      "question": "Que importância teve a rede de estradas construída pelos romanos?",
+      "answer": "Facilitava as comunicações, o comércio e a movimentação do exército por todo o império",
+      "explanation": "As estradas romanas, muito bem construídas, ligavam Roma às regiões mais distantes, ajudando a manter o controlo sobre todo o território.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-052",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "A mulher em Roma",
+      "question": "Em que aspeto tinha a mulher romana, apesar de não ter direitos políticos, mais liberdade do que a mulher ateniense?",
+      "answer": "Podia participar mais na vida social e possuir bens, embora continuasse sem direito de voto ou de exercer cargos públicos",
+      "explanation": "Ainda assim, a autoridade do pai ou do marido continuava a condicionar fortemente a vida da mulher romana.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-053",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Romanização",
+      "question": "O que se entende por romanização?",
+      "answer": "O processo de difusão dos costumes, da língua, das leis e do modo de vida romano pelos territórios conquistados",
+      "explanation": "Através deste processo, povos muito diferentes entre si foram progressivamente adotando traços comuns da cultura romana, o que ajudou a unificar o império.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-054",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Origem do cristianismo",
+      "question": "Em que região do Império Romano surgiu o cristianismo?",
+      "answer": "Na Palestina",
+      "explanation": "Foi nesta região, então sob domínio romano, que Jesus Cristo viveu e pregou, no início da nossa era.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-055",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Fundador do cristianismo",
+      "question": "Quem é a figura central da religião cristã?",
+      "answer": "Jesus Cristo",
+      "explanation": "Os seus ensinamentos, transmitidos pelos apóstolos, deram origem a uma nova religião que se espalhou progressivamente por todo o império.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-056",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Monoteísmo cristão",
+      "question": "Em que se distinguia o cristianismo da religião oficial romana, quanto ao número de divindades?",
+      "answer": "O cristianismo era monoteísta, enquanto a religião romana tradicional era politeísta",
+      "explanation": "Esta diferença tornava o cristianismo incompatível com o culto ao imperador, o que gerou tensões e perseguições nos primeiros séculos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-057",
+      "domain": "A herança do mediterrâneo antigo",
+      "topic": "Difusão do cristianismo no império",
+      "question": "Que fatores próprios do Império Romano facilitaram a rápida difusão do cristianismo?",
+      "answer": "A boa rede de estradas, a unidade linguística e a facilidade de circulação de pessoas dentro do império",
+      "explanation": "Estas infraestruturas, criadas para fins administrativos e comerciais, acabaram também por facilitar a viagem de missionários e a troca de ideias religiosas entre diferentes regiões.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-058",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Invasões dos povos germânicos",
+      "question": "Que povos invadiram o território do Império Romano do Ocidente entre os séculos V e VI, contribuindo para a sua queda?",
+      "answer": "Os povos germânicos, também chamados bárbaros pelos romanos",
+      "explanation": "Estes povos, vindos de fora das fronteiras do império, fundaram vários reinos nos territórios que antes pertenciam a Roma.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-059",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Fragmentação da Europa",
+      "question": "Que características marcaram a Europa Ocidental entre os séculos VI e IX, após a queda do Império Romano do Ocidente?",
+      "answer": "Fragmentação política, insegurança e isolamento entre regiões",
+      "explanation": "Sem o poder centralizado de Roma, a Europa dividiu-se em vários reinos mais pequenos e instáveis, frequentemente em conflito.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-060",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Economia de subsistência",
+      "question": "O que é uma economia de subsistência?",
+      "answer": "Uma economia baseada na produção do essencial para o consumo próprio do grupo, com pouco comércio",
+      "explanation": "Nesta época, com as trocas comerciais muito reduzidas e as vias de comunicação inseguras, cada comunidade tinha de produzir quase tudo o que necessitava.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-061",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Papel unificador da Igreja Católica",
+      "question": "Que papel desempenhou a Igreja Católica na Europa entre os séculos VI e IX?",
+      "answer": "Um papel unificador, mantendo viva parte da cultura antiga e alguma organização social e religiosa comum",
+      "explanation": "Numa Europa politicamente fragmentada, a Igreja foi uma das poucas instituições que conseguiu manter uma estrutura organizada em todo o território.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-062",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Mosteiros",
+      "question": "Que instituições religiosas ajudaram a preservar o saber e a cultura durante este período conturbado?",
+      "answer": "Os mosteiros",
+      "explanation": "Nos mosteiros, os monges copiavam manuscritos antigos e mantinham escolas, salvando muito do conhecimento que, de outra forma, se teria perdido.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-063",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Surgimento do Islão",
+      "question": "Em que península surgiu a religião islâmica, no século VII?",
+      "answer": "Na península Arábica",
+      "explanation": "Foi nesta região que Maomé começou a pregar uma nova religião monoteísta, que rapidamente se espalhou para além das suas fronteiras.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-064",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Maomé",
+      "question": "Quem foi o profeta considerado fundador da religião islâmica?",
+      "answer": "Maomé",
+      "explanation": "Segundo a tradição muçulmana, Maomé recebeu revelações divinas que ficaram registadas no livro sagrado do Islão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-065",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "O Corão",
+      "question": "Como se chama o livro sagrado do Islão?",
+      "answer": "O Corão",
+      "explanation": "O Corão reúne os ensinamentos e as revelações que, segundo a tradição islâmica, foram transmitidos a Maomé, e orienta a vida religiosa, moral e social dos muçulmanos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-066",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Monoteísmo islâmico",
+      "question": "Quantos deuses reconhece a religião islâmica?",
+      "answer": "Um só, chamado Alá",
+      "explanation": "Tal como o judaísmo e o cristianismo, o islamismo é uma religião monoteísta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-067",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Expansão territorial do Islão",
+      "question": "Por que regiões se expandiu rapidamente o mundo muçulmano nos séculos VII e VIII?",
+      "answer": "Pela península Arábica, o Norte de África e grande parte da península Ibérica",
+      "explanation": "Em pouco mais de um século, os exércitos muçulmanos conquistaram um território imenso, criando um vasto império que ligava três continentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-068",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Fatores de unidade do mundo muçulmano",
+      "question": "Que dois elementos uniam o vasto e diverso mundo muçulmano medieval?",
+      "answer": "A língua árabe e a religião islâmica",
+      "explanation": "Apesar de incluir povos muito diferentes, o mundo muçulmano encontrava nestes dois elementos comuns uma forte identidade partilhada.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-069",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Carácter cosmopolita do mundo muçulmano",
+      "question": "Que outras características, além da unidade linguística e religiosa, tinha o mundo muçulmano medieval?",
+      "answer": "Era um mundo cosmopolita, comercial e urbano, com cidades prósperas onde conviviam povos e culturas diferentes",
+      "explanation": "Cidades como Bagdade ou Córdova tornaram-se importantes centros de comércio, de saber e de trocas culturais entre o Oriente e o Ocidente.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-070",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Feudalismo",
+      "question": "Como se chama o sistema social e económico predominante na Europa entre os séculos IX e XII?",
+      "answer": "Feudalismo",
+      "explanation": "Neste sistema, a posse da terra e as relações de fidelidade pessoal entre senhores e vassalos organizavam praticamente toda a sociedade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-071",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Aristocracia guerreira",
+      "question": "Que grupo social detinha o poder militar e político na sociedade feudal?",
+      "answer": "A nobreza (aristocracia guerreira)",
+      "explanation": "Os nobres tinham como função principal defender militarmente as suas terras e as pessoas que nelas viviam, em troca de tributos e obediência.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-072",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "O clero",
+      "question": "Que grupo social, dedicado à religião, também detinha grande poder e importantes propriedades na sociedade feudal?",
+      "answer": "O clero",
+      "explanation": "Bispos e abades administravam vastas terras e tinham grande influência política, além da sua função religiosa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-073",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "O feudo",
+      "question": "O que era um feudo?",
+      "answer": "Uma terra concedida por um senhor a outra pessoa, em troca de fidelidade e de determinados serviços",
+      "explanation": "A partir do feudo, quem o recebia podia sustentar-se e cumprir as suas obrigações militares e económicas perante o senhor que lho tinha concedido.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-074",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Vassalidade",
+      "question": "Em que consistia a relação de vassalidade, na sociedade feudal?",
+      "answer": "Um vassalo jurava fidelidade e prestava serviços, sobretudo militares, a um senhor, em troca de proteção e da concessão de um feudo",
+      "explanation": "Esta relação pessoal de compromissos mútuos estava na base de toda a organização do poder no sistema feudal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-075",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Os servos",
+      "question": "Quem eram os servos, na sociedade feudal?",
+      "answer": "Camponeses que trabalhavam a terra do senhor e lhe deviam obediência e prestações, sem serem propriamente escravos",
+      "explanation": "Apesar de não poderem ser vendidos como os escravos, os servos estavam presos à terra e tinham uma liberdade muito limitada.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-076",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Condado Portucalense",
+      "question": "Como se chamava o território, no noroeste da Península Ibérica, na origem do futuro reino de Portugal?",
+      "answer": "Condado Portucalense",
+      "explanation": "Este território, entregue como feudo pelo rei de Leão a D. Henrique de Borgonha, esteve na origem da futura independência de Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-077",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Primeiro rei de Portugal",
+      "question": "Quem foi o primeiro rei de Portugal?",
+      "answer": "D. Afonso Henriques",
+      "explanation": "Filho de D. Henrique e D. Teresa, D. Afonso Henriques liderou o processo que levou o Condado Portucalense a transformar-se num reino independente.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-078",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Tratado de Zamora",
+      "question": "Que tratado, assinado em 1143, reconheceu a independência do reino de Portugal perante o Reino de Leão?",
+      "answer": "O Tratado de Zamora",
+      "explanation": "Este acordo entre D. Afonso Henriques e o rei de Leão foi um passo fundamental no reconhecimento formal de Portugal como reino independente.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-079",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Moçárabes",
+      "question": "Quem eram os moçárabes?",
+      "answer": "Cristãos que viviam em território sob domínio muçulmano e que mantinham a sua religião, embora influenciados pela cultura árabe",
+      "explanation": "Apesar de conservarem a fé cristã, os moçárabes adotaram muitos hábitos, palavras e conhecimentos da cultura muçulmana com que conviviam.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-080",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Papel dos moçárabes",
+      "question": "Que papel desempenharam os moçárabes na Península Ibérica medieval?",
+      "answer": "Serviram de ponte cultural entre o mundo cristão e o mundo muçulmano",
+      "explanation": "Ao dominarem tanto a cultura árabe como a cristã, os moçárabes ajudaram a transmitir conhecimentos e influências entre os dois mundos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-081",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Convivência religiosa na Península Ibérica",
+      "question": "Que três religiões conviveram, com momentos de tolerância e de conflito, na Península Ibérica medieval?",
+      "answer": "O cristianismo, o islamismo e o judaísmo",
+      "explanation": "Esta convivência entre diferentes comunidades religiosas variou muito ao longo do tempo e das regiões, entre períodos de cooperação e outros de forte tensão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-082",
+      "domain": "A formação da cristandade ocidental e a expansão islâmica",
+      "topic": "Reconquista cristã",
+      "question": "Como se designa o processo de conquista, pelos reinos cristãos, de territórios peninsulares antes dominados pelos muçulmanos?",
+      "answer": "Reconquista (cristã)",
+      "explanation": "Este processo prolongou-se durante séculos e foi decisivo na formação e expansão territorial dos reinos cristãos peninsulares, incluindo Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-083",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Renascimento urbano e comercial",
+      "question": "Que transformação económica se verificou na Europa a partir do século XII, associada ao crescimento das cidades?",
+      "answer": "A passagem de uma economia mais de subsistência para uma economia mais monetária, comercial e urbana",
+      "explanation": "O aumento da produção agrícola libertou pessoas para outras atividades, impulsionando o comércio e o crescimento das cidades.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-084",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Burguesia",
+      "question": "Como se chamava o grupo social que enriqueceu com o comércio e o artesanato nas cidades medievais?",
+      "answer": "Burguesia",
+      "explanation": "Vivendo sobretudo nos burgos (as cidades), este grupo foi ganhando importância económica e, mais tarde, também política.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-085",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Concelho",
+      "question": "O que era um concelho, na organização administrativa medieval portuguesa?",
+      "answer": "Uma unidade administrativa local, com autoridades e assembleias próprias, que geria os assuntos da comunidade",
+      "explanation": "Os concelhos surgiram sobretudo associados ao crescimento das povoações e permitiam às populações locais alguma autonomia na gestão dos seus assuntos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-086",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Foral",
+      "question": "O que era um foral?",
+      "answer": "Um documento régio ou senhorial que definia os direitos e deveres dos habitantes de um concelho",
+      "explanation": "O foral estabelecia, por exemplo, que impostos os moradores deviam pagar e que liberdades lhes eram garantidas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-087",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Senhorios laicos e eclesiásticos",
+      "question": "Que dois tipos de senhorios existiam na sociedade medieval portuguesa, consoante o seu titular?",
+      "answer": "Senhorios laicos, pertencentes à nobreza, e senhorios eclesiásticos, pertencentes à Igreja",
+      "explanation": "Ambos os tipos de senhorio detinham terras e exerciam poderes sobre as populações que nelas viviam e trabalhavam.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-088",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Fortalecimento do poder régio",
+      "question": "Que tendência geral se verificou no poder dos reis europeus entre os séculos XII e XIV, face aos senhores feudais?",
+      "answer": "Um fortalecimento e uma centralização progressiva do poder régio",
+      "explanation": "Os reis foram procurando limitar o poder da nobreza, criando administrações próprias, cobrando impostos e reforçando o exército sob o seu comando direto.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-089",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Crescimento de Lisboa",
+      "question": "Que fatores explicam o crescimento de Lisboa como importante centro comercial nos séculos XII a XIV?",
+      "answer": "A sua localização junto ao rio Tejo e à foz no oceano Atlântico, que facilitava o comércio marítimo com outras regiões da Europa",
+      "explanation": "Esta posição privilegiada transformou Lisboa num porto de escala frequentado por comerciantes de várias partes da Europa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-090",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Comércio europeu medieval",
+      "question": "Que tipo de produtos circulavam habitualmente no comércio europeu medieval que passava pelo porto de Lisboa?",
+      "answer": "Produtos como tecidos, sal, vinho, azeite e outros géneros agrícolas",
+      "explanation": "Estas trocas comerciais ligavam Portugal a outras regiões da Europa, contribuindo para o enriquecimento das cidades portuárias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-091",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Instituições monásticas e cultura",
+      "question": "Que papel tiveram os mosteiros portugueses na vida cultural, entre os séculos XII e XIV?",
+      "answer": "Foram importantes centros de produção e conservação do saber, com escolas e locais dedicados à cópia de manuscritos",
+      "explanation": "Muitos mosteiros, como o de Alcobaça, mantinham bibliotecas e formavam clérigos, sendo essenciais para a preservação do conhecimento.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-092",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Origem da universidade portuguesa",
+      "question": "Em que ano foi fundado o Estudo Geral, na origem da universidade portuguesa?",
+      "answer": "Em 1290",
+      "explanation": "Este Estudo Geral, criado por D. Dinis, viria a dar origem à atual Universidade de Coimbra, tendo funcionado também durante alguns períodos em Lisboa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-093",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Estilo românico",
+      "question": "Que características tinham geralmente os edifícios religiosos construídos no estilo românico, em Portugal?",
+      "answer": "Paredes grossas, poucas e pequenas janelas, arcos redondos e um aspeto robusto, quase fortificado",
+      "explanation": "Este aspeto sólido e fechado relacionava-se com a instabilidade da época e, por vezes, com a necessidade de defesa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-094",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Estilo gótico",
+      "question": "Que características distinguem o estilo gótico do estilo românico, na arquitetura religiosa medieval?",
+      "answer": "Arcos ogivais (em bico), janelas maiores com vitrais coloridos, e edifícios mais altos e luminosos",
+      "explanation": "Estas inovações técnicas permitiram construir igrejas e mosteiros mais leves e elevados, deixando entrar muito mais luz do que os edifícios românicos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-095",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Origem da crise de 1383-85",
+      "question": "Que acontecimento desencadeou a crise de 1383-85 em Portugal?",
+      "answer": "A morte do rei D. Fernando sem deixar um herdeiro varão direto",
+      "explanation": "A sua única filha, D. Beatriz, estava casada com o rei de Castela, o que abriu a possibilidade de Portugal ficar sujeito ao domínio castelhano.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-096",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Disputa pelo trono em 1383-85",
+      "question": "Entre que dois candidatos se disputou principalmente o trono português durante a crise de 1383-85?",
+      "answer": "Entre D. Beatriz, apoiada pelo rei de Castela, e D. João, Mestre de Avis",
+      "explanation": "A vitória de D. João, Mestre de Avis, garantiu que Portugal não ficasse unido à coroa de Castela.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-097",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Contexto da Guerra dos Cem Anos",
+      "question": "Que grande conflito europeu, entre Inglaterra e França, decorria na mesma época da crise portuguesa de 1383-85?",
+      "answer": "A Guerra dos Cem Anos",
+      "explanation": "A aliança entre Portugal e Inglaterra, reforçada nesta altura, relacionava-se com este contexto de rivalidade entre potências europeias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "hi7-098",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Batalha de Aljubarrota",
+      "question": "Em que batalha, ocorrida em 1385, as tropas portuguesas, apoiadas por um contingente inglês, derrotaram as tropas de Castela?",
+      "answer": "Na batalha de Aljubarrota",
+      "explanation": "Esta vitória foi decisiva para assegurar a independência de Portugal face às pretensões do rei de Castela ao trono português.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "hi7-099",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Apoio social a D. João, Mestre de Avis",
+      "question": "Que grupo social apoiou fortemente D. João, Mestre de Avis, durante a crise de 1383-85?",
+      "answer": "A burguesia, sobretudo a de Lisboa e do Porto",
+      "explanation": "Este grupo temia perder as suas liberdades e privilégios comerciais caso Portugal ficasse sob domínio de Castela, e por isso apoiou a causa de D. João.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "hi7-100",
+      "domain": "O contexto europeu dos séculos XII a XIV. O caso português",
+      "topic": "Consequências da crise de 1383-85",
+      "question": "Qual foi a principal consequência política da crise de 1383-85 para Portugal?",
+      "answer": "A subida ao trono de D. João I, dando início a uma nova dinastia, a Dinastia de Avis",
+      "explanation": "Esta mudança de dinastia garantiu a manutenção da independência de Portugal face a Castela e abriu um novo período da história portuguesa.",
+      "difficulty": "medio"
+    }
+  ]
+}

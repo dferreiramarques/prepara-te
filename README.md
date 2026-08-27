@@ -5,8 +5,12 @@ utilizador escolhe o ano que frequentou, depois escolhe "Geral" (todas
 as disciplinas desse ano) ou uma disciplina específica, e entra no ecrã
 de estudo (cartão com pergunta, resposta e explicação).
 
-O 5º ano está completo, com as 5 disciplinas do 2º ciclo (541 cartões no
-total):
+O seletor de ano agrupa-se por ciclo (2º ciclo: 5º-6º; 3º ciclo: 7º-9º).
+Cada disciplina só aparece nos anos do ciclo a que pertence (ex.: HGP só
+existe no 2º ciclo; História e Geografia, separadas, só existem no
+3º ciclo) — ver `subjectsForYear` em `js/catalog.js`.
+
+### 2º ciclo — 5º ano (completo, 541 cartões)
 
 - **Matemática** (131 cartões) — 4 domínios: Números, Geometria e Medida,
   Álgebra, Dados e Probabilidade.
@@ -27,6 +31,33 @@ total):
 
 O 6º ano já aparece no seletor, mas marcado como "brevemente" até ter
 cartões.
+
+### 3º ciclo — 7º ano (completo, 590 cartões)
+
+No 3º ciclo, "História e Geografia de Portugal" dá lugar a duas
+disciplinas separadas, **História** e **Geografia** (mais abrangentes,
+não só sobre Portugal).
+
+- **Matemática** (110 cartões) — 4 domínios: Números, Álgebra, Dados e
+  Probabilidades, Geometria.
+- **Português** (100 cartões) — 5 domínios: Gramática, Educação
+  Literária, Leitura, Escrita, Oralidade.
+- **Ciências Naturais** (100 cartões) — tema "Terra em Transformação",
+  em 5 domínios: Dinâmica externa da Terra; Estrutura e dinâmica interna
+  da Terra; Consequências da dinâmica interna da Terra; A Terra conta a
+  sua história; Ciência geológica e sustentabilidade da vida na Terra.
+- **História** (100 cartões) — 4 domínios: Das sociedades recolectoras
+  às primeiras civilizações; A herança do mediterrâneo antigo; A
+  formação da cristandade ocidental e a expansão islâmica; O contexto
+  europeu dos séculos XII a XIV (o caso português).
+- **Geografia** (90 cartões) — 5 domínios: Geografia e Paisagem; Mapas e
+  Representação da Terra; Localização e União Europeia; Clima e
+  Formações Vegetais; Relevo e Hidrografia.
+- **Inglês** (90 cartões, nível A2.1/A2.2) — 3 domínios: Vocabulário,
+  Gramática Inglesa, Cultura e Países Anglófonos.
+
+O 8º e o 9º ano já aparecem no seletor, mas marcados como "brevemente"
+até terem cartões.
 
 ## Como publicar
 
@@ -67,8 +98,10 @@ aberto como `file://`, porque o service worker, os ES modules e o
   (ficheiros `.json`) já existem.
 - `data/<ano>/<disciplina>.json` — os cartões de cada baralho
   (pergunta/resposta/explicação/domínio/tópico/dificuldade). Hoje existem
-  os 5 baralhos do 5º ano: `matematica.json`, `portugues.json`,
-  `ciencias-naturais.json`, `hgp.json` e `ingles.json`.
+  os 5 baralhos do 5º ano (`matematica.json`, `portugues.json`,
+  `ciencias-naturais.json`, `hgp.json`, `ingles.json`) e os 6 do 7º ano
+  (`matematica.json`, `portugues.json`, `ciencias-naturais.json`,
+  `historia.json`, `geografia.json`, `ingles.json`).
 - `build/generate_data.py` — o script que gerou `data/5/matematica.json`.
   Para acrescentar cartões a Matemática do 5º ano, edita este script e
   corre `python3 generate_data.py` a partir da pasta `build/` (grava
@@ -108,8 +141,8 @@ migrado automaticamente para o novo formato na primeira visita.
 
 ## Próximos passos possíveis
 
-- Acrescentar o 6º ano (as 5 disciplinas do 5º ano já estão completas),
-  reutilizando a mesma estrutura de dados.
+- Acrescentar o 6º ano e o 8º/9º ano, reutilizando a mesma estrutura de
+  dados.
 - Mais tarde, alargar ao ensino secundário.
 - Ecrã de estatísticas por domínio.
 - Modo "exame" com temporizador.

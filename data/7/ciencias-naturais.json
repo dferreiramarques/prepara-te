@@ -1,0 +1,904 @@
+{
+  "cards": [
+    {
+      "id": "cn7-001",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Minerais e rochas",
+      "question": "O que é um mineral?",
+      "answer": "É uma substância sólida natural, geralmente cristalina, com composição química definida",
+      "explanation": "Os minerais são os constituintes básicos das rochas, distinguindo-se uns dos outros por propriedades como a cor, o brilho, a dureza e a forma dos cristais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-002",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Identificação de minerais",
+      "question": "Indica um mineral incolor ou esbranquiçado, muito duro e resistente, que é um dos constituintes do granito.",
+      "answer": "Quartzo",
+      "explanation": "O quartzo é um dos minerais mais comuns na crosta terrestre e é facilmente identificável pela sua elevada dureza e pelo brilho vítreo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-003",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Identificação de minerais",
+      "question": "Que mineral, de cor geralmente branca ou incolor, reage com efervescência quando em contacto com ácido clorídrico diluído?",
+      "answer": "Calcite",
+      "explanation": "Esta reação com o ácido é um dos testes mais usados para identificar a calcite em amostras de mão, pois liberta dióxido de carbono sob a forma de pequenas bolhas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-004",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Identificação de minerais",
+      "question": "Que mineral se caracteriza por se separar facilmente em lâminas finas, flexíveis e brilhantes?",
+      "answer": "A mica (biotite ou moscovite)",
+      "explanation": "Esta propriedade chama-se clivagem e é uma das características que permite distinguir as micas de outros minerais em amostras de mão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-005",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Identificação de minerais",
+      "question": "Que mineral de cor verde-oliva é característico do basalto e de outras rochas magmáticas ricas em ferro e magnésio?",
+      "answer": "Olivina",
+      "explanation": "A olivina forma-se a temperaturas elevadas e é um dos minerais que dão ao basalto a sua cor escura característica.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-006",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Agentes de geodinâmica externa",
+      "question": "Quais são os principais agentes da geodinâmica externa responsáveis pela modelação da paisagem?",
+      "answer": "A água, o vento e os seres vivos",
+      "explanation": "Estes agentes atuam em conjunto ao longo do tempo, desgastando, transportando e depositando materiais e originando diferentes tipos de paisagem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-007",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Meteorização",
+      "question": "O que é a meteorização das rochas?",
+      "answer": "É a fragmentação e a alteração das rochas à superfície, por ação de agentes atmosféricos e biológicos",
+      "explanation": "A meteorização prepara o terreno para a ação da erosão, ao enfraquecer e desagregar progressivamente as rochas expostas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-008",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Erosão",
+      "question": "O que é a erosão?",
+      "answer": "É o desgaste e a remoção de materiais da superfície terrestre pela ação da água, do vento ou do gelo",
+      "explanation": "Os materiais removidos pela erosão são depois transportados e, mais tarde, depositados noutro local.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-009",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Dinâmica de um curso de água",
+      "question": "Num rio, em que zona do seu percurso predomina, regra geral, a erosão?",
+      "answer": "No curso superior, perto da nascente, onde o declive e a velocidade da água são maiores",
+      "explanation": "Nesta zona a água corre com mais força, o que favorece o desgaste do leito e das margens do rio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-010",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Dinâmica de um curso de água",
+      "question": "Em que zona do percurso de um rio predomina, regra geral, a deposição de sedimentos?",
+      "answer": "No curso inferior, perto da foz, onde o declive e a velocidade da água são menores",
+      "explanation": "Com a diminuição da velocidade da corrente, o rio perde capacidade para transportar os materiais, que acabam por se depositar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-011",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Dinâmica de um curso de água",
+      "question": "Como se chama a acumulação de sedimentos que um rio pode formar junto da foz, ao desaguar lentamente no mar?",
+      "answer": "Delta",
+      "explanation": "Os deltas formam-se quando o rio perde velocidade ao entrar no mar e deposita grande parte dos sedimentos que transportava.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-012",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Sedimentogénese",
+      "question": "O que é a sedimentogénese?",
+      "answer": "É o processo de formação e acumulação de sedimentos em camadas, que inclui a erosão, o transporte e a sedimentação",
+      "explanation": "É a primeira grande fase na formação de uma rocha sedimentar, antes de os sedimentos se transformarem em rocha consolidada.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-013",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Diagénese",
+      "question": "O que é a diagénese?",
+      "answer": "É o conjunto de processos, como a compactação e a cimentação, que transformam sedimentos depositados numa rocha sedimentar consolidada",
+      "explanation": "A diagénese ocorre depois da sedimentação e é responsável por transformar camadas de sedimentos soltos em rocha propriamente dita.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-014",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Diagénese",
+      "question": "O que acontece aos sedimentos durante o processo de compactação?",
+      "answer": "São comprimidos pelo peso das camadas de sedimentos que se vão depositando por cima, perdendo água e espaços vazios entre as partículas",
+      "explanation": "A compactação é uma das etapas da diagénese e aproxima as partículas umas das outras, contribuindo para a formação da rocha sedimentar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-015",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Rochas sedimentares detríticas",
+      "question": "Como se formam as rochas sedimentares detríticas?",
+      "answer": "Pela acumulação e consolidação de fragmentos (detritos) de outras rochas",
+      "explanation": "Estes fragmentos resultam da meteorização e da erosão de rochas preexistentes, sendo depois transportados e depositados.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-016",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Rochas sedimentares detríticas",
+      "question": "Dá um exemplo de rocha sedimentar detrítica formada pela consolidação de grãos de areia.",
+      "answer": "Arenito",
+      "explanation": "O arenito forma-se quando grãos de areia são cimentados entre si ao longo do processo de diagénese.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-017",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Rochas sedimentares quimiogénicas",
+      "question": "Como se formam as rochas sedimentares quimiogénicas?",
+      "answer": "Pela precipitação de substâncias que se encontravam dissolvidas na água",
+      "explanation": "Um exemplo deste tipo de formação são as estalactites e estalagmites, que resultam da precipitação lenta de carbonato de cálcio.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-018",
+      "domain": "Dinâmica externa da Terra",
+      "topic": "Rochas sedimentares biogénicas",
+      "question": "Como se formam as rochas sedimentares biogénicas?",
+      "answer": "A partir da acumulação de restos de seres vivos, como conchas, esqueletos ou plantas",
+      "explanation": "O calcário biogénico e o carvão são exemplos de rochas sedimentares que se formam por este processo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-019",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Estrutura interna da Terra",
+      "question": "Quais são as três principais camadas que constituem a estrutura interna da Terra?",
+      "answer": "Crosta, manto e núcleo",
+      "explanation": "Estas camadas diferem entre si na composição, no estado físico e na espessura, ficando o núcleo no centro do planeta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-020",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Estrutura interna da Terra",
+      "question": "Qual é a camada mais externa e mais fina da estrutura interna da Terra, onde vivemos?",
+      "answer": "A crosta",
+      "explanation": "A crosta é a camada sólida sobre a qual se encontram os continentes e os fundos oceânicos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-021",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Estrutura interna da Terra",
+      "question": "Qual é a camada da Terra mais espessa, situada entre a crosta e o núcleo?",
+      "answer": "O manto",
+      "explanation": "É no manto que ocorrem movimentos lentos de material que estão relacionados com o deslocamento das placas tectónicas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-022",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Teoria da Deriva Continental",
+      "question": "Quem propôs, no início do século XX, a Teoria da Deriva Continental?",
+      "answer": "Alfred Wegener",
+      "explanation": "Wegener era um meteorologista alemão que se interessou pela semelhança entre os contornos dos continentes atuais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-023",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Teoria da Deriva Continental",
+      "question": "Em que consistia, essencialmente, a Teoria da Deriva Continental?",
+      "answer": "Na ideia de que os continentes atuais formavam, no passado, um único supercontinente que se fragmentou, deslocando-se lentamente os seus pedaços até às posições atuais",
+      "explanation": "Esta ideia contrariava a visão da época, segundo a qual os continentes eram fixos e sempre tinham ocupado a mesma posição.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-024",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Teoria da Deriva Continental",
+      "question": "Como se chamava o supercontinente único que, segundo Wegener, deu origem aos continentes atuais?",
+      "answer": "Pangeia",
+      "explanation": "A Pangeia terá começado a fragmentar-se há cerca de 200 milhões de anos, originando os continentes que hoje conhecemos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-025",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Teoria da Deriva Continental",
+      "question": "Indica um argumento usado por Wegener para apoiar a Teoria da Deriva Continental.",
+      "answer": "Por exemplo, o encaixe entre os litorais de continentes hoje separados, como a América do Sul e a África, ou a semelhança entre fósseis encontrados em continentes distantes",
+      "explanation": "Wegener reuniu evidências de várias áreas da ciência, como a geologia, a paleontologia e a climatologia, para fundamentar a sua teoria.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-026",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Teoria da Deriva Continental",
+      "question": "Por que razão a Teoria da Deriva Continental não foi inicialmente aceite pela maioria da comunidade científica?",
+      "answer": "Porque Wegener não conseguiu explicar de forma satisfatória qual seria a força capaz de mover continentes inteiros",
+      "explanation": "Só décadas mais tarde, com a descoberta da expansão dos fundos oceânicos, se encontrou uma explicação plausível para o mecanismo do movimento dos continentes.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-027",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Fundos oceânicos",
+      "question": "O que é a dorsal médio-oceânica?",
+      "answer": "É uma extensa cadeia montanhosa submarina onde se forma nova crosta oceânica",
+      "explanation": "Ao longo da dorsal, o magma sobe do manto e solidifica, originando novos fundos oceânicos que se vão afastando do seu eixo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-028",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Fundos oceânicos",
+      "question": "Como varia a idade das rochas do fundo oceânico à medida que nos afastamos do eixo da dorsal médio-oceânica?",
+      "answer": "A idade das rochas vai aumentando",
+      "explanation": "Isto acontece porque a crosta oceânica se forma continuamente junto à dorsal e vai sendo empurrada para os lados ao longo do tempo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-029",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Paleomagnetismo",
+      "question": "O que é o paleomagnetismo das rochas e o que revela sobre os fundos oceânicos?",
+      "answer": "É o registo, nos minerais magnéticos das rochas, da orientação do campo magnético terrestre no momento em que se formaram; revela um padrão simétrico em faixas em torno da dorsal",
+      "explanation": "Este padrão simétrico foi uma das provas decisivas que permitiu confirmar a expansão dos fundos oceânicos a partir da dorsal médio-oceânica.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-030",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Tectónica de Placas",
+      "question": "O que é uma placa tectónica?",
+      "answer": "É um grande fragmento rígido da litosfera que se desloca lentamente sobre o manto",
+      "explanation": "A superfície da Terra está dividida em várias placas tectónicas, que se movem a velocidades de poucos centímetros por ano.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-031",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Tectónica de Placas",
+      "question": "O que acontece nos limites divergentes entre placas tectónicas?",
+      "answer": "As placas afastam-se uma da outra e forma-se nova crosta",
+      "explanation": "É o que acontece, por exemplo, ao longo das dorsais médio-oceânicas, onde o magma sobe e preenche o espaço deixado pelo afastamento das placas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-032",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Tectónica de Placas",
+      "question": "O que acontece nos limites convergentes entre placas tectónicas?",
+      "answer": "As placas aproximam-se e colidem, podendo uma delas ser subductada sob a outra ou formar-se uma cadeia montanhosa",
+      "explanation": "Estes limites estão frequentemente associados a intensa atividade sísmica e vulcânica, devido às forças envolvidas na colisão das placas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-033",
+      "domain": "Estrutura e dinâmica interna da Terra",
+      "topic": "Deformação de rochas",
+      "question": "Qual é a diferença entre a deformação dúctil e a deformação frágil das rochas?",
+      "answer": "Na deformação dúctil a rocha dobra-se sem partir; na deformação frágil a rocha parte, formando falhas",
+      "explanation": "O tipo de deformação depende de fatores como a temperatura, a pressão e a velocidade a que a força é aplicada sobre a rocha.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-034",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo",
+      "question": "O que é um vulcão?",
+      "answer": "É uma estrutura geológica através da qual o magma, gases e outros materiais provenientes do interior da Terra chegam à superfície",
+      "explanation": "Os vulcões formam-se, regra geral, junto aos limites das placas tectónicas, embora também possam ocorrer no interior das placas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-035",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo",
+      "question": "Como se chama o magma quando este chega à superfície da Terra?",
+      "answer": "Lava",
+      "explanation": "Ao atingir a superfície, o magma perde grande parte dos gases que continha e passa a designar-se lava.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-036",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo",
+      "question": "Que característica do magma influencia principalmente o tipo de erupção vulcânica, mais ou menos violenta?",
+      "answer": "A viscosidade do magma e a quantidade de gases nele dissolvidos",
+      "explanation": "Um magma mais viscoso dificulta a saída dos gases, o que aumenta a pressão no interior do vulcão e favorece erupções mais violentas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-037",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo",
+      "question": "Que tipo de erupção vulcânica ocorre quando o magma é fluido e pobre em gases, originando derrames de lava calmos?",
+      "answer": "Erupção efusiva",
+      "explanation": "Este tipo de erupção é característico de vulcões como os do Havai, onde a lava fluida escorre com relativa calma pelas encostas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-038",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo",
+      "question": "Que tipo de erupção vulcânica ocorre quando o magma é viscoso e rico em gases, sendo mais violenta?",
+      "answer": "Erupção explosiva",
+      "explanation": "Nestas erupções, a libertação súbita dos gases sob pressão pode projetar materiais piroclásticos e cinzas a grande distância.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-039",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Edifícios vulcânicos",
+      "question": "Que tipo de vulcão apresenta encostas suaves e de baixa inclinação, resultante de sucessivos derrames de lava fluida?",
+      "answer": "Vulcão em escudo",
+      "explanation": "Este tipo de edifício vulcânico forma-se por acumulação de várias camadas de lava fluida, que se espalha facilmente antes de solidificar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-040",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Edifícios vulcânicos",
+      "question": "Que tipo de vulcão apresenta encostas mais íngremes, formado pela alternância de camadas de lava e de materiais piroclásticos?",
+      "answer": "Vulcão em estrato (ou estratovulcão)",
+      "explanation": "A alternância entre erupções efusivas e explosivas ao longo do tempo dá origem a esta estrutura em camadas sobrepostas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-041",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo secundário",
+      "question": "O que é o vulcanismo secundário?",
+      "answer": "É o conjunto de manifestações vulcânicas de menor intensidade, associadas ao arrefecimento lento de uma câmara magmática",
+      "explanation": "Estas manifestações, como fumarolas, nascentes termais e géiseres, podem persistir muito tempo depois de cessar a atividade vulcânica principal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-042",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Estudo do interior da Terra",
+      "question": "Qual é a diferença entre os métodos diretos e os métodos indiretos usados no estudo do interior da Terra?",
+      "answer": "Os métodos diretos baseiam-se na observação e na recolha de amostras, como sondagens ou materiais vulcânicos; os métodos indiretos baseiam-se em dados obtidos sem contacto direto, como o estudo da propagação das ondas sísmicas",
+      "explanation": "Como não é possível observar diretamente o interior profundo da Terra, os métodos indiretos são essenciais para conhecer as suas camadas mais profundas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-043",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo e sociedade",
+      "question": "Indica uma vantagem do vulcanismo para as populações locais.",
+      "answer": "Por exemplo, o solo fértil para a agricultura, o aproveitamento de energia geotérmica ou o turismo",
+      "explanation": "Muitas regiões vulcânicas, como os Açores, tiram partido destes benefícios apesar dos riscos associados à atividade vulcânica.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-044",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Vulcanismo e sociedade",
+      "question": "Indica uma desvantagem (risco) do vulcanismo para as populações locais.",
+      "answer": "Por exemplo, a destruição de habitações e infraestruturas ou o perigo para a vida humana provocado pelas erupções",
+      "explanation": "Por esta razão, é importante que a ciência e a tecnologia contribuam para a previsão da atividade vulcânica e para a minimização destes riscos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-045",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas magmáticas",
+      "question": "Qual é a diferença entre uma rocha magmática plutónica e uma rocha magmática vulcânica, quanto ao local de arrefecimento do magma?",
+      "answer": "A rocha plutónica forma-se por arrefecimento lento no interior da Terra; a rocha vulcânica forma-se por arrefecimento rápido à superfície",
+      "explanation": "Esta diferença no ritmo de arrefecimento é responsável pelas diferenças no tamanho dos cristais das duas rochas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-046",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas magmáticas",
+      "question": "O granito é uma rocha magmática plutónica ou vulcânica?",
+      "answer": "Plutónica",
+      "explanation": "O granito forma-se a partir do arrefecimento lento do magma em profundidade, no interior da crosta terrestre.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-047",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas magmáticas",
+      "question": "O basalto é uma rocha magmática plutónica ou vulcânica?",
+      "answer": "Vulcânica",
+      "explanation": "O basalto forma-se a partir do arrefecimento rápido da lava à superfície da Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-048",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas magmáticas",
+      "question": "Por que motivo o granito apresenta cristais grandes, visíveis a olho nu?",
+      "answer": "Porque resulta do arrefecimento lento do magma no interior da Terra, o que dá tempo para os cristais crescerem",
+      "explanation": "Quanto mais lento for o arrefecimento, mais tempo têm os minerais para se organizarem em cristais bem desenvolvidos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-049",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas magmáticas",
+      "question": "Por que motivo o basalto apresenta cristais muito pequenos ou pouco visíveis a olho nu?",
+      "answer": "Porque resulta do arrefecimento rápido da lava à superfície, o que não dá tempo para o crescimento de cristais grandes",
+      "explanation": "O arrefecimento rápido impede a organização dos minerais em cristais bem definidos, originando uma textura de grão fino.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-050",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas metamórficas",
+      "question": "Dá três exemplos de rochas metamórficas estudadas no 7.º ano.",
+      "answer": "Xistos, mármores e quartzitos",
+      "explanation": "Estas rochas resultam da transformação de outras rochas preexistentes por ação da pressão e/ou da temperatura, sem que cheguem a fundir-se.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-051",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas metamórficas",
+      "question": "A partir de que rocha sedimentar se forma o mármore, por metamorfismo?",
+      "answer": "Do calcário",
+      "explanation": "A transformação do calcário em mármore ocorre quando este é sujeito a temperatura e pressão elevadas no interior da Terra.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-052",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Rochas metamórficas",
+      "question": "A partir de que rocha sedimentar se forma o quartzito, por metamorfismo?",
+      "answer": "Do arenito rico em quartzo",
+      "explanation": "O quartzito é uma rocha muito dura e resistente, resultante da recristalização dos grãos de quartzo presentes no arenito original.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-053",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Paisagens magmáticas",
+      "question": "Indica uma característica típica de uma paisagem granítica.",
+      "answer": "Por exemplo, a presença de blocos arredondados (matacões), resultantes da meteorização do granito",
+      "explanation": "Estas formas resultam do desgaste diferencial do granito ao longo do tempo, sobretudo nas suas arestas e vértices.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-054",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Paisagens metamórficas",
+      "question": "Que característica é comum observar em afloramentos de rochas metamórficas, como os xistos?",
+      "answer": "Apresentam-se frequentemente organizados em placas ou lâminas paralelas, chamadas xistosidade",
+      "explanation": "Esta organização em lâminas resulta da orientação dos minerais durante o processo de metamorfismo, sob a ação da pressão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-055",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Ciclo das rochas",
+      "question": "O que é o ciclo das rochas?",
+      "answer": "É o conjunto de transformações através das quais os três tipos de rochas se podem converter umas nas outras ao longo do tempo geológico",
+      "explanation": "Este ciclo mostra que nenhuma rocha é eterna: sedimentares, magmáticas e metamórficas transformam-se continuamente ao longo de escalas de tempo muito grandes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-056",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Ciclo das rochas",
+      "question": "O que pode acontecer a uma rocha sedimentar se for sujeita a grande pressão e temperatura no interior da Terra?",
+      "answer": "Pode transformar-se numa rocha metamórfica",
+      "explanation": "Este é um exemplo de uma das transformações possíveis no ciclo das rochas, sem que a rocha original chegue a fundir-se.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-057",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Ciclo das rochas",
+      "question": "O que acontece a uma rocha se esta for sujeita a temperaturas suficientemente elevadas para fundir?",
+      "answer": "Transforma-se em magma, que, ao arrefecer e solidificar, origina uma rocha magmática",
+      "explanation": "Esta é outra das transformações possíveis no ciclo das rochas, associada à dinâmica interna da Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-058",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Cartas geológicas",
+      "question": "Para que serve uma carta geológica?",
+      "answer": "Para representar, numa área, os tipos de rochas existentes e a sua distribuição",
+      "explanation": "As cartas geológicas usam cores e símbolos convencionados para indicar, de forma simplificada, a informação geológica de uma região.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-059",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismos e vulcões",
+      "question": "Como se distribuem, de um modo geral, os sismos e os vulcões no planeta Terra?",
+      "answer": "Concentram-se sobretudo junto aos limites das placas tectónicas",
+      "explanation": "É por isso que certas regiões do globo, como o chamado Anel de Fogo do Pacífico, registam uma atividade sísmica e vulcânica muito mais intensa do que outras.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-060",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Recursos litológicos",
+      "question": "Indica um exemplo de utilização do granito pelo ser humano.",
+      "answer": "Por exemplo, na construção civil, em calçadas ou em monumentos",
+      "explanation": "O granito é apreciado como material de construção pela sua dureza e resistência à erosão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-061",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Recursos litológicos",
+      "question": "Por que é importante que a exploração de recursos litológicos, como as pedreiras, seja feita de forma sustentável?",
+      "answer": "Para minimizar o impacto ambiental na paisagem, nos ecossistemas e nas populações locais, garantindo a disponibilidade destes recursos no futuro",
+      "explanation": "Uma exploração descontrolada destes recursos pode causar danos irreversíveis na paisagem e nos habitats naturais.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-062",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "O que é o hipocentro (ou foco) de um sismo?",
+      "answer": "É o local no interior da Terra onde se origina o sismo",
+      "explanation": "É a partir do hipocentro que as ondas sísmicas se propagam em todas as direções.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-063",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "O que é o epicentro de um sismo?",
+      "answer": "É o ponto à superfície da Terra situado na vertical do hipocentro",
+      "explanation": "É geralmente na zona do epicentro que os efeitos de um sismo se fazem sentir com maior intensidade.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-064",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "Qual é a diferença entre a magnitude e a intensidade de um sismo?",
+      "answer": "A magnitude mede a energia libertada no hipocentro e é única para cada sismo; a intensidade mede os efeitos e os estragos causados num determinado local, podendo variar de local para local",
+      "explanation": "Por isso, um mesmo sismo pode ter uma única magnitude, mas diferentes intensidades consoante a distância ao epicentro e as características do local.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-065",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "Que escala é usada para medir a magnitude de um sismo, com base na energia libertada?",
+      "answer": "A Escala de Richter",
+      "explanation": "Esta escala é aberta e logarítmica, o que significa que cada grau representa uma libertação de energia muito superior ao grau anterior.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-066",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "Que escala é usada para avaliar a intensidade de um sismo, com base nos efeitos observados e nos estragos causados?",
+      "answer": "A Escala Macrossísmica Europeia (EMS)",
+      "explanation": "Ao contrário da magnitude, a intensidade avaliada por esta escala pode variar de local para local, consoante os danos observados.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-067",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "Que instrumento regista as vibrações produzidas por um sismo, dando origem a um sismograma?",
+      "answer": "O sismógrafo",
+      "explanation": "O sismograma é o registo gráfico produzido pelo sismógrafo, sendo essencial para localizar e caracterizar os sismos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-068",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "O que são cartas de isossistas?",
+      "answer": "São cartas onde se representam linhas que unem pontos com igual intensidade sísmica",
+      "explanation": "Estas cartas ajudam a identificar as zonas onde um sismo causou estragos semelhantes, sendo úteis na avaliação do risco sísmico de uma região.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-069",
+      "domain": "Consequências da dinâmica interna da Terra",
+      "topic": "Sismologia",
+      "question": "Indica uma medida de proteção que se deve adotar durante um sismo, caso se esteja dentro de um edifício.",
+      "answer": "Por exemplo, proteger a cabeça e procurar abrigo debaixo de uma mesa robusta, afastando-se de janelas e objetos que possam cair",
+      "explanation": "Conhecer estas medidas de autoproteção é fundamental para reduzir o risco de ferimentos durante um sismo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-070",
+      "domain": "A Terra conta a sua história",
+      "topic": "Fósseis",
+      "question": "O que é um fóssil?",
+      "answer": "É um resto ou vestígio de um ser vivo do passado, preservado nas rochas",
+      "explanation": "Os fósseis são uma das principais fontes de informação para reconstituir a história da vida na Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-071",
+      "domain": "A Terra conta a sua história",
+      "topic": "Fósseis",
+      "question": "Indica uma condição que favorece a fossilização de um organismo.",
+      "answer": "Por exemplo, possuir partes duras, como ossos ou conchas, ou ser rapidamente coberto por sedimentos após a morte",
+      "explanation": "Sem estas condições, os restos dos seres vivos tendem a decompor-se por completo antes de poderem fossilizar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-072",
+      "domain": "A Terra conta a sua história",
+      "topic": "Fósseis",
+      "question": "Quais são, em geral, as principais etapas do processo de fossilização?",
+      "answer": "A morte do organismo, o rápido soterramento por sedimentos e a preservação ou substituição lenta dos seus tecidos ao longo do tempo",
+      "explanation": "Este é um processo muito lento e raro, o que explica por que só uma pequena fração dos seres vivos do passado chegou a fossilizar.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-073",
+      "domain": "A Terra conta a sua história",
+      "topic": "Tipos de fósseis",
+      "question": "O que é um molde fóssil?",
+      "answer": "É a marca ou impressão deixada na rocha pela forma exterior ou interior de um organismo desaparecido",
+      "explanation": "Ao contrário de outros fósseis, o molde não conserva os materiais originais do ser vivo, mas sim a sua forma.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-074",
+      "domain": "A Terra conta a sua história",
+      "topic": "Tipos de fósseis",
+      "question": "Dá um exemplo de vestígio de atividade de um ser vivo que também pode ser considerado um fóssil.",
+      "answer": "Por exemplo, uma pegada fossilizada",
+      "explanation": "Este tipo de fóssil não corresponde ao corpo do organismo, mas sim ao registo de uma sua atividade, como o deslocamento.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-075",
+      "domain": "A Terra conta a sua história",
+      "topic": "Importância dos fósseis",
+      "question": "De que forma o estudo dos fósseis contribui para a reconstituição da história da vida na Terra?",
+      "answer": "Permite identificar que seres vivos existiram, quando viveram e como as espécies se foram transformando ao longo do tempo geológico",
+      "explanation": "É através da comparação de fósseis de diferentes idades que os cientistas conseguem estudar a evolução dos seres vivos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-076",
+      "domain": "A Terra conta a sua história",
+      "topic": "Fósseis de idade",
+      "question": "O que é um fóssil de idade (ou estratigráfico)?",
+      "answer": "É o fóssil de uma espécie que viveu durante um curto período de tempo geológico, mas que teve uma grande distribuição geográfica",
+      "explanation": "Por estas características, este tipo de fóssil permite datar e comparar a idade de rochas de diferentes regiões do planeta.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-077",
+      "domain": "A Terra conta a sua história",
+      "topic": "Fósseis de fácies",
+      "question": "O que é um fóssil de fácies?",
+      "answer": "É o fóssil de uma espécie que viveu durante um longo período de tempo geológico, mas associada a um ambiente específico",
+      "explanation": "Este tipo de fóssil é útil para reconstituir as condições ambientais existentes no passado, em vez de servir para datar rochas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-078",
+      "domain": "A Terra conta a sua história",
+      "topic": "Tempo geológico",
+      "question": "Qual é a diferença entre tempo histórico e tempo geológico?",
+      "answer": "O tempo histórico é contado em séculos ou milénios, desde o aparecimento da escrita; o tempo geológico é contado em milhões de anos, desde a formação da Terra",
+      "explanation": "Esta diferença de escala ajuda a compreender como a história da humanidade representa apenas um breve momento na longa história do planeta.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-079",
+      "domain": "A Terra conta a sua história",
+      "topic": "Tempo geológico",
+      "question": "Em que unidade de tempo é habitualmente medida a idade da Terra e dos acontecimentos geológicos?",
+      "answer": "Em milhões de anos",
+      "explanation": "Esta escala de tempo é muito maior do que a usada no dia a dia, o que torna difícil imaginar a real duração da história geológica da Terra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-080",
+      "domain": "A Terra conta a sua história",
+      "topic": "Raciocínio geológico",
+      "question": "O que estabelece o princípio da sobreposição dos estratos?",
+      "answer": "Numa sequência de camadas de rocha sedimentar não perturbada, as camadas mais antigas encontram-se na base e as mais recentes no topo",
+      "explanation": "Este princípio é uma das ferramentas fundamentais para determinar a ordem relativa de formação das rochas sedimentares.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-081",
+      "domain": "A Terra conta a sua história",
+      "topic": "Raciocínio geológico",
+      "question": "O que estabelece o princípio da horizontalidade original?",
+      "answer": "Os sedimentos depositam-se, em regra, em camadas horizontais; se aparecerem inclinadas ou dobradas, foram perturbadas após a sua formação",
+      "explanation": "Este princípio permite reconhecer, através da inclinação das camadas, que uma rocha foi afetada por movimentos geológicos posteriores à sua formação.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-082",
+      "domain": "A Terra conta a sua história",
+      "topic": "Raciocínio geológico",
+      "question": "O que estabelece o princípio da identidade paleontológica?",
+      "answer": "Camadas de rochas diferentes, mesmo que geograficamente afastadas, que contenham os mesmos fósseis de idade, formaram-se durante o mesmo intervalo de tempo",
+      "explanation": "Este princípio permite correlacionar a idade de rochas situadas em regiões muito distantes umas das outras, com base nos fósseis que contêm.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-083",
+      "domain": "A Terra conta a sua história",
+      "topic": "Raciocínio geológico",
+      "question": "Em que consiste o princípio do atualismo (ou uniformitarismo) em Geologia?",
+      "answer": "Os processos geológicos que atuam atualmente terão atuado, de forma semelhante, ao longo de toda a história da Terra",
+      "explanation": "Este princípio permite usar a observação dos fenómenos geológicos atuais para interpretar acontecimentos ocorridos há milhões de anos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-084",
+      "domain": "A Terra conta a sua história",
+      "topic": "Datação relativa",
+      "question": "O que é a datação relativa de uma rocha?",
+      "answer": "É a determinação da idade de uma rocha por comparação com outras rochas, situando-a como mais antiga ou mais recente",
+      "explanation": "Esta forma de datação não indica o número exato de anos, ao contrário da datação absoluta.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-085",
+      "domain": "A Terra conta a sua história",
+      "topic": "Datação relativa",
+      "question": "A datação relativa permite conhecer a idade exata, em anos, de uma rocha?",
+      "answer": "Não, apenas permite saber se é mais antiga ou mais recente do que outra",
+      "explanation": "Para obter a idade exata de uma rocha, em anos, é necessário recorrer a métodos de datação absoluta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-086",
+      "domain": "A Terra conta a sua história",
+      "topic": "Eras geológicas",
+      "question": "Quais são as quatro eras geológicas em que se divide, de forma simplificada, a história da Terra?",
+      "answer": "Precâmbrico, Paleozoico, Mesozoico e Cenozoico",
+      "explanation": "Esta divisão em eras geológicas organiza a longa história do planeta em intervalos de tempo com características próprias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-087",
+      "domain": "A Terra conta a sua história",
+      "topic": "Eras geológicas",
+      "question": "Em que era geológica surgiram e se extinguiram os dinossauros?",
+      "answer": "No Mesozoico",
+      "explanation": "O Mesozoico é, por isso, muitas vezes designado como a era dos répteis.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-088",
+      "domain": "A Terra conta a sua história",
+      "topic": "Eras geológicas",
+      "question": "Em que era geológica vivemos atualmente?",
+      "answer": "No Cenozoico",
+      "explanation": "O Cenozoico iniciou-se há cerca de 66 milhões de anos, após a extinção dos dinossauros, e é caracterizado pelo desenvolvimento dos mamíferos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-089",
+      "domain": "A Terra conta a sua história",
+      "topic": "Eras geológicas",
+      "question": "Qual é a era geológica mais longa da história da Terra, correspondente ao período anterior ao aparecimento de vida abundante com esqueletos?",
+      "answer": "O Precâmbrico",
+      "explanation": "O Precâmbrico ocupa a maior parte da história da Terra, embora existam poucos fósseis desta era devido à ausência de estruturas duras na maioria dos seres vivos dessa altura.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-090",
+      "domain": "A Terra conta a sua história",
+      "topic": "A Terra conta a sua história",
+      "question": "Por que são os fósseis muitas vezes designados como um \"arquivo\" da história da Terra?",
+      "answer": "Porque constituem os principais registos e evidências que permitem reconstituir os acontecimentos passados do planeta",
+      "explanation": "Sem os fósseis, seria muito mais difícil compreender como a vida na Terra se foi transformando ao longo de milhões de anos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-091",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e saúde",
+      "question": "De que forma o ambiente geológico de uma região pode influenciar a saúde das populações que aí vivem?",
+      "answer": "Certas rochas ou solos podem libertar substâncias ou gases que afetam a saúde, ou fornecer água com uma determinada composição mineral que também tem efeitos no organismo",
+      "explanation": "Por isso, o estudo geológico de uma região pode ajudar a identificar e prevenir riscos para a saúde pública.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-092",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e saúde",
+      "question": "Indica um exemplo de gás de origem geológica que pode ser prejudicial à saúde humana quando se acumula em espaços fechados.",
+      "answer": "O radão",
+      "explanation": "O radão é um gás radioativo natural, libertado por certos tipos de rochas e solos, que pode acumular-se em caves e habitações mal ventiladas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-093",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e saúde",
+      "question": "Indica um exemplo de material de origem rochosa cuja utilização, no passado, se veio a revelar prejudicial à saúde humana.",
+      "answer": "Por exemplo, rochas ou materiais com amianto",
+      "explanation": "O amianto foi muito utilizado na construção, mas hoje sabe-se que a inalação das suas fibras está associada a doenças respiratórias graves.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-094",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e saúde",
+      "question": "De que forma a composição mineral da água pode influenciar a saúde de quem a consome?",
+      "answer": "Dependendo da quantidade e do tipo de minerais dissolvidos, a água pode ter efeitos benéficos, como certas águas mineromedicinais, ou prejudiciais, se em excesso",
+      "explanation": "É por isso que se estuda a origem geológica das águas antes de as recomendar para consumo ou para fins terapêuticos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-095",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e sustentabilidade",
+      "question": "Por que razão o conhecimento geológico é importante para a gestão do risco de catástrofes naturais, como sismos ou erupções vulcânicas?",
+      "answer": "Porque permite identificar as zonas de maior perigo e definir medidas de prevenção e de ordenamento do território mais adequadas",
+      "explanation": "Este conhecimento contribui para reduzir os danos materiais e humanos causados por estes fenómenos geológicos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "cn7-096",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e sustentabilidade",
+      "question": "De que forma o conhecimento geológico contribui para a exploração sustentável dos recursos naturais?",
+      "answer": "Permite localizar e explorar recursos, como água subterrânea, minerais ou rochas, de forma planeada, reduzindo o desperdício e o impacto ambiental",
+      "explanation": "Sem este conhecimento, a exploração de recursos poderia ser feita de forma descontrolada, com maiores prejuízos ambientais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-097",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e sustentabilidade",
+      "question": "Indica uma razão pela qual é importante estudar Geologia para garantir a sustentabilidade da vida na Terra.",
+      "answer": "Por exemplo, para prevenir riscos geológicos, gerir recursos naturais de forma responsável ou compreender melhor as transformações do planeta",
+      "explanation": "O conhecimento geológico ajuda a sociedade a tomar decisões mais informadas sobre como interagir com o planeta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-098",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e ordenamento do território",
+      "question": "Por que é importante ter em conta o conhecimento geológico ao planear a construção de novas habitações ou infraestruturas?",
+      "answer": "Porque ajuda a evitar a construção em zonas de maior risco geológico, como áreas sísmicas ou instáveis, protegendo pessoas e bens",
+      "explanation": "Um planeamento que ignore estes riscos pode expor as populações a perigos evitáveis, como desmoronamentos ou danos causados por sismos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "cn7-099",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e sociedade",
+      "question": "Indica uma área da sociedade, além da construção, em que os conhecimentos geológicos são úteis.",
+      "answer": "Por exemplo, a agricultura, através do estudo da qualidade do solo, a exploração de água subterrânea ou o turismo geológico",
+      "explanation": "Estes exemplos mostram como a Geologia está presente em várias atividades do quotidiano, para além da exploração de recursos minerais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "cn7-100",
+      "domain": "Ciência geológica e sustentabilidade da vida na Terra",
+      "topic": "Geologia e sustentabilidade",
+      "question": "O que significa dizer que muitos recursos geológicos, como minerais e rochas, são recursos não renováveis?",
+      "answer": "Significa que se formam ao longo de milhões de anos, pelo que a sua utilização pelo ser humano é muito mais rápida do que a sua reposição pela natureza",
+      "explanation": "Por esta razão, é importante usar estes recursos de forma consciente e procurar alternativas mais sustentáveis sempre que possível.",
+      "difficulty": "medio"
+    }
+  ]
+}

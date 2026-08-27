@@ -1,0 +1,994 @@
+{
+  "cards": [
+    {
+      "id": "mat7-001",
+      "domain": "Números",
+      "topic": "Números inteiros",
+      "question": "O que representa o conjunto ℤ?",
+      "answer": "O conjunto dos números inteiros relativos",
+      "explanation": "Inclui os números naturais, os seus simétricos (negativos) e o zero: ..., -3, -2, -1, 0, 1, 2, 3, ...",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-002",
+      "domain": "Números",
+      "topic": "Simétrico de um número",
+      "question": "Qual é o simétrico de -8?",
+      "answer": "8",
+      "explanation": "O simétrico de um número inteiro é o número que dista a mesma distância de zero, mas do lado oposto da reta numérica.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-003",
+      "domain": "Números",
+      "topic": "Valor absoluto",
+      "question": "Qual é o valor absoluto de -12?",
+      "answer": "12",
+      "explanation": "O valor absoluto (ou módulo) representa a distância à origem na reta numérica e é sempre um número não negativo: |-12| = 12.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-004",
+      "domain": "Números",
+      "topic": "Comparação de inteiros",
+      "question": "Qual é maior: -7 ou -3?",
+      "answer": "-3",
+      "explanation": "Entre dois números negativos, é maior aquele que tem menor valor absoluto, pois está mais próximo de zero na reta numérica.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-005",
+      "domain": "Números",
+      "topic": "Reta numérica",
+      "question": "Como se ordenam, do menor para o maior, os números -5, 2, -1 e 0?",
+      "answer": "-5, -1, 0, 2",
+      "explanation": "Na reta numérica, os números crescem da esquerda para a direita; os negativos são sempre menores do que o zero e do que os positivos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-006",
+      "domain": "Números",
+      "topic": "Números inteiros no quotidiano",
+      "question": "Um mergulhador está a 15 metros abaixo do nível do mar. Que número inteiro representa essa posição?",
+      "answer": "-15",
+      "explanation": "Por convenção, as posições acima do nível do mar são representadas por números positivos e as posições abaixo por números negativos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-007",
+      "domain": "Números",
+      "topic": "Adição de números inteiros",
+      "question": "Quanto é (-6) + (-4)?",
+      "answer": "-10",
+      "explanation": "Ao somar dois números negativos, soma-se os valores absolutos e mantém-se o sinal negativo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-008",
+      "domain": "Números",
+      "topic": "Adição de números inteiros",
+      "question": "Quanto é (+9) + (-15)?",
+      "answer": "-6",
+      "explanation": "Somam-se números de sinais diferentes subtraindo os valores absolutos (15-9=6) e atribuindo o sinal do número com maior valor absoluto, neste caso o negativo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-009",
+      "domain": "Números",
+      "topic": "Subtração de números inteiros",
+      "question": "Quanto é (-7) - (-10)?",
+      "answer": "3",
+      "explanation": "Subtrair um número inteiro é o mesmo que somar o seu simétrico: (-7) - (-10) = (-7) + 10 = 3.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-010",
+      "domain": "Números",
+      "topic": "Propriedades da subtração",
+      "question": "A subtração de números inteiros é comutativa? Justifica com um exemplo.",
+      "answer": "Não",
+      "explanation": "Por exemplo, 5 - 3 = 2, mas 3 - 5 = -2; trocar a ordem dos termos altera o resultado, por isso a subtração não é comutativa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-011",
+      "domain": "Números",
+      "topic": "Propriedades da adição",
+      "question": "A adição de números inteiros é associativa?",
+      "answer": "Sim",
+      "explanation": "Isso significa que, numa soma de três ou mais parcelas, se pode agrupar os termos de formas diferentes sem alterar o resultado: (a+b)+c = a+(b+c).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-012",
+      "domain": "Números",
+      "topic": "Expressões numéricas",
+      "question": "Qual é o resultado de 5 - (3 - 8)?",
+      "answer": "10",
+      "explanation": "Resolve-se primeiro o parêntese: 3-8=-5; depois 5-(-5)=5+5=10.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-013",
+      "domain": "Números",
+      "topic": "Expressões numéricas",
+      "question": "Qual é o resultado de (-4 + 9) - (-2 - 5)?",
+      "answer": "12",
+      "explanation": "Calculam-se os parênteses separadamente: (-4+9)=5 e (-2-5)=-7; depois 5-(-7)=5+7=12.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-014",
+      "domain": "Números",
+      "topic": "Expressões numéricas",
+      "question": "Qual é o resultado de -3 - 4 + (-6) - (-9)?",
+      "answer": "-4",
+      "explanation": "Eliminam-se os parênteses respeitando as regras de sinais: -3-4-6+9 = -13+9 = -4.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-015",
+      "domain": "Números",
+      "topic": "Números racionais",
+      "question": "O que representa o conjunto ℚ?",
+      "answer": "O conjunto dos números racionais",
+      "explanation": "É formado por todos os números que podem ser escritos como fração a/b, com a e b inteiros e b diferente de zero, incluindo os inteiros, as frações e as dízimas finitas ou periódicas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-016",
+      "domain": "Números",
+      "topic": "Números racionais negativos",
+      "question": "Como se representa a fração negativa correspondente a três quartos abaixo de zero?",
+      "answer": "-3/4",
+      "explanation": "O sinal negativo aplica-se ao valor da fração, indicando que está à esquerda do zero na reta numérica.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-017",
+      "domain": "Números",
+      "topic": "Comparação de racionais",
+      "question": "Qual é maior: -1/2 ou -3/4?",
+      "answer": "-1/2",
+      "explanation": "Reduzindo ao mesmo denominador, -1/2 = -2/4; como -2/4 > -3/4 (está mais perto de zero), -1/2 é o maior.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-018",
+      "domain": "Números",
+      "topic": "Ordenação de racionais",
+      "question": "Ordena, do menor para o maior: -0,5; 1/4; -1 e 0,75",
+      "answer": "-1; -0,5; 1/4; 0,75",
+      "explanation": "Convertendo tudo para decimais (1/4=0,25) e comparando na reta numérica: -1 < -0,5 < 0,25 < 0,75.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-019",
+      "domain": "Números",
+      "topic": "Reta numérica racional",
+      "question": "Que número racional está exatamente a meio caminho entre -1 e 0 na reta numérica?",
+      "answer": "-0,5",
+      "explanation": "O ponto médio entre dois números calcula-se pela média: (-1+0)/2 = -0,5.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-020",
+      "domain": "Números",
+      "topic": "Adição de racionais",
+      "question": "Quanto é -1/3 + 1/6?",
+      "answer": "-1/6",
+      "explanation": "Reduzindo ao mesmo denominador: -2/6 + 1/6 = -1/6.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-021",
+      "domain": "Números",
+      "topic": "Subtração de racionais",
+      "question": "Quanto é 0,8 - 1,5?",
+      "answer": "-0,7",
+      "explanation": "Como 1,5 é maior do que 0,8, o resultado é negativo: subtrai-se 0,8 a 1,5 e atribui-se o sinal negativo, obtendo -0,7.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-022",
+      "domain": "Números",
+      "topic": "Adição de racionais",
+      "question": "Quanto é -2,4 + (-1,6)?",
+      "answer": "-4",
+      "explanation": "Somam-se os valores absolutos (2,4+1,6=4) e mantém-se o sinal negativo comum a ambas as parcelas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-023",
+      "domain": "Números",
+      "topic": "Expressões com racionais",
+      "question": "Qual é o resultado de 1/2 - (-1/4) + (-1)?",
+      "answer": "-1/4",
+      "explanation": "1/2 + 1/4 - 1 = 2/4 + 1/4 - 4/4 = -1/4.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-024",
+      "domain": "Números",
+      "topic": "Cálculo mental com racionais",
+      "question": "Calcula mentalmente: 0,25 + 0,75 - 2",
+      "answer": "-1",
+      "explanation": "0,25+0,75=1, e 1-2=-1; agrupar primeiro os termos que dão um número redondo facilita o cálculo mental.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-025",
+      "domain": "Números",
+      "topic": "Cálculo mental com racionais",
+      "question": "Calcula mentalmente: -10 + 2,5 + 2,5",
+      "answer": "-5",
+      "explanation": "Juntando primeiro 2,5+2,5=5, fica -10+5=-5; agrupar parcelas que somam um valor simples torna o cálculo mais rápido.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-026",
+      "domain": "Números",
+      "topic": "Percentagens",
+      "question": "Quanto é 40% de 250?",
+      "answer": "100",
+      "explanation": "Calcula-se 40/100 × 250 = 0,4 × 250 = 100.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-027",
+      "domain": "Números",
+      "topic": "Percentagens",
+      "question": "Um artigo custava 80 € e agora custa 60 €. Qual foi a percentagem de desconto?",
+      "answer": "25%",
+      "explanation": "O desconto foi de 20 €; calculando 20/80 × 100 = 25%, verifica-se que o preço baixou um quarto do valor inicial.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-028",
+      "domain": "Números",
+      "topic": "Percentagens",
+      "question": "15% de um número é 30. Qual é esse número?",
+      "answer": "200",
+      "explanation": "Se 15% corresponde a 30, então o todo é 30 ÷ 0,15 = 200; pode confirmar-se: 15% de 200 é 30.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-029",
+      "domain": "Números",
+      "topic": "Notação científica",
+      "question": "Como se escreve 3 400 000 em notação científica?",
+      "answer": "3,4 × 10^6",
+      "explanation": "Na notação científica, o número é escrito como um valor entre 1 e 10 multiplicado por uma potência de base 10; a vírgula desloca-se 6 casas para a esquerda.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-030",
+      "domain": "Números",
+      "topic": "Notação científica",
+      "question": "Qual dos números é maior: 5 × 10^3 ou 2 × 10^4?",
+      "answer": "2 × 10^4",
+      "explanation": "2×10^4 = 20 000 e 5×10^3 = 5 000; quando as bases são iguais, compara-se primeiro o expoente e só depois o coeficiente.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-031",
+      "domain": "Álgebra",
+      "topic": "Sequências numéricas",
+      "question": "Numa sequência em que cada termo se obtém somando 4 ao anterior, sendo o primeiro termo 3, qual é o termo seguinte a 15?",
+      "answer": "19",
+      "explanation": "A sequência é 3, 7, 11, 15, 19, ...; cada termo aumenta sempre 4 unidades em relação ao anterior.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-032",
+      "domain": "Álgebra",
+      "topic": "Lei de formação",
+      "question": "Numa sequência, o termo de ordem n é dado por 2n + 1. Qual é o termo de ordem 10?",
+      "answer": "21",
+      "explanation": "Substitui-se n por 10 na expressão: 2×10+1 = 21.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-033",
+      "domain": "Álgebra",
+      "topic": "Lei de formação",
+      "question": "Uma sequência tem os termos 2, 5, 8, 11, ... Qual é a expressão que dá o termo de ordem n?",
+      "answer": "3n - 1",
+      "explanation": "A diferença entre termos consecutivos é sempre 3, por isso o coeficiente de n é 3; testando n=1: 3×1-1=2, que corresponde ao primeiro termo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-034",
+      "domain": "Álgebra",
+      "topic": "Termos de ordens variadas",
+      "question": "Numa sequência de termo geral 5n - 2, qual é a ordem do termo que tem valor 43?",
+      "answer": "9",
+      "explanation": "Resolve-se a equação 5n-2=43, ou seja, 5n=45, logo n=9.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-035",
+      "domain": "Álgebra",
+      "topic": "Representações múltiplas",
+      "question": "Uma sequência de figuras é formada por palitos: a figura 1 tem 4 palitos, a figura 2 tem 7 palitos, e cada figura seguinte tem mais 3 palitos do que a anterior. Quantos palitos tem a figura 6?",
+      "answer": "19",
+      "explanation": "O termo geral é 3n+1; substituindo n por 6: 3×6+1=19.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-036",
+      "domain": "Álgebra",
+      "topic": "Regularidades",
+      "question": "Numa sequência, os termos são todos os números pares consecutivos a começar em 2. Qual é o termo de ordem n?",
+      "answer": "2n",
+      "explanation": "Os termos são 2, 4, 6, 8, ...; cada termo é o dobro da sua ordem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-037",
+      "domain": "Álgebra",
+      "topic": "Sucessões",
+      "question": "Numa sucessão em que un = 10 - 2n, qual é o valor do 1º termo, u1?",
+      "answer": "8",
+      "explanation": "Substitui-se n por 1: 10-2×1=8; a notação un designa o termo geral de ordem n de uma sucessão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-038",
+      "domain": "Álgebra",
+      "topic": "Regularidades em tabelas",
+      "question": "Numa tabela, quando x=1, y=5; quando x=2, y=8; quando x=3, y=11. Qual é a lei de formação que relaciona x e y?",
+      "answer": "y = 3x + 2",
+      "explanation": "O valor de y aumenta sempre 3 unidades quando x aumenta 1 unidade, e testando x=1: 3×1+2=5, confirma-se a expressão.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-039",
+      "domain": "Álgebra",
+      "topic": "Expressões algébricas",
+      "question": "Qual é o termo independente na expressão 3x + 7?",
+      "answer": "7",
+      "explanation": "O termo independente é a parte da expressão que não tem incógnita associada, ao contrário de 3x, que é o termo com incógnita.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-040",
+      "domain": "Álgebra",
+      "topic": "Tradução de situações",
+      "question": "Como se traduz em linguagem algébrica 'o triplo de um número, adicionado de 5'?",
+      "answer": "3x + 5",
+      "explanation": "Representando o número desconhecido por x, o triplo é 3x, e junta-se 5 à expressão.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-041",
+      "domain": "Álgebra",
+      "topic": "Equações do 1º grau",
+      "question": "O que é uma equação?",
+      "answer": "Uma igualdade entre duas expressões que contém pelo menos uma incógnita",
+      "explanation": "Por exemplo, 2x+1=7 é uma equação porque tem um sinal de igual e uma letra (incógnita) cujo valor se pretende descobrir.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-042",
+      "domain": "Álgebra",
+      "topic": "Resolução de equações",
+      "question": "Qual é a solução da equação x + 5 = 12?",
+      "answer": "x = 7",
+      "explanation": "Usa-se a operação inversa da adição: subtrai-se 5 a ambos os membros, obtendo x=12-5=7.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-043",
+      "domain": "Álgebra",
+      "topic": "Problemas com equações",
+      "question": "A Ana tem o dobro da idade do irmão. Juntas, as duas idades somam 27 anos. Qual é a idade do irmão?",
+      "answer": "9 anos",
+      "explanation": "Representando a idade do irmão por x, a equação é x+2x=27, ou seja, 3x=27, logo x=9; a Ana tem então 18 anos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-044",
+      "domain": "Álgebra",
+      "topic": "Resolução de equações",
+      "question": "Qual é a solução da equação 2x - 3 = 9?",
+      "answer": "x = 6",
+      "explanation": "Primeiro soma-se 3 a ambos os membros (2x=12), depois divide-se por 2, obtendo x=6.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-045",
+      "domain": "Álgebra",
+      "topic": "Resolução de equações",
+      "question": "Qual é a solução da equação 4x + 1 = 2x + 9?",
+      "answer": "x = 4",
+      "explanation": "Agrupam-se os termos com x num membro e os termos independentes no outro: 4x-2x=9-1, logo 2x=8 e x=4.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-046",
+      "domain": "Álgebra",
+      "topic": "Princípios de equivalência",
+      "question": "Qual é o princípio de equivalência usado ao passar de x + 4 = 10 para x = 10 - 4?",
+      "answer": "Princípio de adição (ou subtração)",
+      "explanation": "Este princípio garante que se pode adicionar ou subtrair o mesmo valor a ambos os membros de uma equação sem alterar a sua solução.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-047",
+      "domain": "Álgebra",
+      "topic": "Princípios de equivalência",
+      "question": "Qual é o princípio de equivalência usado ao passar de 5x = 20 para x = 4?",
+      "answer": "Princípio de multiplicação (ou divisão)",
+      "explanation": "Este princípio garante que se pode multiplicar ou dividir ambos os membros de uma equação pelo mesmo número, diferente de zero, sem alterar a sua solução.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-048",
+      "domain": "Álgebra",
+      "topic": "Classificação de equações",
+      "question": "Como se classifica uma equação que não tem nenhuma solução, como x = x + 1?",
+      "answer": "Equação impossível",
+      "explanation": "Não existe nenhum valor de x que torne a igualdade verdadeira, pois x nunca pode ser igual a x+1.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-049",
+      "domain": "Álgebra",
+      "topic": "Classificação de equações",
+      "question": "Como se classifica uma equação que é verdadeira para qualquer valor da incógnita, como 2x + 4 = 2(x + 2)?",
+      "answer": "Equação possível e indeterminada",
+      "explanation": "Desenvolvendo o segundo membro obtém-se 2x+4=2x+4, uma igualdade sempre verdadeira, seja qual for o valor de x.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-050",
+      "domain": "Álgebra",
+      "topic": "Classificação de equações",
+      "question": "Como se classifica uma equação que tem exatamente uma solução?",
+      "answer": "Equação possível e determinada",
+      "explanation": "É o caso mais comum, como x+3=8, que só é verdadeira para x=5.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-051",
+      "domain": "Álgebra",
+      "topic": "Conceito de função",
+      "question": "O que é uma função?",
+      "answer": "Uma correspondência entre dois conjuntos em que a cada objeto corresponde uma e uma só imagem",
+      "explanation": "Por exemplo, a cada aluno de uma turma corresponde um único número de estudante, o que caracteriza uma função.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-052",
+      "domain": "Álgebra",
+      "topic": "Domínio e contradomínio",
+      "question": "Numa função definida pela tabela x: 1, 2, 3 e y: 4, 6, 8, qual é o domínio da função?",
+      "answer": "{1, 2, 3}",
+      "explanation": "O domínio é o conjunto de todos os objetos (valores de entrada), enquanto o contradomínio, {4,6,8}, é o conjunto das imagens correspondentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-053",
+      "domain": "Álgebra",
+      "topic": "Objeto e imagem",
+      "question": "Numa função f, sabe-se que f(3) = 11. Qual é o objeto e qual é a imagem?",
+      "answer": "3 é o objeto e 11 é a imagem",
+      "explanation": "Na notação f(objeto)=imagem, o valor entre parênteses é sempre o objeto de entrada e o resultado à direita é a imagem correspondente.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-054",
+      "domain": "Álgebra",
+      "topic": "Representação gráfica de funções",
+      "question": "Numa função representada num gráfico cartesiano, o que representam os pontos assinalados?",
+      "answer": "Pares ordenados (objeto, imagem) da função",
+      "explanation": "Cada ponto do gráfico tem coordenadas (x,y), em que x é um objeto e y a sua imagem correspondente através da função.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-055",
+      "domain": "Álgebra",
+      "topic": "Expressão algébrica de uma função",
+      "question": "Uma função é definida por f(x) = 2x - 1. Qual é a imagem de x = 5?",
+      "answer": "9",
+      "explanation": "Substitui-se x por 5 na expressão: f(5)=2×5-1=9.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-056",
+      "domain": "Álgebra",
+      "topic": "Correspondência unívoca",
+      "question": "A correspondência que associa a cada pessoa a sua altura é uma função. Porquê?",
+      "answer": "Porque cada pessoa tem exatamente uma altura",
+      "explanation": "Numa função, cada objeto do domínio tem de ter uma única imagem associada; se uma pessoa pudesse ter duas alturas diferentes ao mesmo tempo, não seria uma função.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-057",
+      "domain": "Álgebra",
+      "topic": "Função de proporcionalidade direta",
+      "question": "Como se reconhece que uma função é de proporcionalidade direta a partir da sua expressão algébrica?",
+      "answer": "Tem a forma y = kx, com k diferente de zero",
+      "explanation": "A constante k chama-se constante de proporcionalidade e representa o valor pelo qual se multiplica x para obter y.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-058",
+      "domain": "Álgebra",
+      "topic": "Constante de proporcionalidade",
+      "question": "Numa função de proporcionalidade direta, quando x=4, y=10. Qual é a constante de proporcionalidade?",
+      "answer": "2,5",
+      "explanation": "A constante calcula-se por k=y/x, ou seja, k=10/4=2,5; assim, a expressão da função é y=2,5x.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-059",
+      "domain": "Álgebra",
+      "topic": "Proporcionalidade direta - problemas",
+      "question": "Sabendo que 5 litros de gasolina custam 8,50 €, quanto custam 12 litros, admitindo proporcionalidade direta?",
+      "answer": "20,40 €",
+      "explanation": "A constante de proporcionalidade é 8,50÷5=1,70 €/litro; multiplicando por 12 obtém-se 12×1,70=20,40 €.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-060",
+      "domain": "Álgebra",
+      "topic": "Proporcionalidade direta - gráfico",
+      "question": "Que caraterística tem sempre o gráfico de uma função de proporcionalidade direta?",
+      "answer": "É uma reta que passa na origem do referencial",
+      "explanation": "Isto acontece porque, quando x=0, também y=k×0=0, logo o par (0,0) pertence sempre ao gráfico.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-061",
+      "domain": "Dados e Probabilidades",
+      "topic": "Questões estatísticas",
+      "question": "Qual das seguintes é uma questão estatística: 'Qual é a minha altura?' ou 'Qual é a altura dos alunos da turma?'",
+      "answer": "Qual é a altura dos alunos da turma?",
+      "explanation": "Espera-se que uma questão estatística gere respostas variadas numa população ou amostra; perguntar apenas pela altura de uma pessoa não gera variabilidade de respostas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-062",
+      "domain": "Dados e Probabilidades",
+      "topic": "Variáveis qualitativas e quantitativas",
+      "question": "A cor dos olhos dos alunos de uma turma é uma variável qualitativa ou quantitativa?",
+      "answer": "Qualitativa",
+      "explanation": "As variáveis qualitativas descrevem uma caraterística não numérica, como a cor, enquanto as quantitativas assumem valores numéricos, como a altura ou o número de irmãos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-063",
+      "domain": "Dados e Probabilidades",
+      "topic": "Classificação de variáveis",
+      "question": "O número de irmãos de cada aluno é uma variável quantitativa discreta ou contínua?",
+      "answer": "Discreta",
+      "explanation": "É discreta porque só pode tomar valores inteiros e contáveis (0, 1, 2, 3...); uma variável contínua, como a altura, pode tomar qualquer valor num intervalo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-064",
+      "domain": "Dados e Probabilidades",
+      "topic": "Classificação de variáveis",
+      "question": "O nível de escolaridade (básico, secundário, superior) é uma variável qualitativa nominal ou ordinal?",
+      "answer": "Ordinal",
+      "explanation": "É ordinal porque as categorias têm uma ordem natural entre si (básico < secundário < superior), ao contrário de uma variável nominal, como a nacionalidade, cujas categorias não têm ordem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-065",
+      "domain": "Dados e Probabilidades",
+      "topic": "Classificação de variáveis",
+      "question": "A marca de telemóvel preferida pelos alunos é uma variável nominal ou ordinal?",
+      "answer": "Nominal",
+      "explanation": "As categorias (marcas) não têm nenhuma ordem lógica entre si, ao contrário de uma variável ordinal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-066",
+      "domain": "Dados e Probabilidades",
+      "topic": "População e amostra",
+      "question": "Qual é a diferença entre população e amostra num estudo estatístico?",
+      "answer": "A população é o conjunto de todos os elementos em estudo; a amostra é uma parte da população",
+      "explanation": "Por exemplo, se se quer estudar os hábitos de leitura dos alunos de Portugal, a população são todos esses alunos, e a amostra pode ser os alunos de algumas escolas selecionadas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-067",
+      "domain": "Dados e Probabilidades",
+      "topic": "Amostra representativa",
+      "question": "O que é uma amostra representativa?",
+      "answer": "Uma amostra que reflete as caraterísticas da população de onde foi retirada",
+      "explanation": "Se a amostra não refletir bem a população, diz-se enviesada, o que pode levar a conclusões erradas sobre toda a população.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-068",
+      "domain": "Dados e Probabilidades",
+      "topic": "Amostra enviesada",
+      "question": "Para saber a opinião de todos os alunos de uma escola sobre o horário de almoço, inquirir apenas os alunos do 9º ano é uma amostra representativa ou enviesada?",
+      "answer": "Enviesada",
+      "explanation": "Esta amostra não representa bem os alunos de outros anos, cujas opiniões podem ser diferentes; para ser representativa, deveria incluir alunos de todos os anos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-069",
+      "domain": "Dados e Probabilidades",
+      "topic": "Recolha de dados",
+      "question": "Indica dois métodos comuns de recolha de dados num estudo estatístico.",
+      "answer": "Inquérito (questionário) e observação direta",
+      "explanation": "Outros métodos incluem entrevistas e a consulta de registos já existentes; a escolha depende do tipo de dados que se pretende obter.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-070",
+      "domain": "Dados e Probabilidades",
+      "topic": "Deteção de erros nos dados",
+      "question": "Numa lista de alturas de alunos do 7º ano em cm (145, 150, 152, 1480, 155), qual valor é provavelmente uma gralha?",
+      "answer": "1480",
+      "explanation": "1480 cm equivaleria a quase 15 metros, um valor impossível para a altura de uma pessoa; é provavelmente um erro de escrita, faltando uma vírgula (148,0).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-071",
+      "domain": "Dados e Probabilidades",
+      "topic": "Tabelas de frequência",
+      "question": "Numa tabela de frequências absolutas, o que representa a frequência absoluta de um valor?",
+      "answer": "O número de vezes que esse valor ocorre nos dados",
+      "explanation": "Por exemplo, se numa turma 6 alunos tiverem nota 4, a frequência absoluta do valor 4 é 6.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-072",
+      "domain": "Dados e Probabilidades",
+      "topic": "Agrupamento em classes",
+      "question": "Ao agrupar dados numéricos em classes, como [0, 10[ e [10, 20[, o que significa o facto de o limite superior estar representado com parêntese reto invertido?",
+      "answer": "Esse limite não pertence à classe (é excluído)",
+      "explanation": "Na classe [10, 20[, o valor 10 pertence à classe, mas o valor 20 já pertence à classe seguinte; isto evita que um dado pertença a duas classes ao mesmo tempo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-073",
+      "domain": "Dados e Probabilidades",
+      "topic": "Frequência relativa",
+      "question": "Numa turma de 20 alunos, 5 preferem Matemática. Qual é a frequência relativa, em percentagem, dessa preferência?",
+      "answer": "25%",
+      "explanation": "A frequência relativa calcula-se dividindo a frequência absoluta pelo total: 5÷20=0,25, ou seja, 25%.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-074",
+      "domain": "Dados e Probabilidades",
+      "topic": "Gráficos de linhas",
+      "question": "Que tipo de gráfico é mais adequado para representar a evolução da temperatura ao longo de um dia?",
+      "answer": "Gráfico de linhas",
+      "explanation": "O gráfico de linhas é ideal para mostrar a evolução de uma grandeza ao longo do tempo, ligando os pontos consecutivos por segmentos de reta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-075",
+      "domain": "Dados e Probabilidades",
+      "topic": "Gráficos de barras sobrepostas",
+      "question": "Para comparar, no mesmo gráfico, o número de rapazes e raparigas em cada ano de escolaridade de uma escola, que tipo de gráfico é útil?",
+      "answer": "Gráfico de barras sobrepostas (ou empilhadas)",
+      "explanation": "Este tipo de gráfico permite ver, em cada categoria (ano de escolaridade), a contribuição de cada subgrupo (rapazes e raparigas) e o total combinado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-076",
+      "domain": "Dados e Probabilidades",
+      "topic": "Leitura de gráficos",
+      "question": "Num gráfico de barras sobrepostas com dados de género por ano de escolaridade, como se calcula o total de alunos de um determinado ano?",
+      "answer": "Somando as duas partes da barra correspondente a esse ano",
+      "explanation": "Cada barra está dividida em duas secções empilhadas; o comprimento total da barra corresponde à soma dos valores das duas categorias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-077",
+      "domain": "Dados e Probabilidades",
+      "topic": "Análise crítica de gráficos",
+      "question": "Um gráfico de barras não começa o eixo vertical em zero, mas sim em 50. Que efeito visual isso pode causar?",
+      "answer": "Exagera as diferenças entre as barras",
+      "explanation": "Ao cortar a base do eixo, pequenas diferenças reais parecem muito maiores visualmente, podendo induzir o leitor em erro; é uma forma de manipulação gráfica comum.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-078",
+      "domain": "Dados e Probabilidades",
+      "topic": "Análise crítica de gráficos",
+      "question": "Que cuidado se deve ter ao comparar dois gráficos de barras feitos com escalas diferentes no eixo vertical?",
+      "answer": "Verificar sempre a escala antes de comparar as alturas das barras",
+      "explanation": "Duas barras com a mesma altura em gráficos com escalas diferentes podem representar valores muito diferentes; ignorar a escala pode levar a conclusões erradas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-079",
+      "domain": "Dados e Probabilidades",
+      "topic": "Mediana",
+      "question": "Qual é a mediana do conjunto de dados 3, 7, 9, 12, 15?",
+      "answer": "9",
+      "explanation": "Com os dados já ordenados e em número ímpar (5 valores), a mediana é o valor central, que ocupa a 3ª posição.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-080",
+      "domain": "Dados e Probabilidades",
+      "topic": "Mediana",
+      "question": "Qual é a mediana do conjunto de dados 2, 4, 6, 8?",
+      "answer": "5",
+      "explanation": "Com um número par de dados, a mediana é a média dos dois valores centrais: (4+6)÷2=5.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-081",
+      "domain": "Dados e Probabilidades",
+      "topic": "Amplitude",
+      "question": "Qual é a amplitude do conjunto de dados 12, 5, 18, 9, 21?",
+      "answer": "16",
+      "explanation": "A amplitude calcula-se pela diferença entre o valor máximo e o valor mínimo: 21-5=16; é uma medida simples de dispersão dos dados.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-082",
+      "domain": "Dados e Probabilidades",
+      "topic": "Mediana e amplitude",
+      "question": "As notas de um teste foram 8, 10, 12, 14, 14, 16, 18. Qual é a mediana e qual é a amplitude?",
+      "answer": "Mediana = 14; amplitude = 10",
+      "explanation": "Com 7 valores ordenados, a mediana é o 4º valor (14); a amplitude é 18-8=10.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-083",
+      "domain": "Dados e Probabilidades",
+      "topic": "Interpretação de estudos estatísticos",
+      "question": "Ao comunicar as conclusões de um estudo estatístico, porque é importante indicar o tamanho da amostra usada?",
+      "answer": "Porque uma amostra maior torna as conclusões mais fiáveis",
+      "explanation": "Um estudo baseado em poucos dados pode não refletir bem a realidade da população, por isso é importante o leitor saber quantos elementos foram estudados antes de confiar nas conclusões.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-084",
+      "domain": "Dados e Probabilidades",
+      "topic": "Probabilidade de acontecimentos compostos",
+      "question": "Ao lançar um dado equilibrado de 6 faces, qual é a probabilidade de sair um número par?",
+      "answer": "1/2",
+      "explanation": "Os resultados pares são {2,4,6}, cada um com probabilidade 1/6; somando as probabilidades dos resultados favoráveis: 1/6+1/6+1/6=3/6=1/2.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-085",
+      "domain": "Dados e Probabilidades",
+      "topic": "Probabilidade de acontecimentos compostos",
+      "question": "Ao lançar um dado equilibrado, qual é a probabilidade de sair um número menor do que 3 ou o número 6?",
+      "answer": "1/2",
+      "explanation": "Os resultados favoráveis são {1,2,6}; somando as respetivas probabilidades: 1/6+1/6+1/6=3/6=1/2.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-086",
+      "domain": "Geometria",
+      "topic": "Ângulos internos de um polígono",
+      "question": "Qual é a soma das amplitudes dos ângulos internos de um triângulo?",
+      "answer": "180°",
+      "explanation": "Esta é uma propriedade fundamental de qualquer triângulo, seja ele equilátero, isósceles ou escaleno.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-087",
+      "domain": "Geometria",
+      "topic": "Ângulos internos de um polígono",
+      "question": "Qual é a soma das amplitudes dos ângulos internos de um pentágono convexo?",
+      "answer": "540°",
+      "explanation": "Usa-se a fórmula (n-2)×180°, em que n é o número de lados; para o pentágono, n=5, logo (5-2)×180°=540°.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-088",
+      "domain": "Geometria",
+      "topic": "Ângulos internos de um polígono",
+      "question": "Um hexágono regular tem todos os ângulos internos iguais. Qual é a amplitude de cada um?",
+      "answer": "120°",
+      "explanation": "A soma dos ângulos internos de um hexágono é (6-2)×180°=720°; como é regular, cada ângulo mede 720°÷6=120°.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-089",
+      "domain": "Geometria",
+      "topic": "Ângulos externos de um polígono",
+      "question": "Qual é a soma das amplitudes dos ângulos externos de qualquer polígono convexo?",
+      "answer": "360°",
+      "explanation": "Esta soma é sempre 360°, independentemente do número de lados do polígono, pois corresponde a uma volta completa ao percorrer o seu contorno.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-090",
+      "domain": "Geometria",
+      "topic": "Ângulos verticalmente opostos",
+      "question": "Que relação existe entre dois ângulos verticalmente opostos?",
+      "answer": "São geometricamente iguais",
+      "explanation": "Formam-se quando duas retas se intersetam, e os ângulos opostos pelo vértice têm sempre a mesma amplitude.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-091",
+      "domain": "Geometria",
+      "topic": "Ângulos alternos internos",
+      "question": "Duas retas paralelas são cortadas por uma reta secante. Que relação existe entre os ângulos alternos internos formados?",
+      "answer": "São geometricamente iguais",
+      "explanation": "Os ângulos alternos internos situam-se em lados opostos da secante e entre as duas retas paralelas; a sua igualdade só se verifica quando as retas cortadas são paralelas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-092",
+      "domain": "Geometria",
+      "topic": "Ângulos entre retas paralelas",
+      "question": "Duas retas paralelas são cortadas por uma secante, formando um ângulo de 65° de um lado. Qual é a amplitude do ângulo alterno interno correspondente?",
+      "answer": "65°",
+      "explanation": "Como as retas são paralelas, os ângulos alternos internos são sempre iguais entre si.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-093",
+      "domain": "Geometria",
+      "topic": "Aplicação de ângulos entre retas",
+      "question": "Duas retas concorrentes formam um ângulo de 40°. Qual é a amplitude do ângulo verticalmente oposto a este?",
+      "answer": "40°",
+      "explanation": "Os ângulos verticalmente opostos são sempre iguais, por isso o ângulo oposto tem a mesma amplitude do ângulo dado.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-094",
+      "domain": "Geometria",
+      "topic": "Diagonais de quadriláteros",
+      "question": "Num losango, que relação existe entre as suas duas diagonais?",
+      "answer": "São perpendiculares e bissetam-se (cruzam-se a meio)",
+      "explanation": "Esta propriedade distingue o losango de outros quadriláteros, como o retângulo, cujas diagonais são iguais mas não perpendiculares em geral.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-095",
+      "domain": "Geometria",
+      "topic": "Diagonais de quadriláteros",
+      "question": "Num retângulo que não seja quadrado, as diagonais são perpendiculares?",
+      "answer": "Não",
+      "explanation": "No retângulo, as diagonais são iguais em comprimento e bissetam-se, mas só são perpendiculares no caso particular de o retângulo ser também um quadrado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-096",
+      "domain": "Geometria",
+      "topic": "Classificação de quadriláteros",
+      "question": "O que carateriza um papagaio (quadrilátero) quanto aos seus lados?",
+      "answer": "Tem dois pares de lados consecutivos geometricamente iguais",
+      "explanation": "Ao contrário do losango, em que todos os quatro lados são iguais, no papagaio apenas os lados adjacentes, dois a dois, têm o mesmo comprimento.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-097",
+      "domain": "Geometria",
+      "topic": "Classificação hierárquica de quadriláteros",
+      "question": "Um quadrado pode ser considerado, ao mesmo tempo, um losango e um retângulo?",
+      "answer": "Sim",
+      "explanation": "O quadrado tem os quatro lados iguais (propriedade do losango) e os quatro ângulos retos (propriedade do retângulo), por isso está incluído em ambas as classes na classificação hierárquica dos quadriláteros.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-098",
+      "domain": "Geometria",
+      "topic": "Área do trapézio",
+      "question": "Como se calcula a área de um trapézio com bases de 8 cm e 5 cm e altura de 4 cm?",
+      "answer": "26 cm²",
+      "explanation": "A área do trapézio é dada por (Base maior + Base menor) × altura ÷ 2 = (8+5)×4÷2 = 26 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-099",
+      "domain": "Geometria",
+      "topic": "Área do losango",
+      "question": "Como se calcula a área de um losango cujas diagonais medem 10 cm e 6 cm?",
+      "answer": "30 cm²",
+      "explanation": "A área do losango é dada por (Diagonal maior × Diagonal menor) ÷ 2 = (10×6)÷2 = 30 cm².",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-100",
+      "domain": "Geometria",
+      "topic": "Área do papagaio",
+      "question": "Um papagaio tem diagonais de 12 cm e 7 cm. Qual é a sua área?",
+      "answer": "42 cm²",
+      "explanation": "Tal como no losango, a área do papagaio calcula-se por (Diagonal maior × Diagonal menor) ÷ 2 = (12×7)÷2 = 42 cm², pois as suas diagonais também são perpendiculares.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-101",
+      "domain": "Geometria",
+      "topic": "Áreas de quadriláteros",
+      "question": "Um trapézio tem área 40 cm², altura 5 cm e base menor 4 cm. Qual é o comprimento da base maior?",
+      "answer": "12 cm",
+      "explanation": "Da fórmula da área, (B+4)×5÷2=40, obtém-se B+4=16, logo B=12 cm.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-102",
+      "domain": "Geometria",
+      "topic": "Polígonos semelhantes",
+      "question": "Que condições têm de se verificar para que dois polígonos sejam semelhantes?",
+      "answer": "Ângulos correspondentes iguais e lados correspondentes proporcionais",
+      "explanation": "A proporcionalidade dos lados é garantida por uma razão de semelhança constante entre todos os pares de lados correspondentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-103",
+      "domain": "Geometria",
+      "topic": "Razão de semelhança",
+      "question": "Dois triângulos são semelhantes e um lado de 4 cm no primeiro corresponde a um lado de 10 cm no segundo. Qual é a razão de semelhança do primeiro para o segundo?",
+      "answer": "2/5 (ou 0,4)",
+      "explanation": "A razão de semelhança calcula-se dividindo um comprimento do primeiro polígono pelo comprimento correspondente no segundo: 4÷10=0,4.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-104",
+      "domain": "Geometria",
+      "topic": "Homotetia",
+      "question": "O que é uma homotetia?",
+      "answer": "Uma transformação geométrica que amplia ou reduz uma figura a partir de um ponto fixo (centro), mantendo a sua forma",
+      "explanation": "A imagem obtida por homotetia é sempre semelhante à figura original; se a razão for maior do que 1, a figura é ampliada, e se estiver entre 0 e 1, é reduzida.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-105",
+      "domain": "Geometria",
+      "topic": "Critérios de semelhança de triângulos",
+      "question": "Indica um critério que permite garantir que dois triângulos são semelhantes.",
+      "answer": "Critério AA (dois ângulos correspondentes iguais)",
+      "explanation": "Se dois ângulos de um triângulo forem iguais aos de outro, o terceiro ângulo também é automaticamente igual, já que a soma dos ângulos internos é sempre 180°, o que garante a semelhança dos triângulos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-106",
+      "domain": "Geometria",
+      "topic": "Critérios de semelhança de triângulos",
+      "question": "No critério LLL de semelhança de triângulos, o que tem de se verificar?",
+      "answer": "Os três pares de lados correspondentes têm de ser proporcionais",
+      "explanation": "Se a razão entre os três pares de lados homólogos for a mesma, os triângulos são semelhantes, mesmo sem se conhecer os ângulos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-107",
+      "domain": "Geometria",
+      "topic": "Razão de semelhança e perímetros",
+      "question": "Dois polígonos semelhantes têm razão de semelhança 3. Se o perímetro do menor é 8 cm, qual é o perímetro do maior?",
+      "answer": "24 cm",
+      "explanation": "A razão entre os perímetros de figuras semelhantes é igual à razão de semelhança: 8×3=24 cm.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "mat7-108",
+      "domain": "Geometria",
+      "topic": "Razão de semelhança e áreas",
+      "question": "Dois polígonos semelhantes têm razão de semelhança 3. Se a área do menor é 5 cm², qual é a área do maior?",
+      "answer": "45 cm²",
+      "explanation": "A razão entre as áreas de figuras semelhantes é igual ao quadrado da razão de semelhança: 5×3²=5×9=45 cm².",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "mat7-109",
+      "domain": "Geometria",
+      "topic": "Poliedros regulares",
+      "question": "Quantos poliedros regulares (sólidos platónicos) existem?",
+      "answer": "5",
+      "explanation": "São eles o tetraedro, o cubo (hexaedro), o octaedro, o dodecaedro e o icosaedro; não existe nenhum outro poliedro regular além destes cinco.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "mat7-110",
+      "domain": "Geometria",
+      "topic": "Relação de Euler",
+      "question": "Um poliedro tem 6 faces e 8 vértices. Quantas arestas tem, de acordo com a relação de Euler?",
+      "answer": "12",
+      "explanation": "A relação de Euler estabelece que faces + vértices = arestas + 2; substituindo, 6+8=A+2, logo A=12.",
+      "difficulty": "medio"
+    }
+  ]
+}

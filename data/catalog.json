@@ -20,6 +20,12 @@
     { "year": "5", "subject": "portugues", "file": "data/5/portugues.json" },
     { "year": "5", "subject": "ciencias-naturais", "file": "data/5/ciencias-naturais.json" },
     { "year": "5", "subject": "hgp", "file": "data/5/hgp.json" },
-    { "year": "5", "subject": "ingles", "file": "data/5/ingles.json" }
+    { "year": "5", "subject": "ingles", "file": "data/5/ingles.json" },
+    { "year": "7", "subject": "matematica", "file": "data/7/matematica.json" },
+    { "year": "7", "subject": "portugues", "file": "data/7/portugues.json" },
+    { "year": "7", "subject": "ciencias-naturais", "file": "data/7/ciencias-naturais.json" },
+    { "year": "7", "subject": "historia", "file": "data/7/historia.json" },
+    { "year": "7", "subject": "geografia", "file": "data/7/geografia.json" },
+    { "year": "7", "subject": "ingles", "file": "data/7/ingles.json" }
   ]
 }

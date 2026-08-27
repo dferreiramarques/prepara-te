@@ -22,6 +22,22 @@ const DOMAIN_SLUGS = {
   "Vocabulário": "vocabulario",
   "Gramática Inglesa": "gramatica-en",
   "Cultura e Países Anglófonos": "cultura-en",
+  "Geometria": "geometria-7",
+  "Dados e Probabilidades": "dados-prob-7",
+  "Dinâmica externa da Terra": "dinamica-externa",
+  "Estrutura e dinâmica interna da Terra": "estrutura-interna",
+  "Consequências da dinâmica interna da Terra": "consequencias-dinamica-interna",
+  "A Terra conta a sua história": "terra-historia",
+  "Ciência geológica e sustentabilidade da vida na Terra": "geologia-sustentabilidade",
+  "Das sociedades recolectoras às primeiras civilizações": "hist-primeiras-civilizacoes",
+  "A herança do mediterrâneo antigo": "hist-mediterraneo",
+  "A formação da cristandade ocidental e a expansão islâmica": "hist-cristandade-islao",
+  "O contexto europeu dos séculos XII a XIV. O caso português": "hist-seculos-xii-xiv",
+  "Geografia e Paisagem": "geo-paisagem",
+  "Mapas e Representação da Terra": "geo-mapas",
+  "Localização e União Europeia": "geo-localizacao-ue",
+  "Clima e Formações Vegetais": "geo-clima",
+  "Relevo e Hidrografia": "geo-relevo",
 };
 const FALLBACK_SLUGS = Object.values(DOMAIN_SLUGS);
 

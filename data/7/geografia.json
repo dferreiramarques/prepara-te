@@ -1,0 +1,814 @@
+{
+  "cards": [
+    {
+      "id": "ge7-001",
+      "domain": "Geografia e Paisagem",
+      "topic": "Elementos da paisagem",
+      "question": "O que distingue os elementos naturais dos elementos humanos numa paisagem?",
+      "answer": "Os naturais existem independentemente da ação humana (relevo, vegetação, água); os humanos resultam da ação do ser humano (construções, estradas, campos cultivados)",
+      "explanation": "A maior parte das paisagens combina os dois tipos de elementos, sendo por isso chamadas paisagens mistas ou humanizadas.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-002",
+      "domain": "Geografia e Paisagem",
+      "topic": "Objeto de estudo da Geografia",
+      "question": "Qual é o objeto de estudo da Geografia?",
+      "answer": "O espaço geográfico e a forma como o ser humano se relaciona com ele",
+      "explanation": "A Geografia estuda a superfície terrestre e as suas paisagens, procurando compreender a interação entre a natureza e a sociedade.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-003",
+      "domain": "Geografia e Paisagem",
+      "topic": "Paisagem natural e paisagem humanizada",
+      "question": "O que é uma paisagem humanizada?",
+      "answer": "Uma paisagem que foi profundamente transformada pela ação humana",
+      "explanation": "Contrasta com a paisagem natural, onde a intervenção humana é praticamente inexistente ou muito reduzida.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-004",
+      "domain": "Geografia e Paisagem",
+      "topic": "Elementos naturais da paisagem",
+      "question": "Indica três exemplos de elementos naturais de uma paisagem",
+      "answer": "Relevo, vegetação e cursos de água (rios, lagos)",
+      "explanation": "O clima e o solo são também elementos naturais que influenciam o aspeto de uma paisagem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-005",
+      "domain": "Geografia e Paisagem",
+      "topic": "Elementos humanos da paisagem",
+      "question": "Indica três exemplos de elementos humanos de uma paisagem",
+      "answer": "Habitações, estradas e campos cultivados",
+      "explanation": "Estes elementos resultam da ocupação e transformação do território pelo ser humano ao longo do tempo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-006",
+      "domain": "Geografia e Paisagem",
+      "topic": "Unidade de paisagem",
+      "question": "O que é uma unidade de paisagem?",
+      "answer": "Uma área que apresenta características semelhantes que a distinguem das áreas vizinhas",
+      "explanation": "Por exemplo, um vale agrícola pode constituir uma unidade de paisagem diferente da serra que o rodeia.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-007",
+      "domain": "Geografia e Paisagem",
+      "topic": "Multifuncionalidade da paisagem",
+      "question": "O que significa dizer que uma paisagem é multifuncional?",
+      "answer": "Que desempenha várias funções em simultâneo, como habitação, produção agrícola, lazer ou conservação da natureza",
+      "explanation": "Uma mesma área pode, por exemplo, ser usada para agricultura e, ao mesmo tempo, para turismo de natureza.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-008",
+      "domain": "Geografia e Paisagem",
+      "topic": "Paisagem rural",
+      "question": "Que atividade económica predomina, geralmente, numa paisagem rural?",
+      "answer": "A agricultura (e outras atividades ligadas à exploração da terra, como a pecuária e a floresta)",
+      "explanation": "As paisagens rurais caracterizam-se por baixa densidade populacional e predomínio de espaços abertos e cultivados.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-009",
+      "domain": "Geografia e Paisagem",
+      "topic": "Paisagem urbana",
+      "question": "Que características distinguem, geralmente, uma paisagem urbana de uma paisagem rural?",
+      "answer": "Maior densidade de construções e de população, e predomínio de atividades de comércio, serviços e indústria",
+      "explanation": "As cidades são o exemplo mais comum de paisagem urbana.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-010",
+      "domain": "Geografia e Paisagem",
+      "topic": "Paisagem industrial",
+      "question": "Que elementos caracterizam, tipicamente, uma paisagem industrial?",
+      "answer": "Fábricas, armazéns, chaminés e vias de comunicação para transporte de mercadorias",
+      "explanation": "Este tipo de paisagem desenvolve-se frequentemente perto de portos, vias rápidas ou fontes de matérias-primas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-011",
+      "domain": "Geografia e Paisagem",
+      "topic": "Observação direta",
+      "question": "Em que consiste a observação direta de uma paisagem?",
+      "answer": "Em observar o local pessoalmente, no terreno",
+      "explanation": "Permite recolher informação sensorial (visual, sonora) que não se obtém através de imagens ou mapas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-012",
+      "domain": "Geografia e Paisagem",
+      "topic": "Observação indireta",
+      "question": "Dá um exemplo de um instrumento usado na observação indireta de uma paisagem",
+      "answer": "Uma fotografia aérea, uma imagem de satélite ou um vídeo, entre outros",
+      "explanation": "A observação indireta permite estudar paisagens sem estar fisicamente no local.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-013",
+      "domain": "Geografia e Paisagem",
+      "topic": "Trabalho de campo",
+      "question": "O que é o trabalho de campo em Geografia?",
+      "answer": "A recolha de informação diretamente no terreno, através da observação, medições, fotografias e entrevistas",
+      "explanation": "É uma das principais formas de os geógrafos estudarem e compreenderem uma paisagem.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-014",
+      "domain": "Geografia e Paisagem",
+      "topic": "Esboço de paisagem",
+      "question": "O que é um esboço de paisagem?",
+      "answer": "Um desenho simples e rápido que regista os principais elementos observados numa paisagem",
+      "explanation": "O esboço deve ter título, elementos identificados e, preferencialmente, orientação, funcionando como um registo de trabalho de campo.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-015",
+      "domain": "Geografia e Paisagem",
+      "topic": "Paisagem e tempo",
+      "question": "Por que razão se diz que as paisagens estão em constante mudança?",
+      "answer": "Porque tanto os fatores naturais (erosão, clima) como a ação humana (construção, desflorestação) as transformam ao longo do tempo",
+      "explanation": "Uma mesma paisagem pode ter aspetos muito diferentes se for observada em épocas distintas.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-016",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Equador",
+      "question": "O que é o Equador?",
+      "answer": "A linha imaginária que divide a Terra em hemisfério Norte e hemisfério Sul",
+      "explanation": "O Equador corresponde à latitude 0° e tem o maior perímetro de todos os paralelos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-017",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Paralelos",
+      "question": "O que são os paralelos?",
+      "answer": "Linhas imaginárias paralelas ao Equador, que permitem determinar a latitude de um lugar",
+      "explanation": "Diminuem de tamanho à medida que se aproximam dos polos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-018",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Meridianos",
+      "question": "O que são os meridianos?",
+      "answer": "Semicírculos imaginários que unem o polo Norte ao polo Sul, e que permitem determinar a longitude de um lugar",
+      "explanation": "Todos os meridianos têm o mesmo comprimento, ao contrário dos paralelos.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-019",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Meridiano de Greenwich",
+      "question": "O que é o meridiano de Greenwich?",
+      "answer": "O meridiano principal, correspondente à longitude 0°, que divide a Terra em hemisfério Ocidental e hemisfério Oriental",
+      "explanation": "Passa pelo Observatório Real de Greenwich, em Londres, e serve de referência para o cálculo dos fusos horários.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-020",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Hemisférios",
+      "question": "Quantos e quais são os hemisférios em que o Equador divide a Terra?",
+      "answer": "Dois: o hemisfério Norte e o hemisfério Sul",
+      "explanation": "Portugal Continental situa-se no hemisfério Norte.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-021",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Latitude",
+      "question": "O que é a latitude de um lugar?",
+      "answer": "A distância angular, medida em graus, entre esse lugar e o Equador",
+      "explanation": "A latitude varia entre 0° (no Equador) e 90° (nos polos), podendo ser Norte ou Sul.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-022",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Longitude",
+      "question": "O que é a longitude de um lugar?",
+      "answer": "A distância angular, medida em graus, entre esse lugar e o meridiano de Greenwich",
+      "explanation": "A longitude varia entre 0° e 180°, podendo ser Este (Oriental) ou Oeste (Ocidental).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-023",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Coordenadas geográficas",
+      "question": "O que são as coordenadas geográficas de um lugar?",
+      "answer": "O conjunto formado pela latitude e pela longitude desse lugar, que permite localizá-lo com exatidão",
+      "explanation": "As coordenadas geográficas correspondem à localização absoluta de um ponto na superfície terrestre.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-024",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Localização absoluta e localização relativa",
+      "question": "Qual é a diferença entre localização absoluta e localização relativa?",
+      "answer": "A localização absoluta indica a posição exata através das coordenadas geográficas; a localização relativa situa um lugar em relação a outros lugares próximos",
+      "explanation": "Por exemplo, dizer que Coimbra fica entre Lisboa e o Porto é uma localização relativa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-025",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Planisfério",
+      "question": "O que é um planisfério?",
+      "answer": "Um mapa que representa toda a superfície da Terra num plano",
+      "explanation": "Ao passar de uma superfície esférica para um plano, o planisfério introduz sempre alguma distorção.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-026",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Globo terrestre",
+      "question": "Qual é a vantagem do globo terrestre em relação ao planisfério?",
+      "answer": "Representa a Terra de forma mais fiel, sem as distorções que resultam de a passar para uma superfície plana",
+      "explanation": "Em contrapartida, o globo é pouco prático para transportar e para observar pormenores.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-027",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Fotografia aérea",
+      "question": "O que é uma fotografia aérea?",
+      "answer": "Uma imagem da superfície terrestre obtida a partir de um avião ou de um drone",
+      "explanation": "É uma forma de observação indireta muito usada em trabalho de campo e no planeamento do território.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-028",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Imagem de satélite",
+      "question": "O que é uma imagem de satélite?",
+      "answer": "Uma imagem da superfície terrestre captada por sensores colocados em satélites que orbitam a Terra",
+      "explanation": "Permite observar grandes áreas e é muito usada, por exemplo, no estudo do clima e das alterações na paisagem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-029",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Ortofotomapa",
+      "question": "O que é um ortofotomapa?",
+      "answer": "Uma fotografia aérea corrigida das distorções, à qual foram acrescentados elementos como nomes de lugares e limites administrativos",
+      "explanation": "Combina o rigor de um mapa com o realismo de uma fotografia.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-030",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Mapa topográfico e curvas de nível",
+      "question": "Para que serve um mapa topográfico?",
+      "answer": "Para representar com pormenor o relevo e outros elementos de uma área, através de curvas de nível",
+      "explanation": "É muito usado em atividades como caminhadas, planeamento urbano e trabalho de campo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-031",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Mapa hipsométrico",
+      "question": "O que representa um mapa hipsométrico?",
+      "answer": "As diferentes altitudes de uma área, através de uma escala de cores",
+      "explanation": "Geralmente, os tons de verde representam altitudes baixas e os tons de castanho representam altitudes elevadas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-032",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Projeção cartográfica",
+      "question": "Porque é que todos os mapas apresentam algum tipo de distorção?",
+      "answer": "Porque resultam da passagem de uma superfície esférica (a Terra) para uma superfície plana",
+      "explanation": "Os diferentes sistemas de projeção cartográfica procuram minimizar essas distorções, mas nenhum consegue eliminá-las totalmente, alterando sempre a forma, a área ou as distâncias.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-033",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Escala gráfica e escala numérica",
+      "question": "Qual é a diferença entre a escala gráfica e a escala numérica de um mapa?",
+      "answer": "A escala gráfica é representada por uma linha ou régua graduada; a escala numérica é representada por uma fração ou razão, como 1:50 000",
+      "explanation": "Ambas relacionam as distâncias no mapa com as distâncias reais no terreno.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-034",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Cálculo de distâncias reais",
+      "question": "Num mapa à escala 1:100 000, uma distância de 3 cm no mapa corresponde a que distância real?",
+      "answer": "3 quilómetros",
+      "explanation": "Basta multiplicar 3 cm por 100 000, o que dá 300 000 cm, ou seja, 3 km.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-035",
+      "domain": "Mapas e Representação da Terra",
+      "topic": "Tecnologias de Informação Geográfica",
+      "question": "O que são as Tecnologias de Informação Geográfica (TIG)?",
+      "answer": "Um conjunto de instrumentos e programas informáticos, como o GPS e o Google Earth, usados para recolher, tratar e representar informação sobre o espaço geográfico",
+      "explanation": "Um WebSIG é um exemplo de TIG que permite consultar e cruzar diferentes tipos de informação geográfica através da internet.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-036",
+      "domain": "Localização e União Europeia",
+      "topic": "Continentes",
+      "question": "Quantos continentes existem e quais são?",
+      "answer": "Seis: Europa, Ásia, África, América, Oceânia e Antártida",
+      "explanation": "Alguns autores consideram a Europa e a Ásia um único continente, a Eurásia, mas a divisão em seis continentes é a mais usada em Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-037",
+      "domain": "Localização e União Europeia",
+      "topic": "Oceanos",
+      "question": "Quais são os principais oceanos da Terra?",
+      "answer": "Atlântico, Pacífico, Índico e Glacial Ártico",
+      "explanation": "O oceano Pacífico é o maior e mais profundo de todos; alguns autores consideram ainda um quinto oceano, o Antártico ou Glacial Antártico.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-038",
+      "domain": "Localização e União Europeia",
+      "topic": "Microestados europeus",
+      "question": "O que é um microestado?",
+      "answer": "Um país de área e população muito reduzidas, geralmente rodeado ou muito próximo de um país maior",
+      "explanation": "O Vaticano, o Mónaco, San Marino, o Listenstaine e Andorra são exemplos de microestados europeus.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-039",
+      "domain": "Localização e União Europeia",
+      "topic": "Portugal na União Europeia",
+      "question": "Em que ano é que Portugal aderiu à então Comunidade Económica Europeia (atual União Europeia)?",
+      "answer": "Em 1986",
+      "explanation": "Portugal e Espanha aderiram na mesma data, alargando a comunidade para o sul da Europa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-040",
+      "domain": "Localização e União Europeia",
+      "topic": "União Europeia",
+      "question": "O que é a União Europeia?",
+      "answer": "Uma associação de países europeus que cooperam entre si em áreas económicas, políticas e sociais",
+      "explanation": "A União Europeia foi criada para promover a paz, a estabilidade e o desenvolvimento entre os seus Estados-membros.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-041",
+      "domain": "Localização e União Europeia",
+      "topic": "Cidadania europeia",
+      "question": "O que é a cidadania europeia?",
+      "answer": "O estatuto que atribui a todos os cidadãos dos Estados-membros da União Europeia direitos como circular, residir e trabalhar livremente noutro país da UE",
+      "explanation": "A cidadania europeia acresce à cidadania nacional de cada país, não a substitui.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-042",
+      "domain": "Localização e União Europeia",
+      "topic": "Espaço Schengen",
+      "question": "O que permite o espaço Schengen?",
+      "answer": "A livre circulação de pessoas entre os países que o integram, sem necessidade de controlo de passaportes nas fronteiras internas",
+      "explanation": "Nem todos os países da União Europeia pertencem ao espaço Schengen, e há também países fora da UE que aderiram a este espaço.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-043",
+      "domain": "Localização e União Europeia",
+      "topic": "Zona Euro",
+      "question": "O que é a Zona Euro?",
+      "answer": "O conjunto de países da União Europeia que adotaram o euro como moeda única",
+      "explanation": "Portugal faz parte da Zona Euro desde a introdução do euro, no início do século XXI.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-044",
+      "domain": "Localização e União Europeia",
+      "topic": "Tratados europeus",
+      "question": "Para que servem os tratados da União Europeia?",
+      "answer": "Para estabelecer as regras, os objetivos e o funcionamento da União Europeia, sendo acordados e ratificados por todos os Estados-membros",
+      "explanation": "O Tratado de Roma (1957) e o Tratado de Lisboa (2007) são exemplos de tratados importantes na construção europeia.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-045",
+      "domain": "Localização e União Europeia",
+      "topic": "Espaço lusófono",
+      "question": "O que é o espaço lusófono?",
+      "answer": "O conjunto de países e territórios onde o português é falado, de forma oficial ou significativa",
+      "explanation": "O espaço lusófono estende-se por vários continentes, incluindo a Europa, a América do Sul, África e a Ásia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-046",
+      "domain": "Localização e União Europeia",
+      "topic": "CPLP",
+      "question": "O que significa a sigla CPLP?",
+      "answer": "Comunidade dos Países de Língua Portuguesa",
+      "explanation": "A CPLP é uma organização que reúne os países de língua oficial portuguesa para promover a cooperação entre eles.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-047",
+      "domain": "Localização e União Europeia",
+      "topic": "PALOP",
+      "question": "O que significa a sigla PALOP?",
+      "answer": "Países Africanos de Língua Oficial Portuguesa",
+      "explanation": "Os PALOP são cinco: Angola, Cabo Verde, Guiné-Bissau, Moçambique e São Tomé e Príncipe.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-048",
+      "domain": "Localização e União Europeia",
+      "topic": "NUTS",
+      "question": "O que são as NUTS?",
+      "answer": "Unidades territoriais estatísticas usadas para organizar o território português (e europeu) para fins de planeamento e comparação",
+      "explanation": "A sigla NUTS provém do francês e significa Nomenclatura das Unidades Territoriais para Fins Estatísticos.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-049",
+      "domain": "Localização e União Europeia",
+      "topic": "Divisão administrativa de Portugal",
+      "question": "Quais são as principais unidades da divisão administrativa do território português?",
+      "answer": "Distrito, município (concelho) e freguesia",
+      "explanation": "Estas unidades organizam o território para efeitos de administração local, embora os distritos tenham hoje um papel sobretudo eleitoral e estatístico.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-050",
+      "domain": "Localização e União Europeia",
+      "topic": "Comunidades intermunicipais",
+      "question": "O que é uma comunidade intermunicipal?",
+      "answer": "Uma associação de municípios vizinhos que cooperam entre si na gestão de interesses comuns, como transportes, ambiente ou desenvolvimento económico",
+      "explanation": "As comunidades intermunicipais são um exemplo de cooperação territorial em Portugal Continental.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-051",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Estado do tempo e clima",
+      "question": "Qual é a diferença entre estado do tempo e clima?",
+      "answer": "O estado do tempo refere-se às condições atmosféricas num local e num momento curto; o clima é o conjunto das condições atmosféricas habituais numa região, observadas ao longo de muitos anos",
+      "explanation": "Um dia de chuva não significa que o clima de uma região seja chuvoso, se isso for pouco frequente ao longo do ano.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-052",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Elementos do clima",
+      "question": "Indica dois elementos do clima",
+      "answer": "A temperatura e a precipitação",
+      "explanation": "Os elementos do clima são as componentes que podem ser medidas diretamente, ao contrário dos fatores climáticos, que as influenciam.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-053",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Fatores climáticos: latitude",
+      "question": "Como é que a latitude influencia a temperatura de um lugar?",
+      "answer": "Quanto maior a latitude (mais perto dos polos), menor tende a ser a temperatura, porque os raios solares incidem de forma mais inclinada",
+      "explanation": "Perto do Equador, os raios solares incidem de forma mais direta, o que aumenta a temperatura.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-054",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Fatores climáticos: altitude",
+      "question": "Como é que a altitude influencia a temperatura de um lugar?",
+      "answer": "Quanto maior a altitude, menor tende a ser a temperatura",
+      "explanation": "Por isso, mesmo em regiões de baixa latitude, é possível encontrar neve no topo de montanhas muito altas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-055",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Zonas climáticas",
+      "question": "Quais são as três grandes zonas climáticas da Terra, definidas em função da latitude?",
+      "answer": "Zona fria, zona temperada e zona quente",
+      "explanation": "Estas zonas correspondem, de forma aproximada, às áreas situadas entre os polos e os círculos polares, entre estes e os trópicos, e entre os trópicos, respetivamente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-056",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Precipitação",
+      "question": "O que é a precipitação, em termos climáticos?",
+      "answer": "A água, em estado líquido ou sólido, que cai da atmosfera para a superfície terrestre, como chuva, neve ou granizo",
+      "explanation": "A precipitação é medida em milímetros e é um dos elementos fundamentais para caracterizar o clima de uma região.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-057",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Mapas de isotérmicas",
+      "question": "O que representam as linhas isotérmicas num mapa do clima?",
+      "answer": "Pontos que têm a mesma temperatura",
+      "explanation": "Estas linhas permitem visualizar rapidamente como a temperatura varia entre diferentes regiões.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-058",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Mapas de isoietas",
+      "question": "O que representam as linhas isoietas num mapa do clima?",
+      "answer": "Pontos que têm o mesmo valor de precipitação",
+      "explanation": "Tal como as isotérmicas para a temperatura, as isoietas ajudam a comparar a quantidade de chuva entre diferentes regiões.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-059",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Biomas e zonalidade",
+      "question": "O que é um bioma?",
+      "answer": "Uma grande formação vegetal que se desenvolve em resposta às condições de clima e solo de uma determinada região",
+      "explanation": "A distribuição dos biomas pela superfície terrestre segue, em grande medida, a distribuição das zonas climáticas, o que se designa por zonalidade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-060",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Floresta Equatorial",
+      "question": "Onde se localiza, tipicamente, a Floresta Equatorial e que características tem?",
+      "answer": "Localiza-se junto ao Equador, sendo uma floresta densa, com grande diversidade de espécies, associada a um clima quente e muito húmido",
+      "explanation": "A Floresta Amazónica é o exemplo mais conhecido de Floresta Equatorial.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-061",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Savana",
+      "question": "Que tipo de vegetação caracteriza a savana?",
+      "answer": "Vegetação herbácea (ervas altas) com árvores dispersas, adaptada a um clima quente com uma estação seca e outra chuvosa",
+      "explanation": "A savana africana é conhecida pela grande diversidade de animais que nela vivem.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-062",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Estepe",
+      "question": "Que tipo de vegetação caracteriza a estepe?",
+      "answer": "Vegetação herbácea rasteira, adaptada a um clima com fraca precipitação e grande amplitude térmica",
+      "explanation": "A estepe desenvolve-se em regiões de transição, mais secas do que as zonas de pradaria.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-063",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Deserto Quente",
+      "question": "Que características tem a vegetação do Deserto Quente?",
+      "answer": "É muito escassa e adaptada à falta de água, como cactos e arbustos espinhosos",
+      "explanation": "Os desertos quentes caracterizam-se por precipitação muito reduzida e temperaturas muito elevadas durante o dia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-064",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Floresta Mediterrânea",
+      "question": "Que características tem a Floresta Mediterrânea?",
+      "answer": "É composta por árvores e arbustos adaptados a verões quentes e secos e a invernos suaves e chuvosos, como o sobreiro, a azinheira e o pinheiro",
+      "explanation": "Este tipo de vegetação ocorre em Portugal e noutras regiões com clima mediterrânico.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-065",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Floresta Caducifólia",
+      "question": "O que caracteriza a Floresta Caducifólia?",
+      "answer": "É composta por árvores de folha larga que caem no outono/inverno, típica de climas temperados com quatro estações bem definidas",
+      "explanation": "O carvalho e a faia são exemplos de árvores caducifólias.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-066",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Pradaria",
+      "question": "Que características tem a pradaria?",
+      "answer": "É uma formação de vegetação herbácea densa, típica de climas temperados com precipitação moderada, muito usada para agricultura e pastagem",
+      "explanation": "As grandes planícies da América do Norte são um exemplo conhecido de pradaria.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-067",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Floresta de Coníferas",
+      "question": "Onde predomina, tipicamente, a Floresta de Coníferas e que árvores a compõem?",
+      "answer": "Predomina em regiões de clima frio, sendo composta principalmente por pinheiros, abetos e outras árvores de folha persistente em forma de agulha",
+      "explanation": "Também é conhecida por taiga, e estende-se por grandes áreas do norte da Europa, da Ásia e da América do Norte.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-068",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Tundra",
+      "question": "Que características tem a vegetação da tundra?",
+      "answer": "É composta por musgos, líquenes e pequenos arbustos, adaptados a um clima muito frio, com um subsolo permanentemente gelado",
+      "explanation": "A tundra localiza-se em regiões próximas do círculo polar, onde o crescimento das plantas é muito limitado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-069",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Ação humana nos biomas",
+      "question": "Indica um exemplo de impacto negativo da ação humana sobre um bioma",
+      "answer": "A desflorestação da Floresta Equatorial (Amazónia) para expansão da agricultura e da pecuária",
+      "explanation": "Este tipo de impacto reduz a biodiversidade e contribui para alterações climáticas a nível global.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-070",
+      "domain": "Clima e Formações Vegetais",
+      "topic": "Preservação dos biomas",
+      "question": "Indica uma medida que ajuda a preservar os biomas naturais",
+      "answer": "A criação de áreas protegidas, como parques e reservas naturais, onde a exploração dos recursos é limitada ou proibida",
+      "explanation": "A cooperação internacional é também fundamental, uma vez que muitos biomas se estendem por vários países.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-071",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Planície",
+      "question": "O que é uma planície?",
+      "answer": "Uma forma de relevo plana ou ligeiramente ondulada, de baixa altitude",
+      "explanation": "As planícies são, geralmente, áreas férteis muito utilizadas pela agricultura e pela ocupação humana.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-072",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Planalto",
+      "question": "O que é um planalto?",
+      "answer": "Uma forma de relevo plana ou pouco acidentada, mas situada a uma altitude elevada",
+      "explanation": "Ao contrário da planície, o planalto distingue-se pela altitude mais elevada em relação às áreas circundantes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-073",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Montanha e serra",
+      "question": "Qual é a diferença entre montanha e serra?",
+      "answer": "A montanha é uma elevação de relevo isolada e com grande altitude; a serra é um conjunto de montanhas ou elevações alinhadas",
+      "explanation": "A Serra da Estrela, em Portugal, é um exemplo de serra que integra o ponto mais alto de Portugal Continental.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-074",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Cordilheira",
+      "question": "O que é uma cordilheira?",
+      "answer": "Um conjunto de serras ou cadeias montanhosas de grande extensão",
+      "explanation": "Os Andes, na América do Sul, e os Himalaias, na Ásia, são exemplos de importantes cordilheiras.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-075",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Colina",
+      "question": "O que é uma colina?",
+      "answer": "Uma elevação de relevo suave, de altitude e declive reduzidos, quando comparada com uma montanha",
+      "explanation": "As colinas resultam, geralmente, de um desgaste do relevo ao longo de muito tempo.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-076",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Vale",
+      "question": "O que é um vale?",
+      "answer": "Uma depressão alongada do relevo, geralmente escavada por um curso de água, situada entre elevações",
+      "explanation": "A forma do vale (em V ou em U) depende do tipo de erosão que o originou.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-077",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Altitude e declive",
+      "question": "O que é o declive de um terreno?",
+      "answer": "A inclinação de um terreno, ou seja, a diferença de altitude entre dois pontos numa determinada distância",
+      "explanation": "Quanto mais próximas estiverem as curvas de nível num mapa, maior é o declive do terreno.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-078",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Curvas de nível",
+      "question": "O que são as curvas de nível de um mapa?",
+      "answer": "Linhas que unem pontos com a mesma altitude",
+      "explanation": "As curvas de nível permitem representar o relevo num mapa a duas dimensões.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-079",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Perfil topográfico",
+      "question": "Para que serve um perfil topográfico?",
+      "answer": "Para representar, num corte transversal, a variação da altitude do terreno ao longo de uma linha traçada no mapa",
+      "explanation": "O perfil topográfico é construído a partir da informação das curvas de nível de um mapa topográfico.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-080",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Bacia hidrográfica",
+      "question": "O que é uma bacia hidrográfica?",
+      "answer": "A área de terreno drenada por um rio principal e pelos seus afluentes",
+      "explanation": "Os limites de uma bacia hidrográfica são definidos pelas linhas de cumeada (linhas de festo) que separam bacias vizinhas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-081",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Nascente e foz",
+      "question": "O que são a nascente e a foz de um rio?",
+      "answer": "A nascente é o local onde o rio tem origem; a foz é o local onde o rio desagua noutro rio, lago ou no mar",
+      "explanation": "A foz pode ter a forma de estuário ou de delta, consoante as características do local.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-082",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Afluente",
+      "question": "O que é um afluente?",
+      "answer": "Um curso de água que desagua noutro rio, sem chegar diretamente ao mar",
+      "explanation": "O rio que recebe as águas do afluente é designado por rio principal, coletor ou emissário.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-083",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Caudal",
+      "question": "O que é o caudal de um rio?",
+      "answer": "A quantidade de água que passa numa determinada secção do rio por unidade de tempo",
+      "explanation": "O caudal varia ao longo do ano, sendo geralmente maior nos períodos de maior precipitação.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-084",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Erosão fluvial",
+      "question": "O que é a erosão fluvial?",
+      "answer": "O desgaste e o transporte de materiais provocados pela ação da água dos rios sobre o terreno",
+      "explanation": "A erosão fluvial contribui para modelar vales e outras formas de relevo ao longo do curso de um rio.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-085",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Erosão marinha",
+      "question": "O que é a erosão marinha?",
+      "answer": "O desgaste da linha de costa provocado pela ação das ondas, das marés e das correntes marítimas",
+      "explanation": "A erosão marinha é responsável pela formação de arribas e por outras alterações na paisagem litoral.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-086",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Arriba e praia",
+      "question": "Qual é a diferença entre uma arriba e uma praia?",
+      "answer": "A arriba é uma vertente rochosa e íngreme junto ao mar; a praia é uma superfície plana, coberta de areia ou seixos, junto ao mar",
+      "explanation": "As arribas resultam sobretudo da erosão marinha, enquanto as praias resultam da acumulação de sedimentos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-087",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Cabo, baía e península",
+      "question": "O que são um cabo, uma baía e uma península?",
+      "answer": "O cabo é uma porção de terra que avança sobre o mar; a baía é uma reentrância da costa; a península é uma porção de terra rodeada de água, exceto numa parte, que a liga ao continente",
+      "explanation": "Portugal tem exemplos destas formas de relevo litoral, como o Cabo da Roca ou a Baía de Setúbal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "ge7-088",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Ilha e arquipélago",
+      "question": "Qual é a diferença entre ilha e arquipélago?",
+      "answer": "A ilha é uma porção de terra totalmente rodeada de água; o arquipélago é um conjunto de ilhas próximas umas das outras",
+      "explanation": "Os Açores e a Madeira são os dois arquipélagos portugueses.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "ge7-089",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Estuário e delta",
+      "question": "Qual é a diferença entre um estuário e um delta?",
+      "answer": "No estuário, a foz do rio forma uma reentrância única e alargada, onde a água doce se mistura com a água salgada; no delta, o rio divide-se em vários braços antes de chegar ao mar",
+      "explanation": "O rio Tejo tem foz em estuário; o rio Nilo é um exemplo conhecido de foz em delta.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "ge7-090",
+      "domain": "Relevo e Hidrografia",
+      "topic": "Aquífero e gestão da água",
+      "question": "O que é um aquífero?",
+      "answer": "Uma formação subterrânea de rochas permeáveis onde se acumula água (a toalha freática)",
+      "explanation": "A utilização excessiva de aquíferos partilhados por vários países pode gerar conflitos na gestão da água, o que torna necessária a cooperação internacional para uma exploração sustentável.",
+      "difficulty": "dificil"
+    }
+  ]
+}

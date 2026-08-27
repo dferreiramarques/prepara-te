@@ -1,0 +1,905 @@
+{
+  "generatedFor": "Português 7º ano — Aprendizagens Essenciais",
+  "cards": [
+    {
+      "id": "por7-001",
+      "domain": "Gramática",
+      "topic": "Pronome relativo",
+      "question": "O que é um pronome relativo? Dá um exemplo.",
+      "answer": "Uma palavra que substitui um nome anterior (o antecedente) e introduz uma oração subordinada adjetiva relativa; exemplo: 'que' em 'O livro que li'",
+      "explanation": "O pronome relativo retoma um elemento já mencionado na frase, evitando a sua repetição.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-002",
+      "domain": "Gramática",
+      "topic": "Pronomes relativos variáveis",
+      "question": "Além de 'que' e 'quem', indica outro pronome relativo, que se flexiona em género e número.",
+      "answer": "'O qual' (e as suas flexões: a qual, os quais, as quais)",
+      "explanation": "Ao contrário de 'que' e 'quem', que são invariáveis, 'o qual' concorda em género e número com o antecedente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-003",
+      "domain": "Gramática",
+      "topic": "Pronome relativo 'cujo'",
+      "question": "Que valor tem o pronome relativo 'cujo' na frase 'O aluno cujo caderno se perdeu foi à procura dele'?",
+      "answer": "Um valor possessivo, equivalente a 'do qual'",
+      "explanation": "'Cujo' concorda em género e número com a palavra que vem a seguir (o objeto possuído), e não com o antecedente.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-004",
+      "domain": "Gramática",
+      "topic": "Determinante relativo",
+      "question": "Na frase 'O aluno cujo caderno se perdeu...', que classe de palavras é 'cujo' relativamente a 'caderno'?",
+      "answer": "Determinante relativo",
+      "explanation": "'Cujo' acompanha e determina o nome 'caderno', tal como um determinante possessivo faria em relação a um nome.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-005",
+      "domain": "Gramática",
+      "topic": "Advérbio relativo",
+      "question": "O que é um advérbio relativo? Dá um exemplo.",
+      "answer": "Uma palavra que retoma um antecedente com valor de lugar, tempo ou modo e introduz uma oração relativa; exemplos: 'onde', 'quando', 'como'",
+      "explanation": "Tal como os pronomes relativos, os advérbios relativos relacionam-se com um antecedente, mas têm valor circunstancial.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-006",
+      "domain": "Gramática",
+      "topic": "Advérbio relativo 'onde'",
+      "question": "Que classe de palavras é 'onde' na frase 'Visitei a casa onde nasceste'?",
+      "answer": "Advérbio relativo",
+      "explanation": "O advérbio relativo 'onde' substitui uma expressão de lugar já referida (aqui, 'a casa') e introduz a oração subordinada relativa.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-007",
+      "domain": "Gramática",
+      "topic": "Conjunção coordenativa disjuntiva",
+      "question": "Que tipo de conjunção coordenativa é 'ou' na frase 'Escolhe: ficas ou vais embora'?",
+      "answer": "Conjunção coordenativa disjuntiva",
+      "explanation": "As conjunções disjuntivas exprimem uma alternativa entre duas ou mais hipóteses.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-008",
+      "domain": "Gramática",
+      "topic": "Conjunção coordenativa conclusiva",
+      "question": "Que tipo de conjunção coordenativa é 'portanto' na frase 'Estudou muito, portanto foi aprovado'?",
+      "answer": "Conjunção coordenativa conclusiva",
+      "explanation": "As conjunções conclusivas (portanto, logo, por isso) introduzem uma conclusão relativamente ao que foi dito antes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-009",
+      "domain": "Gramática",
+      "topic": "Conjunção coordenativa explicativa",
+      "question": "Que tipo de conjunção coordenativa é 'pois' na frase 'Não saiu de casa, pois estava a chover'?",
+      "answer": "Conjunção coordenativa explicativa",
+      "explanation": "As conjunções explicativas (pois, que, porque) introduzem uma razão ou justificação para o que foi afirmado antes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-010",
+      "domain": "Gramática",
+      "topic": "Conclusiva vs explicativa",
+      "question": "Qual é a principal diferença entre uma conjunção conclusiva e uma explicativa?",
+      "answer": "A conclusiva introduz uma consequência do que foi dito antes; a explicativa introduz uma razão ou justificação para o que foi dito antes",
+      "explanation": "Ex.: 'Chove, logo vou levar o guarda-chuva' (conclusão) vs. 'Vou levar o guarda-chuva, pois está a chover' (explicação).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-011",
+      "domain": "Gramática",
+      "topic": "Conjunção subordinativa final",
+      "question": "Que tipo de conjunção introduz a oração sublinhada em 'Estudou muito para que passasse no exame'?",
+      "answer": "Conjunção subordinativa final",
+      "explanation": "As conjunções finais (para que, a fim de que) introduzem uma oração que exprime a finalidade da ação principal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-012",
+      "domain": "Gramática",
+      "topic": "Conjunção subordinativa condicional",
+      "question": "Que tipo de conjunção introduz a oração em 'Se estudares, terás boa nota'?",
+      "answer": "Conjunção subordinativa condicional",
+      "explanation": "As conjunções condicionais (se, caso, a não ser que) introduzem a condição necessária para se realizar o que é dito na oração principal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-013",
+      "domain": "Gramática",
+      "topic": "Conjunção subordinativa completiva",
+      "question": "Que tipo de conjunção introduz a oração em 'Espero que venhas à festa'?",
+      "answer": "Conjunção subordinativa completiva",
+      "explanation": "As conjunções completivas (que, se) introduzem uma oração que completa o sentido do verbo da oração principal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-014",
+      "domain": "Gramática",
+      "topic": "Locução conjuncional",
+      "question": "O que é uma locução conjuncional? Dá um exemplo.",
+      "answer": "Um grupo de duas ou mais palavras que, em conjunto, desempenham a função de uma conjunção; exemplo: 'a fim de que', 'ainda que', 'visto que'",
+      "explanation": "Tal como uma conjunção simples, uma locução conjuncional liga orações, estabelecendo entre elas uma relação de sentido.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-015",
+      "domain": "Gramática",
+      "topic": "Locução prepositiva",
+      "question": "O que é uma locução prepositiva? Dá um exemplo.",
+      "answer": "Um grupo de duas ou mais palavras que, em conjunto, desempenham a função de uma preposição; exemplo: 'por causa de', 'apesar de', 'a fim de'",
+      "explanation": "A última palavra de uma locução prepositiva é sempre uma preposição, como 'de' em 'por causa de'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-016",
+      "domain": "Gramática",
+      "topic": "Pretérito imperfeito do indicativo",
+      "question": "Qual é a forma do verbo 'cantar' na 3ª pessoa do singular do pretérito imperfeito do indicativo?",
+      "answer": "'Cantava'",
+      "explanation": "O pretérito imperfeito exprime uma ação passada, habitual ou não concluída: eu cantava, tu cantavas, ele cantava...",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-017",
+      "domain": "Gramática",
+      "topic": "Pretérito mais-que-perfeito simples",
+      "question": "Qual é a forma do verbo 'fazer' na 1ª pessoa do singular do pretérito mais-que-perfeito simples do indicativo?",
+      "answer": "'Fizera'",
+      "explanation": "O pretérito mais-que-perfeito simples exprime uma ação passada anterior a outra também passada; é pouco usado na oralidade, sendo mais comum a forma composta ('tinha feito').",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-018",
+      "domain": "Gramática",
+      "topic": "Futuro do indicativo",
+      "question": "Qual é a forma do verbo 'partir' na 2ª pessoa do plural do futuro do indicativo?",
+      "answer": "'Partireis'",
+      "explanation": "O futuro do indicativo exprime uma ação que ainda vai acontecer: eu partirei, tu partirás, ele partirá, nós partiremos, vós partireis, eles partirão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-019",
+      "domain": "Gramática",
+      "topic": "Condicional (futuro do pretérito)",
+      "question": "Como se chama o tempo verbal usado em 'Eu gostaria de viajar', e que ideia transmite?",
+      "answer": "Condicional (ou futuro do pretérito); exprime um facto hipotético, dependente de uma condição",
+      "explanation": "Ex.: 'Se tivesse dinheiro, viajaria' — a viagem depende de uma condição que pode não se verificar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-020",
+      "domain": "Gramática",
+      "topic": "Presente do conjuntivo",
+      "question": "Qual é a forma do verbo 'ser' na 3ª pessoa do singular do presente do conjuntivo?",
+      "answer": "'Seja'",
+      "explanation": "Usa-se, por exemplo, depois de expressões como 'é preciso que' ou 'talvez': 'Talvez ele seja o escolhido.'",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-021",
+      "domain": "Gramática",
+      "topic": "Pretérito imperfeito do conjuntivo",
+      "question": "Qual é a forma do verbo 'ter' na 1ª pessoa do singular do pretérito imperfeito do conjuntivo?",
+      "answer": "'Tivesse'",
+      "explanation": "Usa-se, por exemplo, em orações condicionais: 'Se eu tivesse tempo, ajudava-te.'",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-022",
+      "domain": "Gramática",
+      "topic": "Futuro do conjuntivo",
+      "question": "Qual é a forma do verbo 'ir' na 3ª pessoa do singular do futuro do conjuntivo?",
+      "answer": "'For'",
+      "explanation": "O futuro do conjuntivo usa-se sobretudo em orações condicionais e temporais: 'Quando ele for à escola...'; 'Se ela for capaz...'",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-023",
+      "domain": "Gramática",
+      "topic": "Imperativo afirmativo e negativo",
+      "question": "Qual é a diferença, na 2ª pessoa do singular, entre o imperativo afirmativo e o negativo do verbo 'falar'?",
+      "answer": "O afirmativo usa a forma do presente do indicativo sem o 's' final ('fala'); o negativo usa a forma do presente do conjuntivo ('não fales')",
+      "explanation": "Esta diferença de formação é uma particularidade do modo imperativo em português.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-024",
+      "domain": "Gramática",
+      "topic": "Colocação do pronome pessoal átono — próclise",
+      "question": "O que é a próclise? Dá um exemplo.",
+      "answer": "A colocação do pronome pessoal átono antes do verbo; exemplo: 'Não me disseste a verdade'",
+      "explanation": "A próclise é obrigatória em certos contextos, como depois de advérbios de negação, de alguns pronomes e de certas conjunções.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-025",
+      "domain": "Gramática",
+      "topic": "Colocação do pronome pessoal átono — ênclise",
+      "question": "O que é a ênclise? Dá um exemplo.",
+      "answer": "A colocação do pronome pessoal átono depois do verbo, ligado a ele por hífen; exemplo: 'Disseste-me a verdade'",
+      "explanation": "A ênclise é a colocação mais comum em frases afirmativas sem elementos que atraiam o pronome para antes do verbo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-026",
+      "domain": "Gramática",
+      "topic": "Colocação do pronome pessoal átono — mesóclise",
+      "question": "O que é a mesóclise? Dá um exemplo.",
+      "answer": "A colocação do pronome pessoal átono no meio do verbo, usada com o futuro do indicativo e o condicional; exemplo: 'Dir-te-ei a verdade'",
+      "explanation": "A mesóclise é típica de um registo mais formal ou literário, sendo pouco usada na oralidade do dia a dia.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-027",
+      "domain": "Gramática",
+      "topic": "Próclise obrigatória",
+      "question": "Indica um tipo de palavra que obriga à próclise (colocação do pronome antes do verbo).",
+      "answer": "Por exemplo, um advérbio de negação ('não'), um pronome indefinido ('alguém', 'ninguém') ou uma conjunção subordinativa",
+      "explanation": "Ex.: 'Ninguém me avisou.' — a presença de 'ninguém' antes do verbo obriga a que o pronome 'me' venha também antes do verbo.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-028",
+      "domain": "Gramática",
+      "topic": "Modo conjuntivo — uso obrigatório",
+      "question": "Indica um contexto em que o uso do modo conjuntivo é obrigatório numa frase complexa.",
+      "answer": "Por exemplo, depois de 'talvez', de expressões como 'é preciso que' ou 'espero que', ou em certas orações condicionais e finais",
+      "explanation": "Ex.: 'Talvez ele venha', e não 'talvez ele vem'; o conjuntivo exprime dúvida, desejo, hipótese ou possibilidade.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-029",
+      "domain": "Gramática",
+      "topic": "Modificador do nome restritivo",
+      "question": "O que é um modificador do nome restritivo? Dá um exemplo.",
+      "answer": "Um constituinte que restringe ou delimita o significado do nome a que se refere, normalmente sem vírgula; exemplo: 'que estudaram' em 'Os alunos que estudaram tiveram boa nota'",
+      "explanation": "Sem o modificador restritivo, o sentido da frase muda: 'os alunos que estudaram' é diferente de 'todos os alunos'.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-030",
+      "domain": "Gramática",
+      "topic": "Modificador do nome apositivo",
+      "question": "O que é um modificador do nome apositivo? Dá um exemplo.",
+      "answer": "Um constituinte que acrescenta uma informação adicional (não essencial) sobre o nome, isolado por vírgulas; exemplo: 'capital de Portugal' em 'Lisboa, capital de Portugal, é uma cidade histórica'",
+      "explanation": "Ao contrário do modificador restritivo, o apositivo pode ser retirado da frase sem alterar o seu sentido essencial.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-031",
+      "domain": "Gramática",
+      "topic": "Modificador do grupo verbal",
+      "question": "O que é o modificador do grupo verbal? Dá um exemplo.",
+      "answer": "Um constituinte que acrescenta informação circunstancial (tempo, lugar, modo, causa...) ao predicado, podendo normalmente ser deslocado ou retirado da frase; exemplo: 'ontem' em 'Ontem, choveu muito'",
+      "explanation": "O modificador do grupo verbal distingue-se do complemento por ser facultativo e mais móvel na frase.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-032",
+      "domain": "Gramática",
+      "topic": "Modificador vs complemento",
+      "question": "Qual é a principal diferença entre um modificador e um complemento (por exemplo, um complemento direto)?",
+      "answer": "O complemento é normalmente exigido pelo verbo, não podendo ser retirado sem tornar a frase incompleta; o modificador é facultativo e pode ser retirado sem tornar a frase incorreta",
+      "explanation": "Ex.: em 'A Ana comeu uma maçã no jardim', 'uma maçã' é complemento direto (necessário) e 'no jardim' é modificador (dispensável).",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-033",
+      "domain": "Gramática",
+      "topic": "Oração subordinada adverbial final",
+      "question": "Identifica a oração subordinada adverbial final em 'Trouxe um guarda-chuva para que não me molhasse'.",
+      "answer": "'Para que não me molhasse'",
+      "explanation": "A oração subordinada adverbial final exprime a finalidade ou o objetivo da ação da oração principal.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-034",
+      "domain": "Gramática",
+      "topic": "Oração subordinada adverbial condicional",
+      "question": "Identifica a oração subordinada adverbial condicional em 'Se chover, ficamos em casa'.",
+      "answer": "'Se chover'",
+      "explanation": "A oração subordinada adverbial condicional exprime a condição necessária para que se realize o que é dito na oração principal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-035",
+      "domain": "Gramática",
+      "topic": "Oração subordinada substantiva completiva",
+      "question": "Identifica a oração subordinada substantiva completiva em 'Espero que gostes do presente'.",
+      "answer": "'Que gostes do presente'",
+      "explanation": "Esta oração desempenha a função de complemento direto do verbo da oração principal: espero o quê? Que gostes do presente.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-036",
+      "domain": "Gramática",
+      "topic": "Oração subordinada adjetiva relativa restritiva",
+      "question": "Identifica a oração subordinada adjetiva relativa restritiva em 'Os livros que estão na estante são meus'.",
+      "answer": "'Que estão na estante'",
+      "explanation": "Esta oração restringe o significado de 'livros', especificando quais deles são meus (só os que estão na estante).",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-037",
+      "domain": "Gramática",
+      "topic": "Oração subordinada adjetiva relativa explicativa",
+      "question": "Identifica a oração subordinada adjetiva relativa explicativa em 'O meu irmão, que mora no Porto, vem passar o Natal cá'.",
+      "answer": "'Que mora no Porto'",
+      "explanation": "Esta oração, isolada por vírgulas, acrescenta uma informação adicional sobre 'o meu irmão', sem restringir o seu significado.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-038",
+      "domain": "Gramática",
+      "topic": "Derivação por prefixação",
+      "question": "Como se forma a palavra 'desfazer' a partir de 'fazer'?",
+      "answer": "Por prefixação, com o acréscimo do prefixo 'des-'",
+      "explanation": "O prefixo 'des-' costuma indicar a ideia de inversão ou negação de uma ação, tal como em 'desligar' ou 'desconstruir'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-039",
+      "domain": "Gramática",
+      "topic": "Derivação por sufixação",
+      "question": "Como se forma a palavra 'jardinagem' a partir de 'jardim'?",
+      "answer": "Por sufixação, com o acréscimo do sufixo '-agem'",
+      "explanation": "O sufixo '-agem' forma frequentemente nomes que designam uma atividade ou um conjunto, como em 'aprendizagem' ou 'folhagem'.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-040",
+      "domain": "Gramática",
+      "topic": "Derivação por parassíntese",
+      "question": "O que é a derivação por parassíntese? Dá um exemplo.",
+      "answer": "A formação de uma palavra pelo acréscimo simultâneo de um prefixo e de um sufixo, sendo obrigatória a presença de ambos; exemplo: 'entristecer' (a partir de 'triste')",
+      "explanation": "Na parassíntese, se se retirar apenas o prefixo ou apenas o sufixo, a palavra resultante não existe em português: não existe 'tristecer' nem 'entriste'.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-041",
+      "domain": "Gramática",
+      "topic": "Composição morfológica (aglutinação)",
+      "question": "O que é a composição morfológica, por aglutinação? Dá um exemplo.",
+      "answer": "A junção de duas ou mais palavras numa só, com perda de autonomia e, muitas vezes, de som das palavras originais; exemplo: 'girassol' (gira + sol)",
+      "explanation": "Na aglutinação, as palavras que deram origem à nova palavra fundem-se, deixando de se reconhecer facilmente como unidades separadas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-042",
+      "domain": "Gramática",
+      "topic": "Composição morfossintática (justaposição)",
+      "question": "O que é a composição morfossintática, por justaposição? Dá um exemplo.",
+      "answer": "A junção de duas ou mais palavras que mantêm a sua autonomia e pronúncia original, ligadas ou não por hífen; exemplo: 'guarda-chuva' ou 'couve-flor'",
+      "explanation": "Ao contrário da aglutinação, na justaposição continuam a reconhecer-se claramente as palavras que compõem a nova palavra.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-043",
+      "domain": "Gramática",
+      "topic": "Variação geográfica da língua",
+      "question": "O que é a variação geográfica (ou diatópica) da língua portuguesa?",
+      "answer": "As diferenças na pronúncia, no vocabulário ou na construção frásica de acordo com a região ou o país onde a língua é falada",
+      "explanation": "Ex.: em Portugal diz-se 'autocarro' e no Brasil diz-se 'ônibus'; há também diferenças entre regiões dentro do próprio Portugal.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-044",
+      "domain": "Gramática",
+      "topic": "Português padrão",
+      "question": "O que se entende por 'português padrão' (ou norma-padrão)?",
+      "answer": "A variedade da língua considerada de referência, ensinada na escola e usada em contextos formais, independentemente das variantes regionais",
+      "explanation": "O português padrão convive com outras variedades (regionais, sociais), que não são incorretas, mas usadas em contextos diferentes.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-045",
+      "domain": "Gramática",
+      "topic": "Pontuação e ordem das orações",
+      "question": "É obrigatório usar vírgula antes de uma oração subordinada adverbial que surge antes da oração principal, como em 'Porque estava doente, ficou em casa'?",
+      "answer": "Sim, é obrigatório nesse caso",
+      "explanation": "Quando a oração subordinada surge depois da principal ('Ficou em casa porque estava doente'), a vírgula é geralmente facultativa; a ordem das orações influencia as regras de pontuação a aplicar.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-046",
+      "domain": "Educação Literária",
+      "topic": "Esquema rimático",
+      "question": "Como se representa, com letras, o esquema rimático de uma quadra em que o 1º verso rima com o 3º e o 2º rima com o 4º?",
+      "answer": "ABAB",
+      "explanation": "O esquema rimático representa-se por letras, em que a mesma letra indica versos que rimam entre si.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-047",
+      "domain": "Educação Literária",
+      "topic": "Métrica — redondilha maior",
+      "question": "Quantas sílabas métricas tem um verso em redondilha maior?",
+      "answer": "Sete sílabas métricas",
+      "explanation": "A redondilha é uma medida de verso muito usada na poesia tradicional e popular portuguesa; a redondilha menor tem cinco sílabas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-048",
+      "domain": "Educação Literária",
+      "topic": "Métrica — redondilha menor",
+      "question": "Quantas sílabas métricas tem um verso em redondilha menor?",
+      "answer": "Cinco sílabas métricas",
+      "explanation": "Tal como a redondilha maior (sete sílabas), a redondilha menor é uma medida muito frequente na poesia de tradição popular.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-049",
+      "domain": "Educação Literária",
+      "topic": "Sílaba métrica",
+      "question": "O que é uma sílaba métrica, na análise de um verso?",
+      "answer": "Cada uma das unidades de som contadas até à última sílaba tónica do verso, para efeitos de medida (metrificação)",
+      "explanation": "A contagem de sílabas métricas pode não coincidir com a contagem de sílabas gramaticais, devido a fenómenos como a elisão entre palavras.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-050",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — ato",
+      "question": "Num texto dramático, o que é um ato?",
+      "answer": "Cada uma das grandes partes em que a peça se divide, correspondendo normalmente a uma fase importante da ação",
+      "explanation": "A passagem de um ato para outro é frequentemente assinalada pela descida do pano ou por uma mudança de cenário.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-051",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — cena",
+      "question": "Num texto dramático, quando muda tipicamente a cena?",
+      "answer": "Quando entra ou sai uma personagem em palco",
+      "explanation": "A cena é uma subdivisão do ato; um ato pode conter várias cenas.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-052",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — fala",
+      "question": "Como se identifica, num texto dramático escrito, a fala de cada personagem?",
+      "answer": "Pelo nome da personagem, escrito antes das suas palavras",
+      "explanation": "Esta organização gráfica é uma marca distintiva do texto dramático, pensado para ser representado em palco.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-053",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — indicações cénicas",
+      "question": "O que são as indicações cénicas (ou didascálias)?",
+      "answer": "Anotações do autor sobre o cenário, os gestos, os movimentos ou o tom de voz das personagens, normalmente entre parênteses ou em itálico",
+      "explanation": "As indicações cénicas orientam quem encena e representa a peça, mas não são ditas em voz alta pelos atores.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-054",
+      "domain": "Educação Literária",
+      "topic": "Enumeração",
+      "question": "Que recurso expressivo está presente em 'Trouxe livros, cadernos, canetas, lápis e uma régua'?",
+      "answer": "A enumeração",
+      "explanation": "A enumeração consiste em apresentar, em sequência, vários elementos relacionados, reforçando a ideia de quantidade ou de pormenor.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-055",
+      "domain": "Educação Literária",
+      "topic": "Pleonasmo",
+      "question": "Que recurso expressivo está presente em 'Subi para cima e depois desci para baixo'?",
+      "answer": "O pleonasmo",
+      "explanation": "O pleonasmo consiste na repetição de uma ideia já implícita noutra palavra da frase, normalmente para reforçar o sentido.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-056",
+      "domain": "Educação Literária",
+      "topic": "Hipérbole",
+      "question": "Que recurso expressivo está presente em 'Já te disse mil vezes para arrumares o quarto'?",
+      "answer": "A hipérbole",
+      "explanation": "A hipérbole é um exagero intencional, usado para dar mais força e expressividade a uma ideia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-057",
+      "domain": "Educação Literária",
+      "topic": "Metáfora",
+      "question": "Que recurso expressivo está presente em 'A vida é um mar de incertezas'?",
+      "answer": "A metáfora",
+      "explanation": "A metáfora identifica diretamente duas realidades diferentes, sem usar um termo comparativo como 'como'.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-058",
+      "domain": "Educação Literária",
+      "topic": "Personificação",
+      "question": "Que recurso expressivo está presente em 'As ondas dançavam alegremente na baía'?",
+      "answer": "A personificação",
+      "explanation": "A personificação atribui ações ou características humanas a seres não humanos, como neste caso as ondas do mar.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-059",
+      "domain": "Educação Literária",
+      "topic": "Anáfora",
+      "question": "Que recurso expressivo consiste em repetir a mesma palavra ou expressão no início de versos ou frases sucessivas?",
+      "answer": "A anáfora",
+      "explanation": "Este recurso cria um efeito de insistência e de ritmo, reforçando a ideia repetida.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-060",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — autoria",
+      "question": "Quem é a autora da obra dramática 'Leandro, Rei da Helíria', indicada para leitura no 7º ano?",
+      "answer": "Alice Vieira",
+      "explanation": "Esta obra é uma peça de teatro escrita para um público jovem, com elementos de fantasia.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-061",
+      "domain": "Educação Literária",
+      "topic": "Texto dramático — autoria",
+      "question": "Quem é a autora da obra dramática 'À Beira do Lago dos Encantos'?",
+      "answer": "Maria Alberta Menéres",
+      "explanation": "É outra das obras de teatro juvenil indicadas para a educação literária do 7º ano.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-062",
+      "domain": "Educação Literária",
+      "topic": "Poesia — autoria",
+      "question": "Que poeta português, também engenheiro e professor, é autor do poema 'Pedra Filosofal'?",
+      "answer": "António Gedeão",
+      "explanation": "António Gedeão é pseudónimo de Rómulo de Carvalho; a sua poesia combina frequentemente ciência e sensibilidade poética.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-063",
+      "domain": "Educação Literária",
+      "topic": "Poesia — autoria",
+      "question": "Que poetisa portuguesa é autora do soneto 'Ser Poeta'?",
+      "answer": "Florbela Espanca",
+      "explanation": "Florbela Espanca é conhecida sobretudo pela sua poesia em forma de soneto, de forte intensidade emocional.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-064",
+      "domain": "Educação Literária",
+      "topic": "Narrativa de autor de língua portuguesa",
+      "question": "De que país africano de língua oficial portuguesa é natural o escritor José Eduardo Agualusa?",
+      "answer": "Angola",
+      "explanation": "José Eduardo Agualusa é um dos autores de língua portuguesa indicados na lista de leitura do 7º ano.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-065",
+      "domain": "Educação Literária",
+      "topic": "Modos literários",
+      "question": "Quais são os três modos (ou géneros) literários fundamentais?",
+      "answer": "Narrativo, lírico e dramático",
+      "explanation": "No 7º ano, os alunos leem obras integrais dos três modos: pelo menos duas narrativas, nove poemas de oito autores diferentes e um texto dramático.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-066",
+      "domain": "Educação Literária",
+      "topic": "Estrutura externa do texto dramático",
+      "question": "O que se entende por estrutura externa de um texto dramático?",
+      "answer": "A divisão do texto em atos e cenas",
+      "explanation": "A estrutura interna refere-se, por sua vez, à organização da ação (exposição, conflito, desenlace), tal como acontece na narrativa.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-067",
+      "domain": "Educação Literária",
+      "topic": "Contos tradicionais",
+      "question": "Que características têm, em geral, os contos tradicionais do povo português?",
+      "answer": "São narrativas breves, de origem popular e transmissão oral, com personagens-tipo e frequentemente uma moral ou ensinamento implícito",
+      "explanation": "Estes contos fazem parte do património da tradição oral portuguesa, recolhidos e fixados por escrito por diversos autores.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-068",
+      "domain": "Educação Literária",
+      "topic": "Projeto pessoal de leitura",
+      "question": "O que é um projeto pessoal de leitura, tal como é trabalhado no 7º ano?",
+      "answer": "Um percurso de leitura organizado pelo aluno, com objetivos próprios, que pode incluir a seleção de livros, o registo do percurso e a partilha da experiência com os outros",
+      "explanation": "Este projeto ajuda a desenvolver a autonomia leitora e o gosto pessoal pela leitura.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-069",
+      "domain": "Educação Literária",
+      "topic": "Apreciação estética",
+      "question": "O que significa apreciar criticamente a dimensão estética de um texto literário?",
+      "answer": "Refletir e emitir uma opinião fundamentada sobre a forma como o texto foi construído (linguagem, recursos expressivos, estrutura) e sobre o efeito que provoca no leitor",
+      "explanation": "A apreciação estética vai além de dizer se se gostou ou não; implica justificar essa opinião com base em elementos do texto.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-070",
+      "domain": "Educação Literária",
+      "topic": "Obra e outras manifestações artísticas",
+      "question": "Além de identificar recursos expressivos, o que mais se pede ao aluno no 7º ano ao analisar uma obra literária?",
+      "answer": "Analisar como os temas, as experiências e os valores representados na obra se relacionam com outras manifestações artísticas (música, pintura, escultura, cinema)",
+      "explanation": "Esta comparação ajuda a perceber que os mesmos temas e valores podem ser expressos através de diferentes formas de arte.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-071",
+      "domain": "Leitura",
+      "topic": "Biografia",
+      "question": "O que é uma biografia?",
+      "answer": "O relato da vida de uma pessoa, escrito por outra pessoa, seguindo geralmente a ordem cronológica dos principais acontecimentos",
+      "explanation": "No 7º ano, a biografia é um dos géneros centrais tanto na leitura como na escrita.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-072",
+      "domain": "Leitura",
+      "topic": "Artigo de opinião",
+      "question": "O que caracteriza um artigo de opinião?",
+      "answer": "Um texto em que o autor defende, de forma fundamentada, um ponto de vista pessoal sobre um assunto atual ou polémico",
+      "explanation": "O artigo de opinião distingue-se da notícia por não pretender ser neutro: assume claramente uma posição.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-073",
+      "domain": "Leitura",
+      "topic": "Crítica",
+      "question": "Qual é o objetivo principal de uma crítica (por exemplo, a um livro, a um filme ou a um espetáculo)?",
+      "answer": "Analisar e avaliar, de forma fundamentada, a qualidade de uma obra, apresentando uma apreciação pessoal",
+      "explanation": "Uma boa crítica combina informação sobre a obra com uma opinião justificada sobre os seus méritos e limitações.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-074",
+      "domain": "Leitura",
+      "topic": "Artigo de opinião vs notícia",
+      "question": "Qual é a principal diferença entre um artigo de opinião e uma notícia?",
+      "answer": "A notícia procura relatar factos de forma objetiva e neutra; o artigo de opinião defende explicitamente um ponto de vista pessoal sobre esses factos",
+      "explanation": "Reconhecer esta diferença ajuda o leitor a distinguir entre informação e opinião num texto jornalístico.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-075",
+      "domain": "Leitura",
+      "topic": "Texto publicitário — intenção persuasiva",
+      "question": "Qual é a intenção comunicativa principal de um texto publicitário?",
+      "answer": "Persuadir o recetor a adquirir um produto, um serviço ou a adotar um determinado comportamento",
+      "explanation": "Para isso, a publicidade recorre frequentemente a valores e modelos que pretende associar ao produto ou à marca.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-076",
+      "domain": "Leitura",
+      "topic": "Texto publicitário — slogan",
+      "question": "O que é um slogan publicitário?",
+      "answer": "Uma frase curta, fácil de memorizar, que resume a mensagem principal de uma campanha publicitária",
+      "explanation": "Um bom slogan é conciso e utiliza frequentemente recursos como o jogo de palavras ou a rima.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-077",
+      "domain": "Leitura",
+      "topic": "Facto vs opinião",
+      "question": "Qual é a diferença entre um facto e uma opinião, num texto?",
+      "answer": "O facto é uma informação verificável e objetiva; a opinião é uma apreciação pessoal, que pode variar de pessoa para pessoa",
+      "explanation": "Distinguir factos de opiniões é essencial para uma leitura crítica de textos como notícias ou artigos de opinião.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-078",
+      "domain": "Leitura",
+      "topic": "Argumento vs conclusão",
+      "question": "Numa análise de um texto argumentativo, o que é um argumento?",
+      "answer": "Uma razão apresentada para sustentar ou justificar um ponto de vista (a conclusão)",
+      "explanation": "Um texto bem argumentado apresenta vários argumentos que, em conjunto, tornam a conclusão mais convincente.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-079",
+      "domain": "Leitura",
+      "topic": "Inferência justificada",
+      "question": "O que significa fazer uma inferência devidamente justificada durante a leitura de um texto?",
+      "answer": "Concluir uma informação implícita no texto, apoiando essa conclusão em pistas textuais concretas",
+      "explanation": "Ao contrário de uma simples suposição, a inferência justificada baseia-se sempre em elementos presentes no próprio texto.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-080",
+      "domain": "Leitura",
+      "topic": "Estrutura do texto",
+      "question": "Porque é útil reconhecer como um texto está estruturado, nas suas partes e subpartes?",
+      "answer": "Porque ajuda a compreender melhor a organização das ideias e a relação entre elas, facilitando a leitura e a interpretação",
+      "explanation": "Por exemplo, um artigo de opinião organiza-se normalmente em introdução, desenvolvimento (argumentos) e conclusão.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-081",
+      "domain": "Leitura",
+      "topic": "Ponto de vista do autor",
+      "question": "O que se entende pelo 'ponto de vista' do autor de um texto?",
+      "answer": "A perspetiva ou posição pessoal a partir da qual o autor aborda o tema do texto",
+      "explanation": "Identificar o ponto de vista do autor é essencial para uma leitura crítica, sobretudo em textos de opinião.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-082",
+      "domain": "Leitura",
+      "topic": "Leitura não contínua",
+      "question": "O que é um texto de leitura não contínua? Dá um exemplo.",
+      "answer": "Um texto organizado de forma diferente da leitura linear tradicional, combinando texto com elementos visuais; exemplo: um gráfico, uma tabela ou um horário",
+      "explanation": "A leitura não contínua exige estratégias específicas, como localizar rapidamente uma informação sem ler o texto todo de forma sequencial.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-083",
+      "domain": "Escrita",
+      "topic": "Resumo",
+      "question": "O que deve conter, essencialmente, um bom resumo?",
+      "answer": "Apenas as ideias principais do texto original, apresentadas de forma breve, organizada e pelas próprias palavras de quem resume",
+      "explanation": "Um resumo eficaz mantém a fidelidade às ideias do texto original, sem incluir pormenores secundários nem opiniões pessoais.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-084",
+      "domain": "Escrita",
+      "topic": "Síntese vs resumo",
+      "question": "Qual é a diferença entre uma síntese e um resumo?",
+      "answer": "Ambos condensam informação, mas a síntese pode reunir e cruzar informação de várias fontes ou partes de um texto, enquanto o resumo se foca tipicamente num único texto",
+      "explanation": "A síntese é muito usada, por exemplo, para reunir informação recolhida em diferentes textos sobre o mesmo tema.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-085",
+      "domain": "Escrita",
+      "topic": "Texto de opinião — estrutura",
+      "question": "Que três partes deve incluir, geralmente, um texto de opinião bem estruturado?",
+      "answer": "Introdução (apresentação do tema e da posição defendida), desenvolvimento (argumentos que sustentam essa posição) e conclusão",
+      "explanation": "Um bom texto de opinião apresenta os argumentos de forma organizada e coerente, evitando contradições.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-086",
+      "domain": "Escrita",
+      "topic": "Comentário",
+      "question": "O que é, tipicamente, um texto do tipo 'comentário'?",
+      "answer": "Um texto breve em que o autor exprime e justifica uma opinião ou reflexão pessoal sobre um facto, um texto ou um acontecimento",
+      "explanation": "O comentário aproxima-se do texto de opinião, mas costuma ser mais breve e centrado num único aspeto.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-087",
+      "domain": "Escrita",
+      "topic": "Biografia — escrita",
+      "question": "Ao escrever uma biografia, que tipo de informação não pode faltar?",
+      "answer": "Os principais acontecimentos da vida da pessoa, organizados de forma cronológica (nascimento, formação, feitos importantes, entre outros)",
+      "explanation": "Uma biografia bem escrita combina informação factual (datas, factos) com uma seleção criteriosa dos momentos mais relevantes.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-088",
+      "domain": "Escrita",
+      "topic": "Guião de entrevista",
+      "question": "O que é um guião de entrevista?",
+      "answer": "Um conjunto organizado de perguntas preparadas antecipadamente para orientar uma entrevista",
+      "explanation": "Um bom guião de entrevista deve incluir perguntas claras e relevantes para o objetivo da entrevista.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-089",
+      "domain": "Escrita",
+      "topic": "Coerência e coesão textual",
+      "question": "Qual é a diferença entre coerência e coesão num texto?",
+      "answer": "A coerência tem a ver com o sentido lógico e a organização global das ideias; a coesão tem a ver com os processos linguísticos que ligam essas ideias entre si",
+      "explanation": "Um texto pode ter frases bem ligadas (coesão) mas não fazer sentido no seu todo (falta de coerência), e vice-versa.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-090",
+      "domain": "Escrita",
+      "topic": "Coesão lexical",
+      "question": "O que é a coesão lexical? Dá um exemplo de um processo usado para a conseguir.",
+      "answer": "A ligação entre as ideias de um texto através da escolha cuidada do vocabulário; um dos processos é o uso de sinónimos ou de expressões equivalentes para evitar repetições",
+      "explanation": "Ex.: usar 'o animal' ou 'o felino' para evitar repetir sempre 'o gato' no mesmo texto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-091",
+      "domain": "Escrita",
+      "topic": "Coesão gramatical (correferência)",
+      "question": "O que é a correferência, como processo de coesão gramatical? Dá um exemplo.",
+      "answer": "O uso de uma palavra, como um pronome, para retomar um elemento já mencionado no texto, evitando repeti-lo; exemplo: 'A Ana chegou. Ela trazia um livro.'",
+      "explanation": "Na frase, 'ela' substitui 'a Ana', mantendo a ligação entre as duas frases sem repetir o nome.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-092",
+      "domain": "Escrita",
+      "topic": "Progressão temática",
+      "question": "O que é a progressão temática de um texto?",
+      "answer": "A forma como a informação avança ao longo do texto, introduzindo novos dados a partir do que já foi dito, sem contradições nem repetições desnecessárias",
+      "explanation": "Uma boa progressão temática torna o texto mais fácil de acompanhar, porque cada parte se liga logicamente à anterior.",
+      "difficulty": "dificil"
+    },
+    {
+      "id": "por7-093",
+      "domain": "Escrita",
+      "topic": "Parágrafo e distribuição da informação",
+      "question": "Ao planificar um texto informativo, porque é importante distribuir bem a informação por parágrafos?",
+      "answer": "Porque cada parágrafo deve desenvolver uma ideia principal diferente, o que torna o texto mais organizado e claro para o leitor",
+      "explanation": "Uma má distribuição de informação por parágrafos dificulta a compreensão da estrutura do texto.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-094",
+      "domain": "Escrita",
+      "topic": "Identificação de fontes",
+      "question": "Porque é importante identificar as fontes de onde se retira informação para um texto?",
+      "answer": "Porque é um princípio ético do trabalho intelectual, que evita o plágio e permite ao leitor verificar a origem da informação",
+      "explanation": "Copiar informação de outro autor sem identificar a fonte é considerado plágio, uma prática academicamente incorreta.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-095",
+      "domain": "Oralidade",
+      "topic": "Intenção comunicativa",
+      "question": "Indica três intenções comunicativas possíveis num discurso oral, além de informar.",
+      "answer": "Por exemplo, expor, narrar, descrever, expressar sentimentos ou persuadir",
+      "explanation": "Identificar a intenção comunicativa de quem fala ajuda o ouvinte a compreender melhor a mensagem e a reagir de forma adequada.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-096",
+      "domain": "Oralidade",
+      "topic": "Debate — convenções da interação",
+      "question": "Que convenções é importante respeitar durante um debate formal?",
+      "answer": "Por exemplo, pedir a vez para falar, não interromper os outros participantes e adaptar o registo à formalidade da situação",
+      "explanation": "Estas convenções regulam a interação discursiva e tornam o debate mais produtivo e respeitoso.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-097",
+      "domain": "Oralidade",
+      "topic": "Apresentação oral — planificação",
+      "question": "Que aspetos deve incluir a planificação de uma apresentação oral formal?",
+      "answer": "A sequenciação dos tópicos a abordar, a seleção da informação relevante e, quando necessário, a citação das fontes usadas",
+      "explanation": "Uma planificação cuidada ajuda a organizar as ideias antecipadamente e a expor o tema com mais segurança.",
+      "difficulty": "medio"
+    },
+    {
+      "id": "por7-098",
+      "domain": "Oralidade",
+      "topic": "Tomada de notas",
+      "question": "Para que serve a tomada de notas das ideias-chave durante a audição de um discurso oral?",
+      "answer": "Para sintetizar e registar a informação mais relevante, facilitando a sua posterior compreensão ou reutilização",
+      "explanation": "A tomada de notas é uma competência trabalhada tanto na compreensão do oral como na produção de resumos escritos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-099",
+      "domain": "Oralidade",
+      "topic": "Adequação do discurso à situação de comunicação",
+      "question": "O que significa adequar o discurso oral à situação de comunicação?",
+      "answer": "Ajustar o registo (formal ou informal), o vocabulário e o tom de voz consoante o destinatário e o contexto em que se fala",
+      "explanation": "Por exemplo, o registo usado numa apresentação à turma é diferente do usado numa conversa entre amigos.",
+      "difficulty": "facil"
+    },
+    {
+      "id": "por7-100",
+      "domain": "Oralidade",
+      "topic": "Avaliação do discurso próprio",
+      "question": "Porque é útil avaliar o próprio discurso oral, com base em critérios previamente definidos com o professor?",
+      "answer": "Porque permite identificar pontos fortes e aspetos a melhorar, contribuindo para o desenvolvimento progressivo da competência oral",
+      "explanation": "Esta autoavaliação incentiva o aluno a refletir sobre a sua própria comunicação, e não apenas a receber uma apreciação externa.",
+      "difficulty": "dificil"
+    }
+  ]
+}
