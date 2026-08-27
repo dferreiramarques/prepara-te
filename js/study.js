@@ -67,15 +67,17 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
   const deckKey = `${yearId}:${subjectOrGeral}`;
 
   root.innerHTML = `
-    <button class="back-link back-link--floating" id="back-link">← ${subtitle}</button>
-    <button class="tabs-toggle" id="tabs-toggle" aria-expanded="false" aria-controls="domain-tabs">
-      <span class="tabs-toggle-label" id="tabs-toggle-label">Temas <span class="tabs-toggle-count">(${domains.length})</span></span>
-      <span class="tabs-toggle-icon" aria-hidden="true">▾</span>
-    </button>
-    <nav class="tabs" id="domain-tabs" aria-label="Filtrar por domínio" hidden>
-      <button class="tab tab--all is-active" data-domain="__all__">Todos<span class="tab-count" id="count-all"></span></button>
-      ${domains.map((d) => `<button class="tab tab--${slugFor[d]}" data-domain="${d}">${d}<span class="tab-count" id="count-${d}"></span></button>`).join("")}
-    </nav>
+    <div class="study-header">
+      <button class="back-link back-link--floating" id="back-link">← ${subtitle}</button>
+      <button class="tabs-toggle" id="tabs-toggle" aria-expanded="false" aria-controls="domain-tabs">
+        <span class="tabs-toggle-label" id="tabs-toggle-label">Temas <span class="tabs-toggle-count">(${domains.length})</span></span>
+        <span class="tabs-toggle-icon" aria-hidden="true">▾</span>
+      </button>
+      <nav class="tabs" id="domain-tabs" aria-label="Filtrar por domínio" hidden>
+        <button class="tab tab--all is-active" data-domain="__all__">Todos<span class="tab-count" id="count-all"></span></button>
+        ${domains.map((d) => `<button class="tab tab--${slugFor[d]}" data-domain="${d}">${d}<span class="tab-count" id="count-${d}"></span></button>`).join("")}
+      </nav>
+    </div>
 
     <main class="stage">
       <div class="deck-meta">

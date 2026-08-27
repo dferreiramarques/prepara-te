@@ -124,6 +124,8 @@ body{
   align-items:center;
   justify-content:space-between;
   gap:12px;
+  max-width:520px;
+  margin:0 auto;
   padding:20px 18px 8px;
   position:relative;
   z-index:1;
@@ -290,8 +292,16 @@ body{
   transition:transform .12s ease, border-color .12s ease;
 }
 .back-link:active{transform:scale(.96);}
+.study-header{
+  max-width:520px;
+  margin:0 auto;
+  padding:0 18px;
+  position:relative;
+  z-index:1;
+}
+
 .back-link--floating{
-  margin:10px 0 4px 18px;
+  margin:10px 0 4px;
 }
 
 .tabs-toggle{
@@ -299,8 +309,8 @@ body{
   align-items:center;
   justify-content:space-between;
   gap:10px;
-  width:calc(100% - 36px);
-  margin:0 18px 8px;
+  width:100%;
+  margin:0 0 8px;
   background:#fff;
   border:1.5px solid rgba(38,50,62,.16);
   border-radius:100px;
@@ -338,9 +348,7 @@ body{
   display:flex;
   flex-wrap:wrap;
   gap:8px;
-  padding:10px 18px 14px;
-  position:relative;
-  z-index:1;
+  padding:10px 0 14px;
 }
 .tabs[hidden]{display:none;}
 .tab{
@@ -671,13 +679,13 @@ body{
   .stage--picker{padding-top:8px;}
 
   .back-link{padding:7px 12px; margin-bottom:8px; font-size:.78rem;}
-  .back-link--floating{margin:6px 0 2px 18px;}
+  .back-link--floating{margin:6px 0 2px;}
 
   .tabs-toggle{padding:8px 14px; margin-bottom:6px; font-size:.8rem;}
 
   .tabs{
     justify-content:center;
-    padding:8px 12px 10px;
+    padding:8px 0 10px;
   }
   .tab{
     flex:0 1 calc(50% - 4px);
