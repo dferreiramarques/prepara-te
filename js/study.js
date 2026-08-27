@@ -146,16 +146,17 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
   let pool = [];
   let history = [];
   let historyIndex = -1;
-  let activeDomain = "__all__";
+  const activeDomains = new Set();
+  const isAllActive = () => activeDomains.size === 0;
 
   function byId(id) {
     return allCards.find((c) => c.id === id);
   }
 
   function currentPoolIds() {
-    return activeDomain === "__all__"
+    return isAllActive()
       ? allCards.map((c) => c.id)
-      : allCards.filter((c) => c.domain === activeDomain).map((c) => c.id);
+      : allCards.filter((c) => activeDomains.has(c.domain)).map((c) => c.id);
   }
 
   function cardWeight(id) {
@@ -258,25 +259,32 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
   }
 
   function updateTabsToggleLabel() {
-    els.tabsToggleLabel.innerHTML =
-      activeDomain === "__all__"
-        ? `Temas <span class="tabs-toggle-count">(${domains.length})</span>`
-        : activeDomain;
+    if (isAllActive()) {
+      els.tabsToggleLabel.innerHTML = `Temas <span class="tabs-toggle-count">(${domains.length})</span>`;
+    } else if (activeDomains.size === 1) {
+      els.tabsToggleLabel.textContent = [...activeDomains][0];
+    } else {
+      els.tabsToggleLabel.textContent = `Temas (${activeDomains.size} selecionados)`;
+    }
   }
 
-  function collapseTabs() {
-    els.tabs.hidden = true;
-    els.tabsToggle.setAttribute("aria-expanded", "false");
-    els.tabsToggle.classList.remove("is-open");
-  }
-
-  function setActiveDomain(domain) {
-    activeDomain = domain;
+  function updateTabActiveClasses() {
     root.querySelectorAll(".tab").forEach((t) => {
-      t.classList.toggle("is-active", t.dataset.domain === domain);
+      const isActive = t.dataset.domain === "__all__" ? isAllActive() : activeDomains.has(t.dataset.domain);
+      t.classList.toggle("is-active", isActive);
     });
+  }
+
+  function toggleDomain(domain) {
+    if (domain === "__all__") {
+      activeDomains.clear();
+    } else if (activeDomains.has(domain)) {
+      activeDomains.delete(domain);
+    } else {
+      activeDomains.add(domain);
+    }
+    updateTabActiveClasses();
     updateTabsToggleLabel();
-    collapseTabs();
     history = [];
     historyIndex = -1;
     showNext();
@@ -304,7 +312,7 @@ export async function renderStudy(root, catalog, yearId, subjectOrGeral) {
   els.tabs.addEventListener("click", (e) => {
     const btn = e.target.closest(".tab");
     if (!btn) return;
-    setActiveDomain(btn.dataset.domain);
+    toggleDomain(btn.dataset.domain);
   });
   els.resetBtn.addEventListener("click", () => {
     if (!confirm("Reiniciar o progresso guardado neste dispositivo para esta escolha?")) return;
